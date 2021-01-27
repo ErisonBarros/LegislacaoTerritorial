@@ -46,16 +46,16 @@ preservação do meio ambiente e das condições naturais de certos espaços ter
 
 As unidades de conservação integrantes do SNUC dividem-se em dois grupos, com
 características específicas:
-I - Unidades de Proteção Integral;
-II - Unidades de Uso Sustentável.
+- I - Unidades de Proteção Integral;
+- II - Unidades de Uso Sustentável.
 
 O grupo das Unidades de Proteção Integral é composto pelas seguintes categorias de
 unidade de conservação:
-I - Estação Ecológica
-II - Reserva Biológica
-III - Parque Nacional
-IV - Monumento Natural
-V - Refúgio de Vida Silvestre
+- I - Estação Ecológica
+- II - Reserva Biológica
+- III - Parque Nacional
+- IV - Monumento Natural
+- V - Refúgio de Vida Silvestre
 
 ------------
 
