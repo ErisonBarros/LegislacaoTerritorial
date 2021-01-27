@@ -1,8 +1,3 @@
----
-
-27/01/2021
----
-
 <h1 id="legislação-territorial">Legislação Territorial</h1>
 
 <table>
