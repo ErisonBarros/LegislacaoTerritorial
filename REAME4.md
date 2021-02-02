@@ -45,7 +45,10 @@ Estabelece as Especificações e Normas Gerais para Levantamentos Geodésicos em
 
 **IBGE Resolução N° 5 (31 de março de 1993)**  
 Estabelece as Especificações e Normas Gerais para Levantamentos GPS: versão  preliminar, a serem empregadas em território brasileiro.
+
+[**Decreto s/n°, de 21 de Junho de 1994**](https://esteio.com.br/downloads/legislacao/LEGISLA_CONCAR_1994_D.pdf)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDE4NTQwNiwxMTE5NDkzNjEyLDk1Nz
-k2MjQ4OF19
+eyJoaXN0b3J5IjpbLTE1MzEwOTg3NCwxNzAwMTg1NDA2LDExMT
+k0OTM2MTIsOTU3OTYyNDg4XX0=
 -->
