@@ -70,10 +70,6 @@ Fixa as Diretrizes e Bases da Cartografia Brasileira e dá outras providências.
 
 -   [Constituição Federal (referências à cartografia)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=17).
 
-
-Obriga as instituições financeiras a usarem sensoriamento remoto para análise de  
-concessão de crédito agrícola.
-
 **[Nota Técnica Término do Período de Transição para Adoção no Brasil do Sistema de  
 Referência Geocêntrico para as Américas (SIRGAS)](webcache.googleusercontent.com/search?q=cache:cTJ55ef27OcJ:ftp://geoftp.ibge.gov.br/metodos_e_outros_documentos_de_referencia/normas/nota_tecnica_termino_periodo_transicao_sirgas2000.pdf%20&cd=1&hl=pt-BR&ct=clnk&gl=br)**
 Procedimentos para migração de coordenadas geodésicas e de produtos cartográficos  
@@ -124,7 +120,7 @@ Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O
 [Medida Provisória n° 1.498-19, de 9 de Julho de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=14).
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjM4MTAwNCwtOTI3NDgzNDcsLTE1Mz
+eyJoaXN0b3J5IjpbLTY5OTYzNDQ4NCwtOTI3NDgzNDcsLTE1Mz
 EwOTg3NCwxNzAwMTg1NDA2LDExMTk0OTM2MTIsOTU3OTYyNDg4
 XX0=
 -->
