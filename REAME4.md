@@ -53,11 +53,14 @@ Especificações e Normas Gerais para Levantamentos GPS (preliminares)
 Parâmetros para Transformação de Sistemas Geodésicos
 
 [Decreto n° 89.817, de 20 de Junho de 1984](https://esteio.com.br/downloads/legislacao/LEGISLA_DECRETO_89817_D.pdf)
+Estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacional.
 
 [Resolução PR n° 22, de 21 de Julho de 1983](https://esteio.com.br/downloads/legislacao/LEGISLA_RESOLUCAO_D.pdf).
 [Decreto-Lei n° 2267 regulamenta o Decreto-Lei n.° 1.177, de 21 de junho de 1971](https://esteio.com.br/downloads/legislacao/LEGISLA_DECRETO_2267_D.pdf).
+Estabelece as Especificações e Normas Gerais para Levantamentos Geodésicos em território brasileiro e efetua alteração no Apêndice II da Resolução da Presidência do IBGE N° 22, de 21/07/83, relacionada a Parâmetros para Transformação.
 
 [Decreto-Lei n° 1.177, de 21 de Junho de 1971](https://esteio.com.br/downloads/legislacao/_decreto-lei1177.pdf)
+Dispõe sobre aerolevantamentos no território nacional e dá outras providências.
 
 [**Resolução Nº 4.427 de 25 de junho de 2015 do Banco Central**](https://www.bcb.gov.br/pre/normativos/res/2015/pdf/res_4427_v1_O.pdf)
 
@@ -103,6 +106,6 @@ Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMjM4NTc3LC0xNTMxMDk4NzQsMTcwMD
+eyJoaXN0b3J5IjpbLTkyNzQ4MzQ3LC0xNTMxMDk4NzQsMTcwMD
 E4NTQwNiwxMTE5NDkzNjEyLDk1Nzk2MjQ4OF19
 -->
