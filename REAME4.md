@@ -6,8 +6,11 @@
 
 Lista com Leis, Decretos e Resoluções referentes à Legislação da Cartografia Nacional:
 
+[Constituição de 1988](http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
+Artigos da Constituição da República Federativa do Brasil que fazem referência à  Cartografia: Título III (Da Organização do Estado) – Capítulo II (Da União): Artigos 21 e 22.
 
-**Decreto Nº 89.817, de 20 de junho de 1984**
+
+**[Decreto Nº 89.817, de 20 de junho de 1984](http://www.planalto.gov.br/ccivil_03/decreto/1980-1989/D89817.htm)**
 Estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacional.
 
 
@@ -31,5 +34,5 @@ Dá nova redação ao art. 21 e revoga o art. 22 do [Decreto no 89.817, de 20 de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk4MDQ5MjldfQ==
+eyJoaXN0b3J5IjpbLTIyNzAwNTIxOF19
 -->
