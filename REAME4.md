@@ -111,6 +111,7 @@ Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O
 -   [Especificações Gerais e Padronização para Elaboração das Normas Cartográficas Brasileiras (NCB – CC/G 0001/84)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=21)
 -   [Especificações e Normas Gerais para Levantamentos Geodésicos em Território Nacional (IBGE Resolução PR n° 22, de 21 de julho de 1983)](https://esteio.com.br/downloads/legislacao/bservico1602.pdf)
 
+Normas Técnicas de Topografia 
 
 
 **Coletânea de Normas e Medidas Provisórias**
@@ -120,7 +121,7 @@ Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O
 [Medida Provisória n° 1.498-19, de 9 de Julho de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=14).
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTYzNDQ4NCwtOTI3NDgzNDcsLTE1Mz
-EwOTg3NCwxNzAwMTg1NDA2LDExMTk0OTM2MTIsOTU3OTYyNDg4
-XX0=
+eyJoaXN0b3J5IjpbNTQyMzY5OTUxLC02OTk2MzQ0ODQsLTkyNz
+Q4MzQ3LC0xNTMxMDk4NzQsMTcwMDE4NTQwNiwxMTE5NDkzNjEy
+LDk1Nzk2MjQ4OF19
 -->
