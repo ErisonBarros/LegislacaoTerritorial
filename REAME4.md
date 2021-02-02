@@ -10,6 +10,8 @@ Lista com Leis, Decretos e Resoluções referentes à Legislação da Cartografi
 Este Decreto-Lei regulamenta o Decreto-Lei Nº 1.177, de 21 de junho de 1971, que dispõe  
 sobre aerolevantamentos no território nacional e dá outras providências.
 
+
+
 **[Constituição de 1988](http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)**
 Artigos da Constituição da República Federativa do Brasil que fazem referência à  Cartografia: Título III (Da Organização do Estado) – Capítulo II (Da União): Artigos 21 e 22.
 
@@ -39,5 +41,5 @@ Dá nova redação ao art. 21 e revoga o art. 22 do [Decreto no 89.817, de 20 de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3OTYyNDg4XX0=
+eyJoaXN0b3J5IjpbMTMxMDExMDg3Niw5NTc5NjI0ODhdfQ==
 -->
