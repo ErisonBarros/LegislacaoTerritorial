@@ -6,13 +6,13 @@
 
 Lista com Leis, Decretos e Resoluções referentes à Legislação da Cartografia Nacional:
 
-**Resolução Nº 4.427 de 25 de junho de 2015 do Banco Central**
+[**Resolução Nº 4.427 de 25 de junho de 2015 do Banco Central**](https://www.bcb.gov.br/pre/normativos/res/2015/pdf/res_4427_v1_O.pdf)
 
 Obriga as instituições financeiras a usarem sensoriamento remoto para análise de  
 concessão de crédito agrícola.
 
-**Nota Técnica Término do Período de Transição para Adoção no Brasil do Sistema de  
-Referência Geocêntrico para as Américas (SIRGAS)**
+**[Nota Técnica Término do Período de Transição para Adoção no Brasil do Sistema de  
+Referência Geocêntrico para as Américas (SIRGAS)](webcache.googleusercontent.com/search?q=cache:cTJ55ef27OcJ:ftp://geoftp.ibge.gov.br/metodos_e_outros_documentos_de_referencia/normas/nota_tecnica_termino_periodo_transicao_sirgas2000.pdf%20&cd=1&hl=pt-BR&ct=clnk&gl=br)**
 Procedimentos para migração de coordenadas geodésicas e de produtos cartográficos  
 referenciados aos sistemas Córrego Alegre, SAD 69, WGS 84 para o SIRGAS2000.
 
@@ -25,5 +25,5 @@ Dá nova redação ao art. 21 e revoga o art. 22 do [Decreto no 89.817, de 20 de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MTcyODI1XX0=
+eyJoaXN0b3J5IjpbNjM0NzU4OTk3XX0=
 -->
