@@ -112,9 +112,10 @@ Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O
 -   [Especificações e Normas Gerais para Levantamentos Geodésicos em Território Nacional (IBGE Resolução PR n° 22, de 21 de julho de 1983)](https://esteio.com.br/downloads/legislacao/bservico1602.pdf)
 
 ## Normas Técnicas de Topografia 
-NBR-13133
+**NBR-13133**
 http://www.carto.eng.uerj.br/cdecart/download/NBR13133.pdf
-
+**NBR-14166**
+http://www.carto.eng.uerj.br/cdecart/download/NBR14166.pdf
 
 
 
@@ -125,7 +126,7 @@ http://www.carto.eng.uerj.br/cdecart/download/NBR13133.pdf
 [Medida Provisória n° 1.498-19, de 9 de Julho de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=14).
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTI2ODEwNSwtNjk5NjM0NDg0LC05Mj
-c0ODM0NywtMTUzMTA5ODc0LDE3MDAxODU0MDYsMTExOTQ5MzYx
-Miw5NTc5NjI0ODhdfQ==
+eyJoaXN0b3J5IjpbLTEzNTAxOTIwNjMsLTY5OTYzNDQ4NCwtOT
+I3NDgzNDcsLTE1MzEwOTg3NCwxNzAwMTg1NDA2LDExMTk0OTM2
+MTIsOTU3OTYyNDg4XX0=
 -->
