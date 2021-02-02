@@ -61,6 +61,8 @@ Estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacio
 
 [Medida Provisória n° 1.498-19, de 9 de Julho de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=14).
 
+## Constituição Federal
+
 -   [Constituição Federal (referências à cartografia)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=17).
 
 Obriga as instituições financeiras a usarem sensoriamento remoto para análise de  
@@ -96,6 +98,6 @@ Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjU2NjE2NywtMTUzMTA5ODc0LDE3MD
+eyJoaXN0b3J5IjpbLTc3NTU1Mjc5OSwtMTUzMTA5ODc0LDE3MD
 AxODU0MDYsMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ==
 -->
