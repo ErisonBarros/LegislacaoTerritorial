@@ -30,16 +30,22 @@ Estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacio
 [Decreto N° 6.666, de 27 de novembro de 2008](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Decreto/D6666.htm).
 
 [Resolução PR n° 01, de 25 de Fevereiro de 2005:](https://esteio.com.br/downloads/legislacao/RPR_01_25fev2005.pdf)
+## Portarias
 [Portaria DECEA n° 128/DECEA, de 10 de Junho de 2003](https://esteio.com.br/downloads/legislacao/_ica63-13.pdf).
 
+[Portaria n° 190/GC-5, de 20 Março de 2001](https://esteio.com.br/downloads/legislacao/_portaria190.pdf)
 
+## Decretos
 
+[Decreto s/n°, de 10 de Maio de 2000](https://esteio.com.br/downloads/legislacao/LEGISLA_DECRETO_10_D.pdf).
 
-
-
-
+[Portaria n° 0637 SC-6/FA-61, de 05 de Março de 1998](https://esteio.com.br/downloads/legislacao/_portaria0637.pdf).
+[Decreto n° 2.278, de 17 de Julho de 1997](https://esteio.com.br/downloads/legislacao/_decreto2278.pdf).
+[Decreto n° 1.792, de 15 de Janeiro de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=13).
 
 [**Resolução Nº 4.427 de 25 de junho de 2015 do Banco Central**](https://www.bcb.gov.br/pre/normativos/res/2015/pdf/res_4427_v1_O.pdf)
+
+[Medida Provisória n° 1.498-19, de 9 de Julho de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=14).
 
 Obriga as instituições financeiras a usarem sensoriamento remoto para análise de  
 concessão de crédito agrícola.
@@ -74,6 +80,6 @@ Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzQwNjQ3NSwtMTUzMTA5ODc0LDE3MD
-AxODU0MDYsMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ==
+eyJoaXN0b3J5IjpbMTA1NjM0NTM0LC0xNTMxMDk4NzQsMTcwMD
+E4NTQwNiwxMTE5NDkzNjEyLDk1Nzk2MjQ4OF19
 -->
