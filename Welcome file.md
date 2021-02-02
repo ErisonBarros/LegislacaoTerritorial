@@ -9,17 +9,17 @@ StackEdit armazena seus arquivos em seu navegador, o que significa que todos os 
 
 ## Crie arquivos e pastas
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+O explorador de arquivos pode ser acessado usando o botão no canto esquerdo da barra de navegação. Você pode criar um novo arquivo clicando no botão ** Novo arquivo ** no explorador de arquivos. Você também pode criar pastas clicando no botão ** Nova pasta ** .
 
-## Switch to another file
+## Mudar para outro arquivo
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+Todos os seus arquivos e pastas são alternativos como uma árvore no explorador de arquivos. Você pode alternar de um para outro clicando em um arquivo na árvore.
 
-## Rename a file
+## Renomear um arquivo
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+Você pode renomear o arquivo atual clicando no nome do arquivo na barra de navegação ou clicando no botão ** Renomear ** no explorador de arquivos.
 
-## Delete a file
+## Excluir um arquivo
 
 You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
@@ -142,5 +142,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjU4MDQzOV19
+eyJoaXN0b3J5IjpbNzU5ODAxODgxXX0=
 -->
