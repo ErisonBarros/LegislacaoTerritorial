@@ -47,13 +47,9 @@ O grupo das Unidades de Proteção Integral é composto pelas seguintes categori
 
 - I - Estação Ecológica 
 -  II - Reserva Biológica 
-- - III - Parque Nacional 
-- - IV - Monumento Natural 
-- - V - Refúgio de Vida Silvestre
-
-
-
-
+- III - Parque Nacional 
+- IV - Monumento Natural 
+- V - Refúgio de Vida Silvestre
 
 ------------
 
@@ -66,5 +62,6 @@ Constituinte do Grupo das Unidades de Uso Sustentável as seguintes unidades de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzIyNzczMywtMTIyNDYxMTA4MF19
+eyJoaXN0b3J5IjpbLTE1ODQ1NjQzOTAsLTEyMjQ2MTEwODBdfQ
+==
 -->
