@@ -44,8 +44,8 @@ Dá nova redação ao art. 21 e revoga o art. 22 do [Decreto no 89.817, de 20 de
 Estabelece as Especificações e Normas Gerais para Levantamentos Geodésicos em  território brasileiro e efetua alteração no Apêndice II da Resolução da Presidência do  IBGE Nº 22, de 21/07/83, relacionada a Parâmetros para Transformação.
 
 **IBGE Resolução N° 5 (31 de março de 1993)**  
-Estabelece as Especificações e Normas Gerais para Levantamentos GPS: versão  
-preliminar, a serem empregadas em território brasileiro.
+Estabelece as Especificações e Normas Gerais para Levantamentos GPS: versão  preliminar, a serem empregadas em território brasileiro.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ==
+eyJoaXN0b3J5IjpbMTcwMDE4NTQwNiwxMTE5NDkzNjEyLDk1Nz
+k2MjQ4OF19
 -->
