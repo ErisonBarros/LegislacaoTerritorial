@@ -33,15 +33,22 @@ Aprova Instruções Reguladoras para autorização e funcionamento de empresas d
 ## Decretos
 
 [Decreto s/n°, de 10 de Maio de 2000](https://esteio.com.br/downloads/legislacao/LEGISLA_DECRETO_10_D.pdf).
+Dispõe sobre a Comissão Nacional de Cartografia – CONCAR, e dá outras providências.
 
 [Portaria n° 0637 SC-6/FA-61, de 05 de Março de 1998](https://esteio.com.br/downloads/legislacao/_portaria0637.pdf).
 
 [Decreto n° 2.278, de 17 de Julho de 1997](https://esteio.com.br/downloads/legislacao/_decreto2278.pdf).
+Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério do Planejamento, Orçamento e Gestão, e dá outras providências.
+
 [Decreto n° 1.792, de 15 de Janeiro de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=13).
+Aprova as Instruções Reguladoras de Aerolevantamento no território nacional.
 
 [Decreto s/n°, de 21 de Junho de 1994](https://esteio.com.br/downloads/legislacao/LEGISLA_CONCAR_1994_D.pdf).
+Regulamenta o Decreto-Lei n° 1.177, de 21 de Junho de 1971, que dispõe sobre aerolevantamentos no território nacional, e dá outras providências.
 
 [Resolução PR n° 05, de 31 de Março de 1993:](https://esteio.com.br/downloads/legislacao/normas_gps.pdf)
+Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Ministério do Planejamento e Orçamento e dá outras providências.
+
 [Resolução PR n° 23, de 21 de Fevereiro de 1989:](https://esteio.com.br/downloads/legislacao/rpr_2389.pdf)
 [Decreto n° 89.817, de 20 de Junho de 1984](https://esteio.com.br/downloads/legislacao/LEGISLA_DECRETO_89817_D.pdf)
 
@@ -94,6 +101,6 @@ Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODQzOTE4OCwtMTUzMTA5ODc0LDE3MD
-AxODU0MDYsMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ==
+eyJoaXN0b3J5IjpbNjM3MTQyMDAxLC0xNTMxMDk4NzQsMTcwMD
+E4NTQwNiwxMTE5NDkzNjEyLDk1Nzk2MjQ4OF19
 -->
