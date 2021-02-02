@@ -9,18 +9,26 @@ Lista com Leis, Decretos e Resoluções referentes à Legislação da Cartografi
 ## Resolução
 
 [Resolução PR n° 01, de 24 de Fevereiro de 2015:](https://esteio.com.br/downloads/legislacao/rpr_01_2015_sirgas2000.pdf)
+Define a data de término do período de transição definido na RPR 01/2005 e dá outras providências sobre a transformação entre os referenciais geodésicos adotados no Brasil.
 
 [Resolução PR n° 04, de 18 de Fevereiro de 2012:](https://esteio.com.br/downloads/legislacao/RPR04_de_18_04_2012.pdf)
+Caracterização do Sistema Geodésico Brasileiro.
 
 [Resolução CONCAR 001/2009 de dezembro de 2009:](https://esteio.com.br/downloads/legislacao/Resolucao_1_2009_CONCAR_Metadados.pdf)
+Homologa o Perfil de Metadados Geoespaciais do Brasil
 
 [Decreto N° 6.666, de 27 de novembro de 2008](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Decreto/D6666.htm).
+Institui no âmbito do Poder Executivo Federal, a Infraestrutura Nacional de Dados Espaciais (INDE).
 
 [Resolução PR n° 01, de 25 de Fevereiro de 2005:](https://esteio.com.br/downloads/legislacao/RPR_01_25fev2005.pdf)
+Caracterização do Sistema Geodésico Brasileiro.
+
 ## Portarias
 [Portaria DECEA n° 128/DECEA, de 10 de Junho de 2003](https://esteio.com.br/downloads/legislacao/_ica63-13.pdf).
+Aprova a edição da Instrução do Comando da Aeronáutica ICA 63-13, Procedimentos dos órgãos do SISCEAB Relacionados com AVOEM e AVODAC.
 
 [Portaria n° 190/GC-5, de 20 Março de 2001](https://esteio.com.br/downloads/legislacao/_portaria190.pdf)
+Aprova Instruções Reguladoras para autorização e funcionamento de empresas de táxi aéreo e de serviço aéreo especializado e dá outras providências.
 
 ## Decretos
 
@@ -86,6 +94,6 @@ Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDU3OTY5OTUsLTE1MzEwOTg3NCwxNz
-AwMTg1NDA2LDExMTk0OTM2MTIsOTU3OTYyNDg4XX0=
+eyJoaXN0b3J5IjpbMTIyODQzOTE4OCwtMTUzMTA5ODc0LDE3MD
+AxODU0MDYsMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ==
 -->
