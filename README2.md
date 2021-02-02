@@ -11,8 +11,6 @@ Fonte: [http: // http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%
 * Lei 9.605 / 98 * - Uma chamada Lei de Crimes Ambientais. Definir, em seu artigo 60, como crime ambiental passível de detenção, multa ou ambos, cumulativamente, a prática de atividades potencialmente poluidoras sem o devido licenciamento ambiental. Fonte: http: // http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf
 
 
-
-
 ## CONSERVAÇÃO
 
 Uso sustentável dos recursos naturais como o solo, a água, as plantas, os animais e os minerais. A conservação inclui também a manutenção das reservas naturais da fauna autóctona (do local), enquanto do ponto de vista cultural inclui uma preservação dos lugares históricos.
@@ -64,5 +62,5 @@ Constituinte do Grupo das Unidades de Uso Sustentável as seguintes unidades de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTkzNzQ4XX0=
+eyJoaXN0b3J5IjpbLTEyMjQ2MTEwODBdfQ==
 -->
