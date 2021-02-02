@@ -19,12 +19,18 @@ Artigos da Constituição da República Federativa do Brasil que fazem referênc
 
 **[Decreto Nº 89.817, de 20 de junho de 1984](http://www.planalto.gov.br/ccivil_03/decreto/1980-1989/D89817.htm)**
 Estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacional.
-## Resolu
+## Resolução
 
+[Resolução PR n° 01, de 24 de Fevereiro de 2015:](https://esteio.com.br/downloads/legislacao/rpr_01_2015_sirgas2000.pdf)
 
+[Resolução PR n° 04, de 18 de Fevereiro de 2012:](https://esteio.com.br/downloads/legislacao/RPR04_de_18_04_2012.pdf)
 
+[Resolução CONCAR 001/2009 de dezembro de 2009:](https://esteio.com.br/downloads/legislacao/Resolucao_1_2009_CONCAR_Metadados.pdf)
 
+[Decreto N° 6.666, de 27 de novembro de 2008](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Decreto/D6666.htm).
 
+[Resolução PR n° 01, de 25 de Fevereiro de 2005:](https://esteio.com.br/downloads/legislacao/RPR_01_25fev2005.pdf)
+[Portaria DECEA n° 128/DECEA, de 10 de Junho de 2003](https://esteio.com.br/downloads/legislacao/_ica63-13.pdf).
 
 
 
@@ -68,6 +74,6 @@ Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjM2ODc0MywtMTUzMTA5ODc0LDE3MD
+eyJoaXN0b3J5IjpbMjEwMzQwNjQ3NSwtMTUzMTA5ODc0LDE3MD
 AxODU0MDYsMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ==
 -->
