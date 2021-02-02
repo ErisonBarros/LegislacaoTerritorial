@@ -21,7 +21,7 @@
 </table><h2 id="ementa">Ementa</h2>
 <ul>
 <li><a href="https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/README3.md">Direito das Coisas</a>;</li>
-<li>Direito Civil;</li>
+<li><aDireito Civil;</li>
 <li>Direito Urbanístico;</li>
 <li>Direito Agrário;</li>
 <li>Legislação Cartográfica;</li>
@@ -56,3 +56,6 @@ b.	Seminário em Grupo sobre Proposta de Parcelamento de uma Gleba Urbana para f
 <h2 id="unidades-programáticas">UNIDADES PROGRAMÁTICAS</h2>
 <p><a href="http://https://1drv.ms/x/s!AjO4oAHV5BZuioozg3Ez9_Rd86UWbg?e=sxfTQx" title="UNIDADES PROGRAMÁTICAS">UNIDADES PROGRAMÁTICAS</a></p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzI4Mjg1ODQxXX0=
+-->
