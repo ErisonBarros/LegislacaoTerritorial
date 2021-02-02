@@ -6,6 +6,12 @@
 
 Lista com Leis, Decretos e Resoluções referentes à Legislação da Cartografia Nacional:
 
+
+**Decreto Nº 89.817, de 20 de junho de 1984**
+Estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacional.
+
+
+
 [**Resolução Nº 4.427 de 25 de junho de 2015 do Banco Central**](https://www.bcb.gov.br/pre/normativos/res/2015/pdf/res_4427_v1_O.pdf)
 
 Obriga as instituições financeiras a usarem sensoriamento remoto para análise de  
@@ -25,5 +31,5 @@ Dá nova redação ao art. 21 e revoga o art. 22 do [Decreto no 89.817, de 20 de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0NzU4OTk3XX0=
+eyJoaXN0b3J5IjpbLTE3NTk4MDQ5MjldfQ==
 -->
