@@ -62,11 +62,9 @@ Estabelece as Especificações e Normas Gerais para Levantamentos Geodésicos em
 [Decreto-Lei n° 1.177, de 21 de Junho de 1971](https://esteio.com.br/downloads/legislacao/_decreto-lei1177.pdf)
 Dispõe sobre aerolevantamentos no território nacional e dá outras providências.
 
-[**Resolução Nº 4.427 de 25 de junho de 2015 do Banco Central**](https://www.bcb.gov.br/pre/normativos/res/2015/pdf/res_4427_v1_O.pdf)
-
 [Decreto-Lei n° 243, de 28 de fevereiro de 1967](https://esteio.com.br/downloads/legislacao/decreto243.pdf).
+Fixa as Diretrizes e Bases da Cartografia Brasileira e dá outras providências.
 
-[Medida Provisória n° 1.498-19, de 9 de Julho de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=14).
 
 ## Constituição Federal
 
@@ -99,13 +97,15 @@ Estabelece as Especificações e Normas Gerais para Levantamentos GPS: versão  
 Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, inciso IV e VI, da Constituição, e de acordo como o art. 4º da Lei nº 8490.
 
 
-
-
-
 **Coletânea de Normas**
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 
+[**Resolução Nº 4.427 de 25 de junho de 2015 do Banco Central**](https://www.bcb.gov.br/pre/normativos/res/2015/pdf/res_4427_v1_O.pdf)
+
+[Medida Provisória n° 1.498-19, de 9 de Julho de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=14).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzQ4MzQ3LC0xNTMxMDk4NzQsMTcwMD
-E4NTQwNiwxMTE5NDkzNjEyLDk1Nzk2MjQ4OF19
+eyJoaXN0b3J5IjpbLTIwNTc3MTA0MDksLTkyNzQ4MzQ3LC0xNT
+MxMDk4NzQsMTcwMDE4NTQwNiwxMTE5NDkzNjEyLDk1Nzk2MjQ4
+OF19
 -->
