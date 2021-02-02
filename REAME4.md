@@ -39,11 +39,13 @@ providências sobre a transformação entre os referenciais geodésicos adotados
 **[Decreto Nº 5.334 de 6 de janeiro de 2005](http://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Decreto/D5334.htm#:~:text=D%C3%A1%20nova%20reda%C3%A7%C3%A3o%20ao%20art.&text=22%20do%20Decreto%20n%C2%BA%2089.817,Normas%20T%C3%A9cnicas%20da%20Cartografia%20Nacional.)**
 Dá nova redação ao art. 21 e revoga o art. 22 do [Decreto no 89.817, de 20 de junho de  1984](http://www.planalto.gov.br/ccivil_03/decreto/1980-1989/D89817.htm#:~:text=Estabelece%20as%20Instru%C3%A7%C3%B5es%20Reguladoras%20das%20Normas%20T%C3%A9cnicas%20da%20Cartografia%20Nacional.), que estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia   Nacional.
 
-**IBGE Resoluções 22 e 23 (21 de junho de 1983 e Alteração de 27 de fevereiro de 1989)**
+[**IBGE Resoluções 22 e 23 (21 de junho de 1983 e Alteração de 27 de fevereiro de 1989)**](https://www.ibge.gov.br/geociencias/informacoes-sobre-posicionamento-geodesico/sirgas/16691-projeto-mudanca-do-referencial-geodesico-pmrg.html?=&t=o-que-e)
 
 Estabelece as Especificações e Normas Gerais para Levantamentos Geodésicos em  território brasileiro e efetua alteração no Apêndice II da Resolução da Presidência do  IBGE Nº 22, de 21/07/83, relacionada a Parâmetros para Transformação.
 
-
+**IBGE Resolução N° 5 (31 de março de 1993)**  
+Estabelece as Especificações e Normas Gerais para Levantamentos GPS: versão  
+preliminar, a serem empregadas em território brasileiro.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjEyODI2OCw5NTc5NjI0ODhdfQ==
+eyJoaXN0b3J5IjpbMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ==
 -->
