@@ -96,6 +96,16 @@ Estabelece as Especificações e Normas Gerais para Levantamentos GPS: versão  
 [**Decreto s/n°, de 21 de Junho de 1994**](https://esteio.com.br/downloads/legislacao/LEGISLA_CONCAR_1994_D.pdf)
 Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, inciso IV e VI, da Constituição, e de acordo como o art. 4º da Lei nº 8490.
 
+## Normas e Especificações Técnicas
+
+-   [Norma de Execução n°105, de 26 de novembro de 2012 para certificação de Imóveis Rurais](https://esteio.com.br/downloads/legislacao/norma_aprovacao_incra.pdf)
+- 
+-   [Nota Técnica/INCRA/DFG/N° 01/2010, de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/nota_tecnica_dfg_01_2010.pdf)
+- 
+
+
+
+
 
 **Coletânea de Normas**
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
@@ -105,7 +115,7 @@ https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 [Medida Provisória n° 1.498-19, de 9 de Julho de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=14).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc3MTA0MDksLTkyNzQ4MzQ3LC0xNT
-MxMDk4NzQsMTcwMDE4NTQwNiwxMTE5NDkzNjEyLDk1Nzk2MjQ4
-OF19
+eyJoaXN0b3J5IjpbMTIwMTIwMzExOSwtOTI3NDgzNDcsLTE1Mz
+EwOTg3NCwxNzAwMTg1NDA2LDExMTk0OTM2MTIsOTU3OTYyNDg4
+XX0=
 -->
