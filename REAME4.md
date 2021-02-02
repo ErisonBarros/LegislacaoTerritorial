@@ -44,12 +44,14 @@ Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e
 Aprova as Instruções Reguladoras de Aerolevantamento no território nacional.
 
 [Decreto s/n°, de 21 de Junho de 1994](https://esteio.com.br/downloads/legislacao/LEGISLA_CONCAR_1994_D.pdf).
-Regulamenta o Decreto-Lei n° 1.177, de 21 de Junho de 1971, que dispõe sobre aerolevantamentos no território nacional, e dá outras providências.
+Cria a Comissão Nacional de Cartografia – CONCAR, e dá outras providências.
 
 [Resolução PR n° 05, de 31 de Março de 1993:](https://esteio.com.br/downloads/legislacao/normas_gps.pdf)
-Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Ministério do Planejamento e Orçamento e dá outras providências.
+Especificações e Normas Gerais para Levantamentos GPS (preliminares)
 
 [Resolução PR n° 23, de 21 de Fevereiro de 1989:](https://esteio.com.br/downloads/legislacao/rpr_2389.pdf)
+Parâmetros para Transformação de Sistemas Geodésicos
+
 [Decreto n° 89.817, de 20 de Junho de 1984](https://esteio.com.br/downloads/legislacao/LEGISLA_DECRETO_89817_D.pdf)
 
 [Resolução PR n° 22, de 21 de Julho de 1983](https://esteio.com.br/downloads/legislacao/LEGISLA_RESOLUCAO_D.pdf).
@@ -101,6 +103,6 @@ Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3MTQyMDAxLC0xNTMxMDk4NzQsMTcwMD
+eyJoaXN0b3J5IjpbOTcwMjM4NTc3LC0xNTMxMDk4NzQsMTcwMD
 E4NTQwNiwxMTE5NDkzNjEyLDk1Nzk2MjQ4OF19
 -->
