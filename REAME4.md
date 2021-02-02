@@ -47,11 +47,14 @@ Estabelece as Especificações e Normas Gerais para Levantamentos Geodésicos em
 Estabelece as Especificações e Normas Gerais para Levantamentos GPS: versão  preliminar, a serem empregadas em território brasileiro.
 
 [**Decreto s/n°, de 21 de Junho de 1994**](https://esteio.com.br/downloads/legislacao/LEGISLA_CONCAR_1994_D.pdf)
+Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, inciso IV e VI, da Constituição, e de acordo como o art. 4º da Lei nº 8490,
 
 
 
 **Coletânea de Normas**
+https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxMDk1NDQ4LC0xNTMxMDk4NzQsMTcwMD
+eyJoaXN0b3J5IjpbNzYyNDc1NzI5LC0xNTMxMDk4NzQsMTcwMD
 E4NTQwNiwxMTE5NDkzNjEyLDk1Nzk2MjQ4OF19
 -->
