@@ -40,20 +40,28 @@ Estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacio
 [Decreto s/n°, de 10 de Maio de 2000](https://esteio.com.br/downloads/legislacao/LEGISLA_DECRETO_10_D.pdf).
 
 [Portaria n° 0637 SC-6/FA-61, de 05 de Março de 1998](https://esteio.com.br/downloads/legislacao/_portaria0637.pdf).
+
 [Decreto n° 2.278, de 17 de Julho de 1997](https://esteio.com.br/downloads/legislacao/_decreto2278.pdf).
 [Decreto n° 1.792, de 15 de Janeiro de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=13).
 
 [Decreto s/n°, de 21 de Junho de 1994](https://esteio.com.br/downloads/legislacao/LEGISLA_CONCAR_1994_D.pdf).
+
 [Resolução PR n° 05, de 31 de Março de 1993:](https://esteio.com.br/downloads/legislacao/normas_gps.pdf)
 [Resolução PR n° 23, de 21 de Fevereiro de 1989:](https://esteio.com.br/downloads/legislacao/rpr_2389.pdf)
 [Decreto n° 89.817, de 20 de Junho de 1984](https://esteio.com.br/downloads/legislacao/LEGISLA_DECRETO_89817_D.pdf)
+
 [Resolução PR n° 22, de 21 de Julho de 1983](https://esteio.com.br/downloads/legislacao/LEGISLA_RESOLUCAO_D.pdf).
 [Decreto-Lei n° 2267 regulamenta o Decreto-Lei n.° 1.177, de 21 de junho de 1971](https://esteio.com.br/downloads/legislacao/LEGISLA_DECRETO_2267_D.pdf).
 
+[Decreto-Lei n° 1.177, de 21 de Junho de 1971](https://esteio.com.br/downloads/legislacao/_decreto-lei1177.pdf)
 
 [**Resolução Nº 4.427 de 25 de junho de 2015 do Banco Central**](https://www.bcb.gov.br/pre/normativos/res/2015/pdf/res_4427_v1_O.pdf)
 
+[Decreto-Lei n° 243, de 28 de fevereiro de 1967](https://esteio.com.br/downloads/legislacao/decreto243.pdf).
+
 [Medida Provisória n° 1.498-19, de 9 de Julho de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=14).
+
+-   [Constituição Federal (referências à cartografia)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=17).
 
 Obriga as instituições financeiras a usarem sensoriamento remoto para análise de  
 concessão de crédito agrícola.
@@ -88,6 +96,6 @@ Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjM0Mjc2NCwtMTUzMTA5ODc0LDE3MD
+eyJoaXN0b3J5IjpbMTM5NjU2NjE2NywtMTUzMTA5ODc0LDE3MD
 AxODU0MDYsMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ==
 -->
