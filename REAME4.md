@@ -3,6 +3,15 @@
 **Prof. Erison Rosa de Oliveira Barros**
 
 ## LEGISLAÇÃO CARTOGRÁFICA NACIONAL
+
+Lista com Leis, Decretos e Resoluções referentes à Legislação da Cartografia Nacional:
+
+ - **Resolução Nº 4.427 de 25 de junho de 2015 do Banco Central**
+
+
+
+Obriga as instituições financeiras a usarem sensoriamento remoto para análise de  
+concessão de crédito agrícola.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc4OTgxMTldfQ==
+eyJoaXN0b3J5IjpbLTE4MzczOTUxMDJdfQ==
 -->
