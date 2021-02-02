@@ -16,7 +16,7 @@ Referência Geocêntrico para as Américas (SIRGAS)**
 Procedimentos para migração de coordenadas geodésicas e de produtos cartográficos  
 referenciados aos sistemas Córrego Alegre, SAD 69, WGS 84 para o SIRGAS2000.
 
-**Resolução da Presidente do IBGE Nº 1/2015**
+[**Resolução da Presidente do IBGE Nº 1/2015**](http://geoftp.ibge.gov.br/metodos_e_outros_documentos_de_referencia/normas/rpr_01_25fev2005.pdf)
 Define a data de término do período de transição definido na RPR 01/2005 e dá outras  
 providências sobre a transformação entre os referenciais geodésicos adotados no Brasil.
 
@@ -25,5 +25,5 @@ Dá nova redação ao art. 21 e revoga o art. 22 do [Decreto no 89.817, de 20 de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjEzNDAzMzhdfQ==
+eyJoaXN0b3J5IjpbNDY1MTcyODI1XX0=
 -->
