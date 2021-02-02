@@ -19,6 +19,17 @@ Artigos da Constituição da República Federativa do Brasil que fazem referênc
 
 **[Decreto Nº 89.817, de 20 de junho de 1984](http://www.planalto.gov.br/ccivil_03/decreto/1980-1989/D89817.htm)**
 Estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacional.
+## Resolu
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -57,6 +68,6 @@ Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjY2MDU4NywtMTUzMTA5ODc0LDE3MD
+eyJoaXN0b3J5IjpbLTQ1NjM2ODc0MywtMTUzMTA5ODc0LDE3MD
 AxODU0MDYsMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ==
 -->
