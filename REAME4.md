@@ -102,20 +102,29 @@ Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O
 - 
 -   [Nota Técnica/INCRA/DFG/N° 01/2010, de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/nota_tecnica_dfg_01_2010.pdf)
 - 
+-   [Norma Técnica para Georreferenciamento de Imóveis Rurais (2ª Edição) – 02/2010](https://esteio.com.br/downloads/legislacao/norma_tecnica_georreferenciamento.pdf)
+- -   [Norma de execução INCRA/DF/N° 92 de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/NE_92_DF.pdf)
+- -   [Especificação Técnica para a Aquisição de Dados Geoespaciais Vetoriais (ET-ADGV v1.0) – 02/2009](https://esteio.com.br/downloads/legislacao/ADGV_FINAL_18_02_09_final_2.pdf)
+- 
+-   [Manual de Padronização dos Marcos Geodésicos – 08/2008](https://esteio.com.br/downloads/legislacao/padronizacao_marcos_geodesicos.pdf)
+- 
+-   [Resolução CONCAR 01/2006](http://www.concar.gov.br/detalheDocumentos.aspx?cod=23)
+- 
+-   [Normas Técnicas da Cartografia Nacional (Decreto n° 89.817, de 20 de Junho de 1984)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=8)
+- 
+-   [Especificações Gerais e Padronização para Elaboração das Normas Cartográficas Brasileiras (NCB – CC/G 0001/84)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=21)
+- 
 
-
-
-
-
-**Coletânea de Normas**
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
+
+-   [Especificações e Normas Gerais para Levantamentos Geodésicos em Território Nacional (IBGE Resolução PR n° 22, de 21 de julho de 1983)](https://esteio.com.br/downloads/legislacao/bservico1602.pdf)
 
 [**Resolução Nº 4.427 de 25 de junho de 2015 do Banco Central**](https://www.bcb.gov.br/pre/normativos/res/2015/pdf/res_4427_v1_O.pdf)
 
 [Medida Provisória n° 1.498-19, de 9 de Julho de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=14).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTIwMzExOSwtOTI3NDgzNDcsLTE1Mz
+eyJoaXN0b3J5IjpbMTExMTY5NTgyMCwtOTI3NDgzNDcsLTE1Mz
 EwOTg3NCwxNzAwMTg1NDA2LDExMTk0OTM2MTIsOTU3OTYyNDg4
 XX0=
 -->
