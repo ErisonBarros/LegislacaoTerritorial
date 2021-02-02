@@ -48,7 +48,10 @@ Estabelece as Especificações e Normas Gerais para Levantamentos GPS: versão  
 
 [**Decreto s/n°, de 21 de Junho de 1994**](https://esteio.com.br/downloads/legislacao/LEGISLA_CONCAR_1994_D.pdf)
 
+
+
+**Coletânea de Normas**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEwOTg3NCwxNzAwMTg1NDA2LDExMT
-k0OTM2MTIsOTU3OTYyNDg4XX0=
+eyJoaXN0b3J5IjpbNDMxMDk1NDQ4LC0xNTMxMDk4NzQsMTcwMD
+E4NTQwNiwxMTE5NDkzNjEyLDk1Nzk2MjQ4OF19
 -->
