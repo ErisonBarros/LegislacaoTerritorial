@@ -172,10 +172,12 @@ O processamento digital de imagens e os sistemas de informação geográfica con
 **INDE**
 https://www.youtube.com/watch?v=AH41BRy6fd0&ab_channel=Minist%C3%A9riodaEconomia
 
+https://www.youtube.com/watch?v=fup9Fr0Rvfo&ab_channel=Geopublica
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3OTQwOTg3LDYzMzkwMTU3NywyMDY5NT
-Q2NDgsLTE2MTc1NjkwMDcsLTEwOTY5Mjc3NCwtMTM1MDE5MjA2
-MywtNjk5NjM0NDg0LC05Mjc0ODM0NywtMTUzMTA5ODc0LDE3MD
-AxODU0MDYsMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ==
+eyJoaXN0b3J5IjpbLTIwOTkyNzE5NDMsNjMzOTAxNTc3LDIwNj
+k1NDY0OCwtMTYxNzU2OTAwNywtMTA5NjkyNzc0LC0xMzUwMTky
+MDYzLC02OTk2MzQ0ODQsLTkyNzQ4MzQ3LC0xNTMxMDk4NzQsMT
+cwMDE4NTQwNiwxMTE5NDkzNjEyLDk1Nzk2MjQ4OF19
 -->
