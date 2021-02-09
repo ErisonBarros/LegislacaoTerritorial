@@ -145,8 +145,21 @@ https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 [Especificações Gerais e Padronização para Elaboração das Normas Cartográficas Brasileiras (NCB – CC/G 0001/84)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=21)
 
 [Especificações e Normas Gerais para Levantamentos Geodésicos em Território Nacional (IBGE Resolução PR n° 22, de 21 de julho de 1983)](https://esteio.com.br/downloads/legislacao/bservico1602.pdf)
+
+## Textos e Manuais do IBGE
+
+[Apostila de Noções Básicas de Cartografia](http://www.ufsm.br/cartografia/images/stories/imagens/aula/nocoes_basicas_cartografia.pdf)
+A presente apostila foi elaborada tendo como objetivo não só servir como parâmetro de orientação para o Curso de Noções Básicas de Cartografia, onde profissionais das mais diversas áreas que utilizam direta ou indiretamente a Cartografia ou um produto cartográfico como ferramenta de trabalho no desenvolvimento de suas atividades, possam conhecer todas as etapas que compreendem o mapeamento, mas também voltada aos profissionais do Departamento de Cartografia, propiciando melhor entendimento das fases que antecedem e precedem o seu trabalho. Visando ainda alcançar a leitores com pouco ou nenhum conhecimento cartográfico, os temas foram abordados de forma objetiva, cabendo aos que desejarem maiores detalhes, uma vasta bibliografia à qual poderão recorrer, parte dela utilizada na compilação desta apostila.
+
+[Manual de normas especificações e procedimentos técnicos para Carta Internacional do Mundo ao milionésimo](http://www.ufsm.br/cartografia/images/stories/imagens/aula/Manual%20de%20normas%20especificacoes%20e%20procedimentos%20tecnicos%20para%20Carta%20Internacional%20do%20Mundo%20ao%20milionesimo.pdf)
+IBGE. Manual de normas, especificações e procedimentos técnicos para a carta Internacional do Mundo, ao milionésimo. CIM 1:1.000.000. Manuais Técnicos em geociências, n. 2, 1993.
+O presente Manual de Normas, Especificações e Procedimentos Técnicos para o conjunto de folhas da Carta Internacional do Mundo ao Milionésimo, da Série Manuais Técnicos em Geociências – número 2, visa a uniformizar os procedimentos para a elaboração de originais na escala 1:1 000 000, no que concerne à representação do espaço geográfico, destacando-se a hidrografia, altimetria e elementos planimétricos de maior relevância para a sua caracterização material e social.
+[Manual Técnico de Uso da Terra](http://www.ufsm.br/cartografia/images/stories/imagens/aula/manual_uso_da_terra.pdf)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY5Mjc3NCwtMTM1MDE5MjA2MywtNj
-k5NjM0NDg0LC05Mjc0ODM0NywtMTUzMTA5ODc0LDE3MDAxODU0
-MDYsMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ==
+eyJoaXN0b3J5IjpbLTE0NTQ4NzMyMTUsLTEwOTY5Mjc3NCwtMT
+M1MDE5MjA2MywtNjk5NjM0NDg0LC05Mjc0ODM0NywtMTUzMTA5
+ODc0LDE3MDAxODU0MDYsMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ
+==
 -->
