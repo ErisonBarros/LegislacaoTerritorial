@@ -68,7 +68,7 @@ Fixa as Diretrizes e Bases da Cartografia Brasileira e dá outras providências.
 
 ## Constituição Federal
 
--   [Constituição Federal (referências à cartografia)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=17).
+[Constituição Federal (referências à cartografia)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=17).
 
 **[Nota Técnica Término do Período de Transição para Adoção no Brasil do Sistema de  
 Referência Geocêntrico para as Américas (SIRGAS)](webcache.googleusercontent.com/search?q=cache:cTJ55ef27OcJ:ftp://geoftp.ibge.gov.br/metodos_e_outros_documentos_de_referencia/normas/nota_tecnica_termino_periodo_transicao_sirgas2000.pdf%20&cd=1&hl=pt-BR&ct=clnk&gl=br)**
@@ -177,9 +177,11 @@ https://www.youtube.com/watch?v=fup9Fr0Rvfo&ab_channel=Geopublica
 https://www.youtube.com/watch?v=unpz5oYwmyM&ab_channel=SistemaLABGISUERJ
 
 https://www.youtube.com/watch?v=5dQGHtGJkog&ab_channel=GraziCarvalho
+
+https://www.youtube.com/watch?v=87mlIgFeMjg&ab_channel=EscoladeGovernodoEstadodeS%C3%A3oPaulo-Egesp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDUxMDQ2OSw2MzM5MDE1NzcsMjA2OT
-U0NjQ4LC0xNjE3NTY5MDA3LC0xMDk2OTI3NzQsLTEzNTAxOTIw
-NjMsLTY5OTYzNDQ4NCwtOTI3NDgzNDcsLTE1MzEwOTg3NCwxNz
-AwMTg1NDA2LDExMTk0OTM2MTIsOTU3OTYyNDg4XX0=
+eyJoaXN0b3J5IjpbLTE2NTcyMjEzNDEsNjMzOTAxNTc3LDIwNj
+k1NDY0OCwtMTYxNzU2OTAwNywtMTA5NjkyNzc0LC0xMzUwMTky
+MDYzLC02OTk2MzQ0ODQsLTkyNzQ4MzQ3LC0xNTMxMDk4NzQsMT
+cwMDE4NTQwNiwxMTE5NDkzNjEyLDk1Nzk2MjQ4OF19
 -->
