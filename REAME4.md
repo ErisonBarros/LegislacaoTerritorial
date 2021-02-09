@@ -140,9 +140,13 @@ https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 
 [Resolução CONCAR 01/2006](http://www.concar.gov.br/detalheDocumentos.aspx?cod=23)
 
+[Normas Técnicas da Cartografia Nacional (Decreto n° 89.817, de 20 de Junho de 1984)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=8)
 
+[Especificações Gerais e Padronização para Elaboração das Normas Cartográficas Brasileiras (NCB – CC/G 0001/84)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=21)
+
+[Especificações e Normas Gerais para Levantamentos Geodésicos em Território Nacional (IBGE Resolução PR n° 22, de 21 de julho de 1983)](https://esteio.com.br/downloads/legislacao/bservico1602.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0NDI5NjQ4LC0xMzUwMTkyMDYzLC02OT
-k2MzQ0ODQsLTkyNzQ4MzQ3LC0xNTMxMDk4NzQsMTcwMDE4NTQw
-NiwxMTE5NDkzNjEyLDk1Nzk2MjQ4OF19
+eyJoaXN0b3J5IjpbLTEwOTY5Mjc3NCwtMTM1MDE5MjA2MywtNj
+k5NjM0NDg0LC05Mjc0ODM0NywtMTUzMTA5ODc0LDE3MDAxODU0
+MDYsMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ==
 -->
