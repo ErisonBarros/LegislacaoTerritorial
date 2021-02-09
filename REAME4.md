@@ -167,9 +167,12 @@ Por outro lado, verifica-se um crescimento acelerado na produção de dados geoe
 
 O processamento digital de imagens e os sistemas de informação geográfica constituem hoje ferramentas essenciais em várias áreas do conhecimento. Os profissionais de geociências precisam estar permanentemente atentos a estas transformações no modus operandi, sob pena de perder informações, rapidez e eficiência. Neste contexto insere-se a elaboração deste Manual que, de forma concisa e em nível introdutório, procura descrever os conceitos e técnicas digitais mais utilizados para a extração de informações das imagens nos vários ramos das ciências da terra. Entendemos que essa iniciativa vem atender a uma necessidade e representa uma contribuição efetiva para o aprimoramento dos métodos de trabalho nos levantamento de recursos naturais, cartografia e meio ambiente.
 
+### Vídeos
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc1NjkwMDcsLTEwOTY5Mjc3NCwtMT
-M1MDE5MjA2MywtNjk5NjM0NDg0LC05Mjc0ODM0NywtMTUzMTA5
-ODc0LDE3MDAxODU0MDYsMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ
-==
+eyJoaXN0b3J5IjpbLTk3NjY0MTcyNiwtMTYxNzU2OTAwNywtMT
+A5NjkyNzc0LC0xMzUwMTkyMDYzLC02OTk2MzQ0ODQsLTkyNzQ4
+MzQ3LC0xNTMxMDk4NzQsMTcwMDE4NTQwNiwxMTE5NDkzNjEyLD
+k1Nzk2MjQ4OF19
 -->
