@@ -172,12 +172,10 @@ O processamento digital de imagens e os sistemas de informação geográfica con
 **INDE**
 https://www.youtube.com/watch?v=AH41BRy6fd0&ab_channel=Minist%C3%A9riodaEconomia
 
-**Cartografia na Força Áerea Brasileira**
-https://www.youtube.com/watch?v=hvNs7HjIsKQ&ab_channel=For%C3%A7aA%C3%A9reaBrasileira
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzOTAxNTc3LDIwNjk1NDY0OCwtMTYxNz
-U2OTAwNywtMTA5NjkyNzc0LC0xMzUwMTkyMDYzLC02OTk2MzQ0
-ODQsLTkyNzQ4MzQ3LC0xNTMxMDk4NzQsMTcwMDE4NTQwNiwxMT
-E5NDkzNjEyLDk1Nzk2MjQ4OF19
+eyJoaXN0b3J5IjpbMjI3OTQwOTg3LDYzMzkwMTU3NywyMDY5NT
+Q2NDgsLTE2MTc1NjkwMDcsLTEwOTY5Mjc3NCwtMTM1MDE5MjA2
+MywtNjk5NjM0NDg0LC05Mjc0ODM0NywtMTUzMTA5ODc0LDE3MD
+AxODU0MDYsMTExOTQ5MzYxMiw5NTc5NjI0ODhdfQ==
 -->
