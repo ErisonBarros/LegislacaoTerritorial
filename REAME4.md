@@ -169,10 +169,15 @@ O processamento digital de imagens e os sistemas de informação geográfica con
 
 ### Vídeos
 
+**INDE**
+https://www.youtube.com/watch?v=AH41BRy6fd0&ab_channel=Minist%C3%A9riodaEconomia
+
+
+https://www.youtube.com/watch?v=hvNs7HjIsKQ&ab_channel=For%C3%A7aA%C3%A9reaBrasileira
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjY0MTcyNiwtMTYxNzU2OTAwNywtMT
-A5NjkyNzc0LC0xMzUwMTkyMDYzLC02OTk2MzQ0ODQsLTkyNzQ4
-MzQ3LC0xNTMxMDk4NzQsMTcwMDE4NTQwNiwxMTE5NDkzNjEyLD
-k1Nzk2MjQ4OF19
+eyJoaXN0b3J5IjpbMjA2OTU0NjQ4LC0xNjE3NTY5MDA3LC0xMD
+k2OTI3NzQsLTEzNTAxOTIwNjMsLTY5OTYzNDQ4NCwtOTI3NDgz
+NDcsLTE1MzEwOTg3NCwxNzAwMTg1NDA2LDExMTk0OTM2MTIsOT
+U3OTYyNDg4XX0=
 -->
