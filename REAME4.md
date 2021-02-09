@@ -125,8 +125,12 @@ http://www.carto.eng.uerj.br/cdecart/download/NBR14166.pdf
 
 [Medida Provisória n° 1.498-19, de 9 de Julho de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=14).
 https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
+
+ [Norma de Execução n°105, de 26 de novembro de 2012 para certificação de Imóveis Rurais](https://esteio.com.br/downloads/legislacao/norma_aprovacao_incra.pdf)
+ 
+-   [Nota Técnica/INCRA/DFG/N° 01/2010, de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/nota_tecnica_dfg_01_2010.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAxOTIwNjMsLTY5OTYzNDQ4NCwtOT
-I3NDgzNDcsLTE1MzEwOTg3NCwxNzAwMTg1NDA2LDExMTk0OTM2
-MTIsOTU3OTYyNDg4XX0=
+eyJoaXN0b3J5IjpbLTE5NjU2NjEwMDksLTEzNTAxOTIwNjMsLT
+Y5OTYzNDQ4NCwtOTI3NDgzNDcsLTE1MzEwOTg3NCwxNzAwMTg1
+NDA2LDExMTk0OTM2MTIsOTU3OTYyNDg4XX0=
 -->
