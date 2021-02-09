@@ -128,9 +128,21 @@ https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf
 
  [Norma de Execução n°105, de 26 de novembro de 2012 para certificação de Imóveis Rurais](https://esteio.com.br/downloads/legislacao/norma_aprovacao_incra.pdf)
  
--   [Nota Técnica/INCRA/DFG/N° 01/2010, de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/nota_tecnica_dfg_01_2010.pdf)
+ [Nota Técnica/INCRA/DFG/N° 01/2010, de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/nota_tecnica_dfg_01_2010.pdf)
+
+[Norma Técnica para Georreferenciamento de Imóveis Rurais (2ª Edição) – 02/2010](https://esteio.com.br/downloads/legislacao/norma_tecnica_georreferenciamento.pdf)
+
+[Norma de execução INCRA/DF/N° 92 de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/NE_92_DF.pdf)
+
+[Especificação Técnica para a Aquisição de Dados Geoespaciais Vetoriais (ET-ADGV v1.0) – 02/2009](https://esteio.com.br/downloads/legislacao/ADGV_FINAL_18_02_09_final_2.pdf)
+
+[Manual de Padronização dos Marcos Geodésicos – 08/2008](https://esteio.com.br/downloads/legislacao/padronizacao_marcos_geodesicos.pdf)
+
+[Resolução CONCAR 01/2006](http://www.concar.gov.br/detalheDocumentos.aspx?cod=23)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjU2NjEwMDksLTEzNTAxOTIwNjMsLT
-Y5OTYzNDQ4NCwtOTI3NDgzNDcsLTE1MzEwOTg3NCwxNzAwMTg1
-NDA2LDExMTk0OTM2MTIsOTU3OTYyNDg4XX0=
+eyJoaXN0b3J5IjpbNzE0NDI5NjQ4LC0xMzUwMTkyMDYzLC02OT
+k2MzQ0ODQsLTkyNzQ4MzQ3LC0xNTMxMDk4NzQsMTcwMDE4NTQw
+NiwxMTE5NDkzNjEyLDk1Nzk2MjQ4OF19
 -->
