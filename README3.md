@@ -2,7 +2,6 @@
 
 
 ---
-
 <h1 id="direito-das-coisas">Direito das Coisas</h1>
 <p><strong>Aula 01</strong><br>
 <a href="https://1drv.ms/p/s!AjO4oAHV5BZuhJMx4An4dj7nG7RECA?e=7txmvM">Direito das Coisas</a><br>
@@ -10,3 +9,6 @@
 <p><strong>Do Usufruto</strong><br>
 <img src="https://direitoturmab.files.wordpress.com/2013/05/usufruto.png" alt="enter image description here"></p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQzNDI3OTY4OF19
+-->
