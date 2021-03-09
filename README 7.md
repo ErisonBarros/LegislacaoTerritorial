@@ -49,7 +49,9 @@ Esse, ao contrário do que definem os terrenos de marinha, acrescidos e reservad
 
 As ilhas nada mais são do que uma porção de terra desprendida do continente e cercada de água por todos os lados.
 
+![enter image description here](https://live.staticflickr.com/3193/2692694298_64624e149d_b.jpg)
 
+![enter image description here](https://www.ferias.tur.br/imgs/8768/amparodesaofrancisco/g_amparo-de-sao-francisco-se-ilha-no-rio-sao-francisco-fotoedu-jung.jpg)
 
 Segundo Zanella di Pietro, “são bens da União as ilhas fluviais e lacustres situadas nas zonas limítrofes com outros países, bem como as ilhas oceânicas e as costeiras que não estiverem no domínio dos Estados (art. 26, II).” [4]
 
@@ -99,6 +101,6 @@ Na divisão de titularidade, fica a União com as águas que banhem terreno de s
 
 [7] ALEXANDRINO, Marcelo; PAULO, Vicente.  **Direito Administrativo Descomplicado.** 22. ed. São Paulo: Método, 2014.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDczMjg1NiwtMTQxMjI5MzYzMCwxNz
+eyJoaXN0b3J5IjpbLTkxMTQ4NTI0MiwtMTQxMjI5MzYzMCwxNz
 M1OTI5NzUxLDE0ODA3NTQ5NV19
 -->
