@@ -35,7 +35,7 @@ As terras devolutas são, em regra, disponíveis, em razão de seu não uso pelo
 
 Fonte: https://luizfreaza.jusbrasil.com.br/artigos/584642261/resumos-juridicos-bens-publicos-em-especie
 
- 
+ **Página 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjIzOTMyM119
+eyJoaXN0b3J5IjpbMTM3Mzc3NTQzNl19
 -->
