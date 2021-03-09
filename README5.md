@@ -1,11 +1,12 @@
 # Bens Públicos
 **Prof. Erison**
 
-# Arquivos
+# Os Bens
 
-StackEdit armazena seus arquivos em seu navegador, o que significa que todos os seus arquivos são salvos automaticamente localmente e estão recuperados ** offline! **
+Os bens são tratados no **Livro II, do Código Civil**, **artigos 79 a 103.**   O solo e tudo que a ele for incorporado, natural ou artificialmente, são considerados bens imóveis. As edificações separadas do solo,  
+mas que conservem sua unidade, removidas para outro local, não perdem seu caráter de imóveis, bem como os materiais provisoriamente separados de um prédio, para nele se reempregarem. Por outro lado, os materiais novos destinados a uma construção e aqueles oriundos de demolição constituem bens móveis.*
 
-## Crie arquivos e pastas
+## Tipos de Bens
 
 O explorador de arquivos pode ser acessado usando o botão no canto esquerdo da barra de navegação. Você pode criar um novo arquivo clicando no botão ** Novo arquivo ** no explorador de arquivos. Você também pode criar pastas clicando no botão ** Nova pasta ** .
 
@@ -140,5 +141,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwNzA0OTY4XX0=
+eyJoaXN0b3J5IjpbLTU4NDY0MjgwNF19
 -->
