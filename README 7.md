@@ -28,7 +28,7 @@ Esse, ao contrário do que definem os terrenos de marinha, acrescidos e reservad
 
 É pertencente à União Federal, visto a presença de fauna e flora essenciais ao ecossistemas, a qual deve ser sempre protegida pelo ente público. Todos os seus recursos naturais também pertencem à União.
 
-### 1.7. Ilhas
+###  Ilhas
 
 As ilhas nada mais são do que uma porção de terra desprendida do continente e cercada de água por todos os lados.
 
@@ -48,6 +48,37 @@ c) nas ilhas costeiras, pertence ao Município a área em que estiver localizada
 
 d) nessa hipótese, porém, excluem-se do domínio municipal as áreas afetadas a serviço público ou a qualquer unidade ambiental federal.” 
 
+### Faixa de Fronteiras
+
+Define José dos Santos Carvalho Filho como “a área de 150 km de largura, que corre paralelamente à linha terrestre demarcatória da divisa entre o território nacional e países estrangeiros, considerada fundamental para a defesa do território nacional, como dita o art.  [20](https://www.jusbrasil.com.br/topicos/10639137/artigo-20-da-constitui%C3%A7%C3%A3o-federal-de-1988 "Artigo 20 da Constituição Federal de 1988"),  [§ 2º](https://www.jusbrasil.com.br/topicos/10721483/par%C3%A1grafo-2-artigo-20-da-constitui%C3%A7%C3%A3o-federal-de-1988 "Parágrafo 2 Artigo 20 da Constituição Federal de 1988"), da  [CF](https://www.jusbrasil.com.br/legislacao/188546065/constitui%C3%A7%C3%A3o-federal-constitui%C3%A7%C3%A3o-da-republica-federativa-do-brasil-1988 "CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988").” [6]
+
+Nem todas as faixas de fronteiras são bens públicos, visto que a  [CRFB/88](https://www.jusbrasil.com.br/legislacao/188546065/constitui%C3%A7%C3%A3o-federal-constitui%C3%A7%C3%A3o-da-republica-federativa-do-brasil-1988 "CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988")  afirma que somente aquelas indispensáveis à defesa das fronteiras serão consideradas (art. 20, II).
+
+### Águas Públicas
+
+De acordo com Vicente Paulo e Marcelo Alexandrino, as águas públicas “são aquelas de que se compõem os mares, os rios e os lagos do domínio público. (...) Podem ser de uso comum e dominicais”. [7]
+
+Ainda, segundo o  [Código de Águas](https://www.jusbrasil.com.br/legislacao/91582/c%C3%B3digo-de-%C3%A1guas-decreto-24643-34 "Decreto nº 24.643, de 10 de julho de 1934."), as de uso comum são: a) os mares territoriais, nos mesmos incluídos os golfos, bahias, enseadas e portos; b) as correntes, canais, lagos e lagoas navegáveis ou flutuáveis; c) as correntes de que se façam estas águas; d) as fontes e reservatórios públicos; e) as nascentes quando forem de tal modo consideráveis que, por si só, constituam o "caput fluminis"; f) os braços de quaisquer correntes públicas, desde que os mesmos influam na navegabilidade ou flutuabilidade.
+
+O referido código não afirma o que são águas dominicais, portanto conclui-se que toda aquela que não for de uso comum é dominical, desde que esteja situada em terreno dominical.
+
+Na divisão de titularidade, fica a União com as águas que banhem terreno de sua titularidade, banhem mais de um Estado, seja limítrofe com outro país, se estenda a território estrangeiro ou dele provenha. São dos Estados as demais águas públicas.
+
+**REFERÊNCIAS:**
+
+[1] CARVALHO FILHO, José dos Santos.  **Manual de Direito Administrativo.** 24. ed. Rio de Janeiro: Lumen Juris, 2011. 3724 p.
+
+[2] PIETRO, Maria Sylvia Zanella di.  **Direito Administrativo.** 15. ed. Rio de J: Atlas, 2003.
+
+[3] ALEXANDRINO, Marcelo; PAULO, Vicente.  **Direito Administrativo Descomplicado.** 22. ed. São Paulo: Método, 2014.
+
+[4] PIETRO, Maria Sylvia Zanella di.  **Direito Administrativo.** 15. ed. Rio de J: Atlas, 2003.
+
+[5] CARVALHO FILHO, José dos Santos.  **Manual de Direito Administrativo.** 24. ed. Rio de Janeiro: Lumen Juris, 2011. 3724 p.
+
+[6] CARVALHO FILHO, José dos Santos.  **Manual de Direito Administrativo.** 24. ed. Rio de Janeiro: Lumen Juris, 2011. 3724 p.
+
+[7] ALEXANDRINO, Marcelo; PAULO, Vicente.  **Direito Administrativo Descomplicado.** 22. ed. São Paulo: Método, 2014.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTcwMDY3Nl19
+eyJoaXN0b3J5IjpbMTQ4MDc1NDk1XX0=
 -->
