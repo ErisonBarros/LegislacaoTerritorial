@@ -53,7 +53,12 @@ a aquisição da posse, apartamento do domínio público toda posse levada a reg
 
 > A definição destes vem do Decreto n.º 4.105, de 22 de fevereiro de  1868, repetindo-se por várias leis posteriores. São terrenos de  marinha os que, banhados pelas águas do mar ou dos rios navegáveis,  vão até a distância de quinze braças craveiras (33 metros) para a  parte da terra, contadas desde o ponto a que chega o preamar médio (Preamar significa maré cheia).
 > 
-São terrenos reservados para a servidão pública, nas margens dos rios navegáveis, os que, banhados pelas águas dos ditos rios, fora do alcance das marés, vão até a distância de sete braças craveiras (15,4 metros) para a parte da terra, contados desde o ponto médio das enchentes ordinárias. São terrenos acrescidos os que natural ou artificialmente se tiverem formado, ou forma rem, além do ponto em que se contam os terrenos de marinha ou terrenos reservados.”
+São terrenos reservados para a servidão pública, nas margens dos rios navegáveis, os que, banhados pelas águas dos ditos rios, fora do alcance das marés, vão até a distância de sete braças craveiras (15,4 metros) para a parte da terra, contados desde o ponto médio das enchentes ordinárias. São terrenos acrescidos os que natural ou artificialmente se tiverem formado, ou forma rem, além do ponto em que se contam os terrenos de marinha ou terrenos reservados.
+
+## Afetação e desafetação:
+
+Afetação consiste em conferir ao bem público uma destinação. Desafetação (desconsagração) consiste em retirar do bem aquela destinação anteriormente conferida a ele. Os bens dominicais não apresentam nenhuma destinação pública, ou seja, não estão afetados. Assim, são os únicos que não precisam ser desafetados para que ocorra sua alienação.
+
 
 
 
@@ -180,5 +185,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5NjQ4NDBdfQ==
+eyJoaXN0b3J5IjpbODU3MTA0MjAxXX0=
 -->
