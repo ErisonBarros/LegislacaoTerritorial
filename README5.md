@@ -106,9 +106,20 @@ Parágrafo único. A posse a que a União condiciona a sua liberalidade não pod
 
 As terras devolutas são, em regra, disponíveis, em razão de seu não uso pelo Poder Público. Contudo, a  [CRFB/88](https://www.jusbrasil.com.br/legislacao/188546065/constitui%C3%A7%C3%A3o-federal-constitui%C3%A7%C3%A3o-da-republica-federativa-do-brasil-1988 "CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988")  afirma, em seu art.  [225](https://www.jusbrasil.com.br/topicos/10645661/artigo-225-da-constitui%C3%A7%C3%A3o-federal-de-1988 "Artigo 225 da Constituição Federal de 1988"),  [§ 5º](https://www.jusbrasil.com.br/topicos/10645204/par%C3%A1grafo-5-artigo-225-da-constitui%C3%A7%C3%A3o-federal-de-1988 "Parágrafo 5 Artigo 225 da Constituição Federal de 1988"), que “são indisponíveis as terras devolutas ou arrecadadas pelos Estados, por ações discriminatórias, necessárias à proteção dos ecossistemas naturais”.
 
+### Terrenos de Marinha
+
+
+
+
+
+
+
+
+
+Fonte: https://luizfreaza.jusbrasil.com.br/artigos/584642261/resumos-juridicos-bens-publicos-em-especie
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc3MDkyMDAsLTEyOTQ5NDE0MDgsLT
-E3MDcxMjI5NDhdfQ==
+eyJoaXN0b3J5IjpbMTY2OTkxMTEzOCwtMTI5NDk0MTQwOCwtMT
+cwNzEyMjk0OF19
 -->
