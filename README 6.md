@@ -44,8 +44,9 @@ As terras devolutas são terras que sempre pertenceram ao ente público, desde a
 Na evolução do regime, muitas áreas públicas foram sendo transferidas a particulares, malgrado fossem desordenados e não muito bem definidos os critérios para a privatização do domínio imobiliário. Os instrumentos mais conhecidos foram as  *concessões de sesmaria*, assemelhadas à atual doação com encargos, outorgadas no sistema das capitanias hereditárias e, logo depois, pelos governadores gerais, e as  _concessões de data_, pelas quais as municipalidades transferiam a propriedade de áreas nas cidades e povoados para construção de benfeitorias particulares. Como regra, tais concessões eram outorgadas a título gratuito.” [1]
 
 Atualmente, podemos encontrar no Decreto Lei  [9.760](https://www.jusbrasil.com.br/legislacao/107132/lei-dos-bens-imoveis-da-uni%C3%A3o-decreto-lei-9760-46 "Decreto-lei nº 9.760, de 5 de setembro de 1946.")/46 a definição de terras devolutas:
+<font color='Red'> 
+Art. 5º São devolutas, na faixa da fronteira, nos Territórios Federais e no Distrito Federal, as terras que, não sendo próprios nem aplicadas a algum uso público federal, estadual territorial ou municipal, não se incorporaram ao domínio privado: </font>
 
-Art. 5º São devolutas, na faixa da fronteira, nos Territórios Federais e no Distrito Federal, as terras que, não sendo próprios nem aplicadas a algum uso público federal, estadual territorial ou municipal, não se incorporaram ao domínio privado:
 
 a) por fôrça da  [Lei nº](http://www.planalto.gov.br/ccivil_03/LEIS/L0601-1850.htm) [601](https://www.jusbrasil.com.br/legislacao/104056/lei-601-50 "Lei no 601, de 18 de setembro de 1850."), de 18 de setembro de 1850,  [Decreto nº](http://www.planalto.gov.br/ccivil_03/decreto/1851-1899/D1318.htm) [1.318](https://www.jusbrasil.com.br/legislacao/103840/decreto-1318-54 "Decreto nº 1.318, de 30 de janeiro de 1854."), de 30 de janeiro de 1854, e outras leis e decretos gerais, federais e estaduais;
 
@@ -77,6 +78,6 @@ Fonte: https://luizfreaza.jusbrasil.com.br/artigos/584642261/resumos-juridicos-b
 
  **Página 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQzMjg4MzQsMTgzNjMwMzYyNyw3MD
-c2NDA4MSwxMTgyOTI2MzgwXX0=
+eyJoaXN0b3J5IjpbMTM5MTgyOTI1MCwxODM2MzAzNjI3LDcwNz
+Y0MDgxLDExODI5MjYzODBdfQ==
 -->
