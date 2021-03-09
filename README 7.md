@@ -1,9 +1,14 @@
 ### Terrenos de Marinha
 
 ![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj22VbC8fk8D_jFPXMq1BxjVaT6DL5HZ0Plg&usqp=CAU)
+![enter image description here](https://oxereta.com/images/noticia/A5975d66ee7810.jpg)
+
 ![enter image description here](https://www.politize.com.br/wp-content/uploads/2021/02/Captura-de-Tela-142.png)
 
 ![enter image description here](http://www2.camara.leg.br/camaranoticias/imagens/imgNoticiaUpload1418387433295.jpg)
+
+
+
 ![enter image description here](https://www.gov.br/economia/pt-br/assuntos/patrimonio-da-uniao/bens-da-uniao/imagens/terrenosmarginais.jpg)
 Segundo Zanella di Pietro, “Terrenos de marinha são os que, banhados pelas águas do mar ou dos rios navegáveis, vão até a distância de 15 braças craveiras (33 metros), para a parte da terra, contadas desde o ponto em que chega o preamar médio (art.  [13](https://www.jusbrasil.com.br/topicos/10609113/artigo-13-do-decreto-n-24643-de-10-de-julho-de-1934 "Artigo 13 do Decreto nº 24.643 de 10 de Julho de 1934")  do  [Código de Águas](https://www.jusbrasil.com.br/legislacao/91582/c%C3%B3digo-de-%C3%A1guas-decreto-24643-34 "Decreto nº 24.643, de 10 de julho de 1934.")).” [2]
 
@@ -85,5 +90,5 @@ Na divisão de titularidade, fica a União com as águas que banhem terreno de s
 
 [7] ALEXANDRINO, Marcelo; PAULO, Vicente.  **Direito Administrativo Descomplicado.** 22. ed. São Paulo: Método, 2014.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5MDc0Njc3LDE0ODA3NTQ5NV19
+eyJoaXN0b3J5IjpbMTEzNjU3MTE2MCwxNDgwNzU0OTVdfQ==
 -->
