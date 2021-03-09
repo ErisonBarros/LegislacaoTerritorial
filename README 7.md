@@ -78,7 +78,9 @@ Nem todas as faixas de fronteiras são bens públicos, visto que a  [CRFB/88](ht
 
 ### Águas Públicas
 
+![enter image description here](https://www.sollicita.com.br/File/getFile?url=/NP/SollicitaAdmin/Content/ConteudoDinamico/ImagensDestaqueNoticia/vnfhxlc.jpeg)
 De acordo com Vicente Paulo e Marcelo Alexandrino, as águas públicas “são aquelas de que se compõem os mares, os rios e os lagos do domínio público. (...) Podem ser de uso comum e dominicais”. [7]
+
 
 Ainda, segundo o  [Código de Águas](https://www.jusbrasil.com.br/legislacao/91582/c%C3%B3digo-de-%C3%A1guas-decreto-24643-34 "Decreto nº 24.643, de 10 de julho de 1934."), as de uso comum são: a) os mares territoriais, nos mesmos incluídos os golfos, bahias, enseadas e portos; b) as correntes, canais, lagos e lagoas navegáveis ou flutuáveis; c) as correntes de que se façam estas águas; d) as fontes e reservatórios públicos; e) as nascentes quando forem de tal modo consideráveis que, por si só, constituam o "caput fluminis"; f) os braços de quaisquer correntes públicas, desde que os mesmos influam na navegabilidade ou flutuabilidade.
 
@@ -102,6 +104,6 @@ Na divisão de titularidade, fica a União com as águas que banhem terreno de s
 
 [7] ALEXANDRINO, Marcelo; PAULO, Vicente.  **Direito Administrativo Descomplicado.** 22. ed. São Paulo: Método, 2014.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDQ2ODM2NywtMTQxMjI5MzYzMCwxNz
-M1OTI5NzUxLDE0ODA3NTQ5NV19
+eyJoaXN0b3J5IjpbNjA3NDY4NzUzLC0zNTA0NjgzNjcsLTE0MT
+IyOTM2MzAsMTczNTkyOTc1MSwxNDgwNzU0OTVdfQ==
 -->
