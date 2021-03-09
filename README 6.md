@@ -26,16 +26,16 @@ Para estabelecer o real domínio da terra. Ou seja, se é particular ou devoluta
 
 As Constituições republicanas seguintes deram maior abrangência ao conceito de terra devoluta, sendo que a Constituição no seu [art. 20, II](http://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm), inclui entre os bens pertencentes à União, toda terra devoluta:
 
-– Indispensável a defesa das fronteiras;
+**– Indispensável a defesa das fronteiras;**
 
-– Das fortificações e construções militares;
+**– Das fortificações e construções militares;**
 
-– Das vias federais de comunicação;
+**– Das vias federais de comunicação;**
 
-– Á preservação ambiental.
+**– Á preservação ambiental.**
 
-As demais áreas de terras devolutas pertencem aos estados.
-
+As demais áreas de **terras devolutas pertencem aos estados.**
+<font color='Red'> 
 As terras devolutas são terras que sempre pertenceram ao ente público, desde a fundação do nosso país pelos portugueses, como expõe José dos Santos Carvalho Filho:
 
 “O regime das  _terras públicas_  sofreu grandes mutações_  desde a descoberta do Brasil. De início, todas as terras pertenceram à Coroa Portuguesa: foi uma aquisição originária, decorrente do  _direito de conquista_, que vigorava à época. O domínio, de natureza estatal, passou sucessivamente ao Brasil-Império e ao Brasil-República.
@@ -76,5 +76,6 @@ Fonte: https://luizfreaza.jusbrasil.com.br/artigos/584642261/resumos-juridicos-b
 
  **Página 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3NjQwODEsMTE4MjkyNjM4MF19
+eyJoaXN0b3J5IjpbMTgzNjMwMzYyNyw3MDc2NDA4MSwxMTgyOT
+I2MzgwXX0=
 -->
