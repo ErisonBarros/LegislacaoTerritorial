@@ -28,9 +28,12 @@ As **necessárias** têm por finalidade conservar ou evitar que o bem se deterio
 Os bens públicos estão disciplinados pelos **artigos 98 a 103 do**  **Código Civil e pelo Código de Contabilidade Pública da União**, aprovado  pelo **Decreto n.º 15.783, de 8 de novembro de 1922**.  Bens Públicos são todos aqueles que integram **o patrimônio da Administração Pública direta e indireta.** Todos os demais são considerados particulares. “São públicos os bens de domínio nacional pertencentes as pessoas jurídicas de direito público interno; todos os outros são particulares, seja qual fora pessoa a que pertencerem” **(art. 98 do CC)**. As empresas públicas e as sociedades de economia, embora sejam pessoas jurídicas de direito privado, integram as pessoas jurídicas de direito público interno, assim os bens destas pessoas também são públicos.
 
 
-## Renomear um arquivo
+## Classificação
 
-Você pode renomear o arquivo atual clicando no nome do arquivo na barra de navegação ou clicando no botão ** Renomear ** no explorador de arquivos.
+O artigo 99 do Código Civil utilizou o critério da destinação do bem para classificar os bens públicos.
+
+ - ***Bens de uso comum:*** São aqueles destinados ao uso indistinto de toda a população. Ex: Mar, rio, rua, praça, estradas, parques (art. 99, I do CC). O uso comum dos bens públicos pode ser gratuito ou oneroso, conforme for estabelecido por meio da lei da pessoa jurídica a qual o bem pertencer (art. 103 CC). Ex: Zona azul nas ruas e zoológico. O uso desses bens públicos é oneroso.
+ - 
 
 ## Excluir um arquivo
 
@@ -155,5 +158,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1MTU4NTIyXX0=
+eyJoaXN0b3J5IjpbOTU5NDM2NTAzXX0=
 -->
