@@ -27,6 +27,9 @@ As **necessárias** têm por finalidade conservar ou evitar que o bem se deterio
 
 ## <font color='blue'> Bens Públicos</font>
 
+**Conceito**
+
+![enter image description here](https://liciniarossi.com.br/wp-content/uploads/2020/02/Conceito-de-Bens-P%C3%BAblicos.png)
 Os bens públicos estão disciplinados pelos **artigos 98 a 103 do**  **Código Civil e pelo Código de Contabilidade Pública da União**, aprovado  pelo **Decreto n.º 15.783, de 8 de novembro de 1922**.  Bens Públicos são todos aqueles que integram **o patrimônio da Administração Pública direta e indireta.** Todos os demais são considerados particulares. “São públicos os bens de domínio nacional pertencentes as pessoas jurídicas de direito público interno; todos os outros são particulares, seja qual fora pessoa a que pertencerem” **(art. 98 do CC)**. As empresas públicas e as sociedades de economia, embora sejam pessoas jurídicas de direito privado, integram as pessoas jurídicas de direito público interno, assim os bens destas pessoas também são públicos.
 
 ![enter image description here](https://pbs.twimg.com/media/CvzFtgaWcAAnD0J.jpg)
@@ -190,6 +193,6 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTEwNzA0MiwtMTI5NDk0MTQwOCwtMT
-cwNzEyMjk0OF19
+eyJoaXN0b3J5IjpbMzA2OTk1MzkwLC0xMjk0OTQxNDA4LC0xNz
+A3MTIyOTQ4XX0=
 -->
