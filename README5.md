@@ -23,13 +23,8 @@ As **úteis** são as que aumentam ou facilitam o uso do bem.
 
 As **necessárias** têm por finalidade conservar ou evitar que o bem se deteriores.
 
+## <font color='blue'> Bens Públicos</font>
 
-
- 
-
- 
-
-## Mudar para outro arquivo
 
 Todos os seus arquivos e pastas são alternativos como uma árvore no explorador de arquivos. Você pode alternar de um para outro clicando em um arquivo na árvore.
 
@@ -160,5 +155,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk2MjAxOTddfQ==
+eyJoaXN0b3J5IjpbMjA5NzMxOTk4M119
 -->
