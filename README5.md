@@ -76,6 +76,8 @@ A concessão desse regime jurídico decorre dos interesses que o Poder Público 
 
 ## <font color='Red'> Bens Públicos existentes no Brasil</font>
 
+
+
 ### Terras Devolutas
 
 As terras devolutas são terras que sempre pertenceram ao ente público, desde a fundação do nosso país pelos portugueses, como expõe José dos Santos Carvalho Filho:
@@ -108,18 +110,10 @@ As terras devolutas são, em regra, disponíveis, em razão de seu não uso pelo
 
 ### Terrenos de Marinha
 
-
-
-
-
-
-
-
-
 Fonte: https://luizfreaza.jusbrasil.com.br/artigos/584642261/resumos-juridicos-bens-publicos-em-especie
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTkxMTEzOCwtMTI5NDk0MTQwOCwtMT
-cwNzEyMjk0OF19
+eyJoaXN0b3J5IjpbNzc4OTQ2MDcwLC0xMjk0OTQxNDA4LC0xNz
+A3MTIyOTQ4XX0=
 -->
