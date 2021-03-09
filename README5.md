@@ -13,7 +13,9 @@ mas que conservem sua unidade, removidas para outro local, não perdem seu cará
 outros da mesma espécie. Cada um deles possui um elemento que o diferencia dos demais.
  - **Os bens divisíveis** são os que se podem fracionar sem alteração  de   sua substância, diminuição ponderável de valor, ou prejuízo do uso a    que se destinam.
  - **Os bens singulares** são os que, embora reunidos, são considerados individualmente, independentes dos demais. Se possuem destinaçãounitária, e pertinentes à mesma pessoa, a pluralidade de bens singulares constitui universalidade de fato.
- - 
+ - **O bem principal** é o que existe sobre si, abstrata ou concretamente; o acessório supõe a existência do principal. Há uma exceção: oacessório domina o principal somente no caso de hipoteca (acessório emrelação à dívida garantida). A lei que regula a hipoteca é a civil, sendo cívilsua jurisdição, mesmo que a dívida seja de natureza comercial, e comerciantes tanto o credor quanto o devedor. 
+
+ 
 
  
 
@@ -148,5 +150,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjMxNjM0NThdfQ==
+eyJoaXN0b3J5IjpbLTE4MjI0Mzk2OF19
 -->
