@@ -71,6 +71,7 @@ d) nessa hipótese, porém, excluem-se do domínio municipal as áreas afetadas 
 
 ### Faixa de Fronteiras
 
+![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVDOykglgQDqHci-3G-ZYBZes56h9vk4PcXySfmHeOXZ4IdY2DpxTrDgqAlbu-ZlbjgI4&usqp=CAU)
 Define José dos Santos Carvalho Filho como “a área de 150 km de largura, que corre paralelamente à linha terrestre demarcatória da divisa entre o território nacional e países estrangeiros, considerada fundamental para a defesa do território nacional, como dita o art.  [20](https://www.jusbrasil.com.br/topicos/10639137/artigo-20-da-constitui%C3%A7%C3%A3o-federal-de-1988 "Artigo 20 da Constituição Federal de 1988"),  [§ 2º](https://www.jusbrasil.com.br/topicos/10721483/par%C3%A1grafo-2-artigo-20-da-constitui%C3%A7%C3%A3o-federal-de-1988 "Parágrafo 2 Artigo 20 da Constituição Federal de 1988"), da  [CF](https://www.jusbrasil.com.br/legislacao/188546065/constitui%C3%A7%C3%A3o-federal-constitui%C3%A7%C3%A3o-da-republica-federativa-do-brasil-1988 "CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988").” [6]
 
 Nem todas as faixas de fronteiras são bens públicos, visto que a  [CRFB/88](https://www.jusbrasil.com.br/legislacao/188546065/constitui%C3%A7%C3%A3o-federal-constitui%C3%A7%C3%A3o-da-republica-federativa-do-brasil-1988 "CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988")  afirma que somente aquelas indispensáveis à defesa das fronteiras serão consideradas (art. 20, II).
@@ -101,6 +102,6 @@ Na divisão de titularidade, fica a União com as águas que banhem terreno de s
 
 [7] ALEXANDRINO, Marcelo; PAULO, Vicente.  **Direito Administrativo Descomplicado.** 22. ed. São Paulo: Método, 2014.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTQ4NTI0MiwtMTQxMjI5MzYzMCwxNz
+eyJoaXN0b3J5IjpbLTM1MDQ2ODM2NywtMTQxMjI5MzYzMCwxNz
 M1OTI5NzUxLDE0ODA3NTQ5NV19
 -->
