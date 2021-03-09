@@ -35,12 +35,13 @@ As Constituições republicanas seguintes deram maior abrangência ao conceito d
 **– Á preservação ambiental.**
 
 As demais áreas de **terras devolutas pertencem aos estados.**
+
 <font color='Red'> 
 As terras devolutas são terras que sempre pertenceram ao ente público, desde a fundação do nosso país pelos portugueses, como expõe José dos Santos Carvalho Filho:
 
-“O regime das  _terras públicas_  sofreu grandes mutações_  desde a descoberta do Brasil. De início, todas as terras pertenceram à Coroa Portuguesa: foi uma aquisição originária, decorrente do  _direito de conquista_, que vigorava à época. O domínio, de natureza estatal, passou sucessivamente ao Brasil-Império e ao Brasil-República.
+“O regime das  _terras públicas_  sofreu grandes mutações desde a descoberta do Brasil. De início, todas as terras pertenceram à Coroa Portuguesa: foi uma aquisição originária, decorrente do  _direito de conquista_, que vigorava à época. O domínio, de natureza estatal, passou sucessivamente ao Brasil-Império e ao Brasil-República.
 
-Na evolução do regime, muitas áreas públicas foram sendo transferidas a particulares, malgrado fossem desordenados e não muito bem definidos os critérios para a privatização do domínio imobiliário. Os instrumentos mais conhecidos foram as  _concessões de sesmaria_, assemelhadas à atual doação com encargos, outorgadas no sistema das capitanias hereditárias e, logo depois, pelos governadores gerais, e as  _concessões de data_, pelas quais as municipalidades transferiam a propriedade de áreas nas cidades e povoados para construção de benfeitorias particulares. Como regra, tais concessões eram outorgadas a título gratuito.” [1]
+Na evolução do regime, muitas áreas públicas foram sendo transferidas a particulares, malgrado fossem desordenados e não muito bem definidos os critérios para a privatização do domínio imobiliário. Os instrumentos mais conhecidos foram as  *concessões de sesmaria*, assemelhadas à atual doação com encargos, outorgadas no sistema das capitanias hereditárias e, logo depois, pelos governadores gerais, e as  _concessões de data_, pelas quais as municipalidades transferiam a propriedade de áreas nas cidades e povoados para construção de benfeitorias particulares. Como regra, tais concessões eram outorgadas a título gratuito.” [1]
 
 Atualmente, podemos encontrar no Decreto Lei  [9.760](https://www.jusbrasil.com.br/legislacao/107132/lei-dos-bens-imoveis-da-uni%C3%A3o-decreto-lei-9760-46 "Decreto-lei nº 9.760, de 5 de setembro de 1946.")/46 a definição de terras devolutas:
 
@@ -76,6 +77,6 @@ Fonte: https://luizfreaza.jusbrasil.com.br/artigos/584642261/resumos-juridicos-b
 
  **Página 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjMwMzYyNyw3MDc2NDA4MSwxMTgyOT
-I2MzgwXX0=
+eyJoaXN0b3J5IjpbLTIwODQzMjg4MzQsMTgzNjMwMzYyNyw3MD
+c2NDA4MSwxMTgyOTI2MzgwXX0=
 -->
