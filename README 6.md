@@ -31,7 +31,11 @@ Parágrafo único. A posse a que a União condiciona a sua liberalidade não pod
 
 As terras devolutas são, em regra, disponíveis, em razão de seu não uso pelo Poder Público. Contudo, a  [CRFB/88](https://www.jusbrasil.com.br/legislacao/188546065/constitui%C3%A7%C3%A3o-federal-constitui%C3%A7%C3%A3o-da-republica-federativa-do-brasil-1988 "CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988")  afirma, em seu art.  [225](https://www.jusbrasil.com.br/topicos/10645661/artigo-225-da-constitui%C3%A7%C3%A3o-federal-de-1988 "Artigo 225 da Constituição Federal de 1988"),  [§ 5º](https://www.jusbrasil.com.br/topicos/10645204/par%C3%A1grafo-5-artigo-225-da-constitui%C3%A7%C3%A3o-federal-de-1988 "Parágrafo 5 Artigo 225 da Constituição Federal de 1988"), que “são indisponíveis as terras devolutas ou arrecadadas pelos Estados, por ações discriminatórias, necessárias à proteção dos ecossistemas naturais”.
 ![enter image description here](http://3.bp.blogspot.com/-0TaL3DEEB1E/T-IFc9djTFI/AAAAAAAABXM/QhDWqpS-Ku4/s400/CHARGE+REFORMA+AGR%C3%81RIA+1985.jpg)
-[# Terras Devolutas e Latifúndio: um breve resgate sobre o espaço agrário brasileiro!](http://parquedaciencia.blogspot.com/2013/06/terras-devolutas-e-latifundio-um-breve.html)
+[# Terras Devolutas e Latifúndio: um breve resgate sobre o espaço agrário brasileiro!]
+
+(http://parquedaciencia.blogspot.com/2013/06/terras-devolutas-e-latifundio-um-breve.html)
+
+
 
 ### Terrenos de Marinha
 
@@ -39,5 +43,5 @@ Fonte: https://luizfreaza.jusbrasil.com.br/artigos/584642261/resumos-juridicos-b
 
  **Página 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDQ2MTEwMF19
+eyJoaXN0b3J5IjpbMTE4MjkyNjM4MF19
 -->
