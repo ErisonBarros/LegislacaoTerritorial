@@ -1,4 +1,4 @@
-# Bens Públicos
+# Os Bens
 **Prof. Erison**
 
 # Os Bens
@@ -11,8 +11,11 @@ mas que conservem sua unidade, removidas para outro local, não perdem seu cará
  - **Os bens fungíveis** são aqueles bens móveis que podem ser substituídos    por outros da mesma espécie, qualidade e quantidade. O exemplo    clássico desse tipo de bem é o dinheiro. São, portanto, bens  substituíveis.
  - **Os bens infungíveis** são os que não podem ser substituídos por  
 outros da mesma espécie. Cada um deles possui um elemento que o diferencia dos demais.
-Os bens divisíveis são os que se podem fracionar sem alteração  de sua substância, diminuição ponderável de valor, ou prejuízo do uso a que se destinam.
+ - **Os bens divisíveis** são os que se podem fracionar sem alteração  de   sua substância, diminuição ponderável de valor, ou prejuízo do uso a    que se destinam.
+ - **Os bens singulares** são os que, embora reunidos, são considerados individualmente, independentes dos demais. Se possuem destinaçãounitária, e pertinentes à mesma pessoa, a pluralidade de bens singulares constitui universalidade de fato.
  - 
+
+ 
 
 ## Mudar para outro arquivo
 
@@ -145,5 +148,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODkxMTg2Nl19
+eyJoaXN0b3J5IjpbLTE2MjMxNjM0NThdfQ==
 -->
