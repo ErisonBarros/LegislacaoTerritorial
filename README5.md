@@ -59,12 +59,11 @@ São terrenos reservados para a servidão pública, nas margens dos rios navegá
 
 Afetação consiste em conferir ao bem público uma destinação. Desafetação (desconsagração) consiste em retirar do bem aquela destinação anteriormente conferida a ele. Os bens dominicais não apresentam nenhuma destinação pública, ou seja, não estão afetados. Assim, são os únicos que não precisam ser desafetados para que ocorra sua alienação.
 
+## Regime Jurídico Dos Bens Públicos
 
+**Noções Gerais:**
+A concessão desse regime jurídico decorre dos interesses que o Poder Público
 
-
-## Excluir um arquivo
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
 ## Export a file
 
@@ -185,5 +184,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3MTA0MjAxXX0=
+eyJoaXN0b3J5IjpbLTIwNDg2NTQ2NjJdfQ==
 -->
