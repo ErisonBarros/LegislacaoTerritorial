@@ -41,8 +41,7 @@ Os **bens dominicais** representam o patrimônio disponível do Estado, pois nã
 Quanto aos bens dominicais, não têm destinação pública definida, razão pela qual podem ser aplicados pelo Poder Público, para obtenção de renda; é o caso das terras devolutas, dos terrenos de marinha, dos imóveis não utilizados pela Administração, dos bens móveis que se tornem inservíveis.
 
 
-•Di Pietro reporta-se à classificação do Regulamento do Código  
-de Contabilidade Pública da União, que faz distinção, em seu art. 807, entre bens patrimoniais indisponíveis (bens de uso especial) e os patrimoniais disponíveis (bens dominicais).
+*Di Pietro r*eporta-se à classificação do **Regulamento do Código   de Contabilidade Pública da União**, que faz distinção, em seu **art. 807**, entre bens **patrimoniais indisponíveis** (bens de uso especial) e os **patrimoniais disponíveis** (bens dominicais).
 
 ## Excluir um arquivo
 
@@ -167,5 +166,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDYxNjk1NF19
+eyJoaXN0b3J5IjpbMTA3MDEyNTg0MF19
 -->
