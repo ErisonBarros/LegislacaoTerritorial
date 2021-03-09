@@ -11,6 +11,35 @@
 
 ![enter image description here](https://adenilsongiovanini.com.br/blog/wp-content/uploads/2019/11/capitanias-eredit%C3%A1rias.jpg)
 
+Com a descoberta do Brasil, todo o território passou a integrar o domínio da Coroa Portuguesa. Acontece que os portugueses, logo que descobriram o Brasil, só queriam saber de ouro. Como não descobriram ouro no litoral, meio que abandonaram a colônia. Somente com o tempo, foi que perceberam que o Pau Brasil possuía um pigmento que poderia ser utilizado para o tingimento de roupas. Foi então que passaram a fazer expedições, extraindo e levando esta riqueza para a Europa.
+
+Acontece que isso não passou batido pelas demais nações. As mesmas também se interessaram pelo Pau Brasil, passando a piratear esta riqueza.
+
+Com isso, a coroa portuguesa percebeu que corria o risco de perdeu partes da colônia para outras nações.
+
+Isso levou Portugal a adotar o sistema de concessão de [sesmarias](http://pt.wikipedia.org/wiki/Sesmaria).
+
+Ou seja, colonizadores ganharam largas faixas de terras denominadas [capitanias hereditárias](http://pt.wikipedia.org/wiki/Capitanias_heredit%C3%A1rias), sendo que os mesmos tinham a obrigação de medir, demarcar e cultivar estas faixas de terras.
+
+Acontece que algumas faixas de terras não foram trespassadas. Além disso, alguns colonizadores não tiveram sucesso, sendo que as faixas de terras ocupadas pelos mesmos foram revertidas à Coroa.
+
+Ambas as situações, faixas de terras não foram trespassadas e faixas de terras revertidas à Coroa, constituem as terras devolutas.
+
+Com a independência do Brasil, estas faixas de terras passaram a integrar o domínio imobiliário do estado brasileiro, englobando todas essas terras que não ingressaram no domínio privado por título legítimo ou não receberam destinação pública.
+
+Para estabelecer o real domínio da terra. Ou seja, se é particular ou devoluta, o estado propõe ações judiciais chamadas ações discriminatórias, que são reguladas pela [Lei 6383/76](http://www.planalto.gov.br/ccivil_03/leis/l6383.htm).
+
+As Constituições republicanas seguintes deram maior abrangência ao conceito de terra devoluta, sendo que a Constituição no seu [art. 20, II](http://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm), inclui entre os bens pertencentes à União, toda terra devoluta:
+
+– Indispensável a defesa das fronteiras;
+
+– Das fortificações e construções militares;
+
+– Das vias federais de comunicação;
+
+– Á preservação ambiental.
+
+As demais áreas de terras devolutas pertencem aos estados.
 
 As terras devolutas são terras que sempre pertenceram ao ente público, desde a fundação do nosso país pelos portugueses, como expõe José dos Santos Carvalho Filho:
 
@@ -52,5 +81,5 @@ Fonte: https://luizfreaza.jusbrasil.com.br/artigos/584642261/resumos-juridicos-b
 
  **Página 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTA2NTk1MTUsMTE4MjkyNjM4MF19
+eyJoaXN0b3J5IjpbNjAwNzM0NDU0LDExODI5MjYzODBdfQ==
 -->
