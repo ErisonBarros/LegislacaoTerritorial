@@ -33,6 +33,9 @@ Apesar desse tipo de bem ser de titularidade da União, é considerado um bem de
 
 Trata-se de terreno com fim social previsto na própria  [constituição](https://www.jusbrasil.com.br/legislacao/188546065/constitui%C3%A7%C3%A3o-federal-constitui%C3%A7%C3%A3o-da-republica-federativa-do-brasil-1988 "CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988"), a qual afirma que a habitação dos índios será permanente e as terras “utilizadas para suas atividades produtivas, as imprescindíveis à preservação dos recursos ambientais necessários a seu bem-estar e as necessárias a sua reprodução física e cultural, segundo seus usos, costumes e tradições”.
 
+![enter image description here](https://uploads.metropoles.com/wp-content/uploads/2018/04/18183226/Infografico-1_mapa2.jpg)
+
+![enter image description here](https://img.socioambiental.org/d/338784-11/mapa.jpg)
 ### Plataforma Continental
 
 Esse, ao contrário do que definem os terrenos de marinha, acrescidos e reservados, são compreendidos pela faixa que se estende da área continental sob o mar até a profundidade de cerca de duzentos metros.
@@ -91,6 +94,6 @@ Na divisão de titularidade, fica a União com as águas que banhem terreno de s
 
 [7] ALEXANDRINO, Marcelo; PAULO, Vicente.  **Direito Administrativo Descomplicado.** 22. ed. São Paulo: Método, 2014.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTIyOTM2MzAsMTczNTkyOTc1MSwxND
-gwNzU0OTVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDkwMTIyMTgsLTE0MTIyOTM2MzAsMT
+czNTkyOTc1MSwxNDgwNzU0OTVdfQ==
 -->
