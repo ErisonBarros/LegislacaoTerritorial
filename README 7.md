@@ -25,6 +25,7 @@ Em razão de sua agregação aos terrenos de marinha, também são pertencentes 
 ### Terrenos Reservados
 
 Esses possuem mesma definição dos terrenos de marinha, contudo diferenciam-se pela sua titularidade e pela não influência das marés, pois como afirmam Vicente Paulo e Marcelo Alexandrino “são aqueles que, banhados pelas correntes navegáveis, fora do alcance das marés, se estendem até a distância de 15 metros para a parte da terra, contados desde a linha média das enchentes ordinárias.” [3]
+![enter image description here](http://2.bp.blogspot.com/-Y2bJetS9MPo/UjJHxwJ9XiI/AAAAAAAAEEQ/gLJAW9uAzL8/s1600/Slide2.PNG)
 
 ### Terras Ocupadas pelos Índios
 
@@ -90,5 +91,6 @@ Na divisão de titularidade, fica a União com as águas que banhem terreno de s
 
 [7] ALEXANDRINO, Marcelo; PAULO, Vicente.  **Direito Administrativo Descomplicado.** 22. ed. São Paulo: Método, 2014.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTkyOTc1MSwxNDgwNzU0OTVdfQ==
+eyJoaXN0b3J5IjpbLTE0MTIyOTM2MzAsMTczNTkyOTc1MSwxND
+gwNzU0OTVdfQ==
 -->
