@@ -23,7 +23,7 @@ As **úteis** são as que aumentam ou facilitam o uso do bem.
 
 As **necessárias** têm por finalidade conservar ou evitar que o bem se deteriores.
 
-
+[Mapa Mental ](https://whimsical.com/direito-das-coisas-537tWHKpKYwtZEtDmwMyoV)
 
 ## <font color='blue'> Bens Públicos</font>
 
@@ -189,6 +189,6 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ5NDE0MDgsLTE3MDcxMjI5NDhdfQ
-==
+eyJoaXN0b3J5IjpbMTQ3MTcwOTg1MiwtMTI5NDk0MTQwOCwtMT
+cwNzEyMjk0OF19
 -->
