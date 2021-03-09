@@ -15,6 +15,16 @@ outros da mesma espécie. Cada um deles possui um elemento que o diferencia dos 
  - **Os bens singulares** são os que, embora reunidos, são considerados individualmente, independentes dos demais. Se possuem destinaçãounitária, e pertinentes à mesma pessoa, a pluralidade de bens singulares constitui universalidade de fato.
  - **O bem principal** é o que existe sobre si, abstrata ou concretamente; o acessório supõe a existência do principal. Há uma exceção: oacessório domina o principal somente no caso de hipoteca (acessório emrelação à dívida garantida). A lei que regula a hipoteca é a civil, sendo cívilsua jurisdição, mesmo que a dívida seja de natureza comercial, e comerciantes tanto o credor quanto o devedor. 
 
+Relativamente às benfeitorias, elas podem ser voluptuárias, úteis  ou necessárias. 
+
+**Voluptuárias** são as de mero deleite ou recreio, não aumentando o uso habitual do bem, mesmo o tornando mais aprazível ou sejam caras. 
+
+As **úteis** são as que aumentam ou facilitam o uso do bem. 
+
+As **necessárias** têm por finalidade conservar ou evitar que o bem se deteriores.
+
+
+
  
 
  
@@ -150,5 +160,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI0Mzk2OF19
+eyJoaXN0b3J5IjpbLTU3NTIyNDM4M119
 -->
