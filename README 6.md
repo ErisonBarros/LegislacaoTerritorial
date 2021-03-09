@@ -5,6 +5,17 @@
 
 ![enter image description here](https://adenilsongiovanini.com.br/blog/wp-content/uploads/2019/11/terras-devolutas-1024x575.png)
 
+> O termo **“devoluta”** se relaciona ao conceito de terra devolvida ou
+> a ser devolvida ao Estado. Ou seja, terras devolutas são terras
+> públicas, que por não estarem sendo utilizadas pelo [poder
+> público](https://pt.wikipedia.org/wiki/Poder_p%C3%BAblico), em nenhum
+> momento passaram a integrar o patrimônio de um particular, ainda que
+> estejam irregularmente sob sua posse.
+> 
+> Ou seja, em algum momento o seu cliente passou a utilizar esta área de
+> terras.
+
+
 As terras devolutas são terras que sempre pertenceram ao ente público, desde a fundação do nosso país pelos portugueses, como expõe José dos Santos Carvalho Filho:
 
 “O regime das  _terras públicas_  sofreu grandes mutações_  desde a descoberta do Brasil. De início, todas as terras pertenceram à Coroa Portuguesa: foi uma aquisição originária, decorrente do  _direito de conquista_, que vigorava à época. O domínio, de natureza estatal, passou sucessivamente ao Brasil-Império e ao Brasil-República.
@@ -45,5 +56,5 @@ Fonte: https://luizfreaza.jusbrasil.com.br/artigos/584642261/resumos-juridicos-b
 
  **Página 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODYzNDUzNywxMTgyOTI2MzgwXX0=
+eyJoaXN0b3J5IjpbLTE5MjI4NDc2NTEsMTE4MjkyNjM4MF19
 -->
