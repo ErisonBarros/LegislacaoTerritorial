@@ -43,6 +43,17 @@ Quanto aos bens dominicais, não têm destinação pública definida, razão pel
 
 *Di Pietro r*eporta-se à classificação do **Regulamento do Código   de Contabilidade Pública da União**, que faz distinção, em seu **art. 807**, entre bens **patrimoniais indisponíveis** (bens de uso especial) e os **patrimoniais disponíveis** (bens dominicais).
 
+Faremos sucintamente algumas considerações sobre terras públicas e particulares. Hely Lopes Meirelles nos ensina que “No Brasil todas as terras foram, originariamente, públicas, por pertencentes à Nação  
+Portuguesa, por direito de conquista. Depois, passaram ao Império e à República, sempre como domínio do Estado. A transferência das terras públicas aos particulares se deu paulatinamente por meio de concessões de sesmaria e de data, compra e venda, doação, permuta, e legitimação de posses.
+
+O regime de sesmarias terminou por volta de 1822. A Lei n.º 601, de 1850, conhecida como a Lei das Terras, regulamentada pelo Decreto Imperial 1.318, de 30 de novembro de 1854, reconheceram  
+a aquisição da posse, apartamento do domínio público toda posse levada a registro no livro da Paróquia, ou registro do vigário. A legitimação do domínio era reconhecida mediante a comprovação, pelo particular, da origem de seu título de propriedade.
+
+•**As terras devoluta**s distinguem-se de terrenos de marinha, terrenos  reservados e acrescidos. Escreve, a este propósito, Moacyr Amaral  Santos:  
+
+*A definição destes vem do Decreto n.º 4.105, de 22 de fevereiro de 1868, repetindo-se por várias leis posteriores. São terrenos de marinha os que, banhados pelas águas do mar ou dos rios navegáveis, vão até a distância de quinze braças craveiras (33 metros) para a parte da terra, contadas desde o ponto a que chega o preamar médio (Preamar significa maré cheia).*
+
+
 ## Excluir um arquivo
 
 You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
@@ -166,5 +177,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDEyNTg0MF19
+eyJoaXN0b3J5IjpbMTQ2MzA4NzA3M119
 -->
