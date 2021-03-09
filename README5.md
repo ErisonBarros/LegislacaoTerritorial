@@ -62,8 +62,11 @@ Afetação consiste em conferir ao bem público uma destinação. Desafetação 
 ## Regime Jurídico Dos Bens Públicos
 
 **Noções Gerais:**
-A concessão desse regime jurídico decorre dos interesses que o Poder Público
+A concessão desse regime jurídico decorre dos interesses que o Poder Público representa quando atua.
 
+ - [ ] Ianalienabilidade
+ - [ ] Imprescribilidade
+ - [ ] Impenhorabilidade
 
 ## Export a file
 
@@ -184,5 +187,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg2NTQ2NjJdfQ==
+eyJoaXN0b3J5IjpbLTE3MDcxMjI5NDhdfQ==
 -->
