@@ -33,7 +33,16 @@ Os bens públicos estão disciplinados pelos **artigos 98 a 103 do**  **Código 
 O artigo 99 do Código Civil utilizou o critério da destinação do bem para classificar os bens públicos.
 
  - ***Bens de uso comum:*** São aqueles destinados ao uso indistinto de toda a população. Ex: Mar, rio, rua, praça, estradas, parques (art. 99, I do CC). O uso comum dos bens públicos pode ser gratuito ou oneroso, conforme for estabelecido por meio da lei da pessoa jurídica a qual o bem pertencer (art. 103 CC). Ex: Zona azul nas ruas e zoológico. O uso desses bens públicos é oneroso.
- - 
+ - **Bens de uso especial:** São aqueles destinados a uma finalidade específica. Ex: Bibliotecas, teatros, escolas, fóruns, quartel, museu, repartições publicas em geral (art. 99, II do CC).
+ - **Bens dominicais:** Não estão destinados nem a uma finalidade comum e nem a uma especial. “Constituem o patrimônio das pessoas jurídicas de direito público, como objeto de direito pessoal ou real, de cada uma dessas entidades” (art. 99, III do CC).
+
+Os **bens dominicais** representam o patrimônio disponível do Estado, pois não estão destinados e em razão disso o Estado figura como proprietário desses bens. Ex: Terras devolutas.
+
+Quanto aos bens dominicais, não têm destinação pública definida, razão pela qual podem ser aplicados pelo Poder Público, para obtenção de renda; é o caso das terras devolutas, dos terrenos de marinha, dos imóveis não utilizados pela Administração, dos bens móveis que se tornem inservíveis.
+
+
+•Di Pietro reporta-se à classificação do Regulamento do Código  
+de Contabilidade Pública da União, que faz distinção, em seu art. 807, entre bens patrimoniais indisponíveis (bens de uso especial) e os patrimoniais disponíveis (bens dominicais).
 
 ## Excluir um arquivo
 
@@ -158,5 +167,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NDM2NTAzXX0=
+eyJoaXN0b3J5IjpbMjAxNDYxNjk1NF19
 -->
