@@ -45,6 +45,7 @@ Perde-se a posse:
 virtude da qual aquele que possuía em seu próprio  
 nome passa, em seguida, a possuir a coisa em  
 nome de outrem;
+
 Efeitos jurídicos gerados pela posse e conflitos:  
 proteção possessória, percepção de frutos;  
 responsabilidade pela perda e deterioração;  
@@ -56,6 +57,17 @@ confiança.
 • Turbação: o agente não se apodera da coisa, mas  
 perturba o possuidor pondo em risco sua relação  
 jurídica com a coisa.
+
+Propriedade: assegura ao sujeito direito de usar, gozar  
+e dispor do bem, e reavê-la de quem quer que  
+injustamente o possua.  
+• Modo de aquisição: original e derivado.  
+• Original: domínio adquirido de forma primitiva, sem que  
+tenha havido nenhuma relação jurídica anterior. Por  
+exemplo: acessão (avulsão, aluvião ou abandono de álveo);  
+usucapião.  
+• Derivado : i) pela transcrição do título de transferência  
+no Registro de Imóveis; ii) pela sucessão hereditária.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjM2MTY1OF19
+eyJoaXN0b3J5IjpbMTc1NDQyMDExMl19
 -->
