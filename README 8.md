@@ -75,6 +75,17 @@ usucapião.
 
 ## INCORPORAÇÃO IMOBILIÁRIA
 
+**Lei 4591/64:** atividade exercida com o intuito de promover e  realizar a construção, com venda total ou parcial de  edificações (apartamentos ou casas).
+
+Incorporador: empresa imobiliária de natureza civil. **Sujeito:**  
+um ou vários incorporadores, solidariamente responsáveis  pelas obrigações legais ou contratuais; responsabilidade  termina quando o condomínio está juridicamente organizado  (expedição do habite-se, inscrição no CRI, convenção de  condomínio, etc).
+
+**Deveres do adquirente:** cumprir obrigações previstas em  contrato, obter informações/certidões/declarações pedidos  pelo incorporador.
+
+Direitos do adquirente: receber chaves, satisfação cláusulas  contratuais, receber a escritura de compra e venda para  
+registro no CRImóveis (pode ser obtida em juízo através de  
+sentença judicial).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTUwMTY2MiwxNzU0NDIwMTEyXX0=
+eyJoaXN0b3J5IjpbMjEzMDg0NjUxNywxNzU0NDIwMTEyXX0=
 -->
