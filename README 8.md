@@ -101,10 +101,8 @@ Aplicação da lei a cada caso:
  - Frutos da árvore que pendem pelos ramos em terreno  alheio, a este    pertencerão;
  - Incômodo causado pelos ramos, raízes e frutos da  árvore plantada em    terreno alheio, pode ser resolvido  até o plano divisório vertical da    propriedade.
 
-|Passagem forçada  |Servidão de passagem  |
-|--|--|
-|  |  |
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzE4OTYxOSwxNzU0NDIwMTEyXX0=
+eyJoaXN0b3J5IjpbODIxNTQxNzk1LDE3NTQ0MjAxMTJdfQ==
 -->
