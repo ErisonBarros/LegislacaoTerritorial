@@ -95,14 +95,16 @@ Aplicação da lei a cada caso:
 – impor a obrigação de sanar, refazer ou desfazer o que  estiver irregular.
 
 ## Árvores limítrofes
-Árvore situada na linha divisória, pertence a ambos os roprietários, na proporção de metade para cada um, e  
-se for cortada a madeira será dividida pela metade;  
-• Frutos da árvore que pendem pelos ramos em terreno  
-alheio, a este pertencerão;  
-• Incômodo causado pelos ramos, raízes e frutos da  
-árvore plantada em terreno alheio, pode ser resolvido  
-até o plano divisório vertical da propriedade.
+
+ - Árvore situada na linha divisória, pertence a ambos os proprietários, na proporção de metade para cada um, e   se for
+   cortada a madeira será dividida pela metade;
+ - Frutos da árvore que pendem pelos ramos em terreno  alheio, a este    pertencerão;
+ - Incômodo causado pelos ramos, raízes e frutos da  árvore plantada em    terreno alheio, pode ser resolvido  até o plano divisório vertical da    propriedade.
+
+|Passagem forçada  |Servidão de passagem  |
+|--|--|
+|  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Mzc3ODgxMiwxNzU0NDIwMTEyXX0=
+eyJoaXN0b3J5IjpbLTc4MzE4OTYxOSwxNzU0NDIwMTEyXX0=
 -->
