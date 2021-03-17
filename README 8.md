@@ -51,23 +51,30 @@ proteção possessória, percepção de frutos;
 responsabilidade pela perda e deterioração;  
 indenização por benfeitorias; direito de retenção para  
 garantir pagamento; usucapião.  
-• Esbulho: ato em que o possuidor é privado da posse  
+• **Esbulho:** ato em que o possuidor é privado da posse  
 violentamente, clandestinamente, ou por abuso de  
 confiança.  
-• Turbação: o agente não se apodera da coisa, mas  
+• **Turbação:** o agente não se apodera da coisa, mas  
 perturba o possuidor pondo em risco sua relação  
 jurídica com a coisa.
 
 Propriedade: assegura ao sujeito direito de usar, gozar  
 e dispor do bem, e reavê-la de quem quer que  
 injustamente o possua.  
-• Modo de aquisição: original e derivado.  
-• Original: domínio adquirido de forma primitiva, sem que  
+• **Modo de aquisição:** original e derivado.  
+• **Original:** domínio adquirido de forma primitiva, sem que  
 tenha havido nenhuma relação jurídica anterior. Por  
 exemplo: acessão (avulsão, aluvião ou abandono de álveo);  
 usucapião.  
-• Derivado : i) pela transcrição do título de transferência  
-no Registro de Imóveis; ii) pela sucessão hereditária.
+• **Derivado :** 
+
+ - i) pela transcrição do título de transferência   no Registro de
+   Imóveis;
+ - ii) pela sucessão hereditária.
+
+
+## INCORPORAÇÃO IMOBILIÁRIA
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDQyMDExMl19
+eyJoaXN0b3J5IjpbMTk1MTUwMTY2MiwxNzU0NDIwMTEyXX0=
 -->
