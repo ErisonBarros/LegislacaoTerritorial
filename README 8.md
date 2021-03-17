@@ -82,10 +82,19 @@ um ou vários incorporadores, solidariamente responsáveis  pelas obrigações l
 
 **Deveres do adquirente:** cumprir obrigações previstas em  contrato, obter informações/certidões/declarações pedidos  pelo incorporador.
 
-Direitos do adquirente: receber chaves, satisfação cláusulas  contratuais, receber a escritura de compra e venda para  
-registro no CRImóveis (pode ser obtida em juízo através de  
-sentença judicial).
+**Direitos do adquirente:** receber chaves, satisfação cláusulas  contratuais, receber a escritura de compra e venda para  registro no CRImóveis (pode ser obtida em juízo através de  sentença judicial).
+
+## Perda da propriedade
+
+**Perda voluntária da propriedade:** 
+
+ - alienação;
+ - renúncia;
+ - abandono.
+
+**Desapropriação:**
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDg0NjUxNywxNzU0NDIwMTEyXX0=
+eyJoaXN0b3J5IjpbMTczNDIyMzAyMSwxNzU0NDIwMTEyXX0=
 -->
