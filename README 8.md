@@ -1,14 +1,12 @@
 ## DIREITO DAS COISAS
 
-**Direito das Coisas:** conjunto de normas  
-regulamentadoras das relações entre pessoas  
+**Direito das Coisas:** conjunto de normas   regulamentadoras das relações entre pessoas  
 e os bens materiais.   A relação do sujeito com a coisa pode ser de:  posse e propriedade.
 
-Posse: relação de fato entre o sujeito e a coisa,  
-efeitos na órbita do direito, juridicamente protegida  
+**Posse:** relação de fato entre o sujeito e a coisa,  efeitos na órbita do direito, juridicamente protegida  
 se exercida a justo título ou de boa-fé.  
-• **Justo título:** possuidor mantém a coisa mediante  
-título hábil a conferir direito e outorgado pelo  
+
+• **Justo título:** possuidor mantém a coisa mediante  título hábil a conferir direito e outorgado pelo  
 verdadeiro possuidor ou proprietário.  
 • **Posse injusta:** violenta, clandestina ou precária.  
 • **Posse precária ou imprópria:** mera detenção, com  
@@ -93,8 +91,16 @@ um ou vários incorporadores, solidariamente responsáveis  pelas obrigações l
  - abandono.
 
 **Desapropriação:**
+– perda total ou parcial da propriedade de modo  
+involuntário,  
+– por ato de autoridade pública, fundado em lei e  
+justificado o interesse público subordinante ao interesse  
+privado,  
+– beneficio de obra pública,  
+– prévia e justa indenização em dinheiro (  confisco).
 
+**Pode ser amigável ou judicial.**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDIyMzAyMSwxNzU0NDIwMTEyXX0=
+eyJoaXN0b3J5IjpbLTE3NjE0MTk3MTUsMTc1NDQyMDExMl19
 -->
