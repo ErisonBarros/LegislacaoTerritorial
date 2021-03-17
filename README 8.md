@@ -34,12 +34,9 @@ nome passa, em seguida, a possuir a coisa em  nome de outrem;
 **Efeitos jurídicos gerados pela posse e conflitos:**  
 
  - proteção possessória, percepção de frutos;
-
- 
-
  - responsabilidade pela perda e deterioração;
+ - indenização por benfeitorias; direito de retenção para  garantir pagamento; usucapião.
 
-indenização por benfeitorias; direito de retenção para  garantir pagamento; usucapião.  
 • **Esbulho:** ato em que o possuidor é privado da posse  
 violentamente, clandestinamente, ou por abuso de  
 confiança.  
@@ -47,16 +44,13 @@ confiança.
 perturba o possuidor pondo em risco sua relação  
 jurídica com a coisa.
 
-Propriedade: assegura ao sujeito direito de usar, gozar  
-e dispor do bem, e reavê-la de quem quer que  
+Propriedade: assegura ao sujeito direito de usar, gozar  e dispor do bem, e reavê-la de quem quer que  
 injustamente o possua.  
 • **Modo de aquisição:** original e derivado.  
-• **Original:** domínio adquirido de forma primitiva, sem que  
-tenha havido nenhuma relação jurídica anterior. Por  
+• **Original:** domínio adquirido de forma primitiva, sem que  tenha havido nenhuma relação jurídica anterior. Por  
 exemplo: acessão (avulsão, aluvião ou abandono de álveo);  
 usucapião.  
 • **Derivado :** 
-
  - i) pela transcrição do título de transferência   no Registro de
    Imóveis;
  - ii) pela sucessão hereditária.
@@ -82,16 +76,16 @@ um ou vários incorporadores, solidariamente responsáveis  pelas obrigações l
  - abandono.
 
 **Desapropriação:**
-– perda total ou parcial da propriedade de modo  
-involuntário,  
-– por ato de autoridade pública, fundado em lei e  
-justificado o interesse público subordinante ao interesse  
-privado,  
+– perda total ou parcial da propriedade de modo  involuntário,  
+– por ato de autoridade pública, fundado em lei e  justificado o interesse público subordinante ao interesse  privado,  
 – beneficio de obra pública,  
 – prévia e justa indenização em dinheiro (  confisco).
 
 **Pode ser amigável ou judicial.**
 
+## Direito de vizinhança
+
+Limite à liberdade de uso da propriedade com a finalidade de promover a segurança, sossego e saúde dos habitantes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODgxMzg4MSwxNzU0NDIwMTEyXX0=
+eyJoaXN0b3J5IjpbLTE1MTMzNTU3MTAsMTc1NDQyMDExMl19
 -->
