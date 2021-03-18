@@ -52,32 +52,31 @@
 Propriedade: propriedade ao sujeito ao direito de usar, gozar e ter do bem, e reavê-la de quem quer que injustamente o possua. 
 **Modo de aquisição:**  original e derivado. 
 **Original:**  adquirido domínio de forma primitiva, sem que tenha havido nenhuma relação jurídica anterior. Por exemplo: acessão (avulsão, aluvião ou abandono de álveo); usucapião. 
-** Derivado: **
+ **Derivado:** 
 
+ - i) pela transcrição do título de transferência no Registro de Imóveis; - 
+ - ii) pela sucessão hereditária
 
-
-
-
- 
-- i) pela transcrição do título de transferência no Registro de Imóveis; - ii) pela sucessão hereditária.
+.
 
 
 
 
 ## INCORPORAÇÃO IMOBILIÁRIA
 
-** Lei 4591/64: ** atividade exercida com o intuito de promover e realizar a construção, com venda total ou parcial de edificações (apartamentos ou casas).
+ **Lei 4591/64:**  atividade exercida com o intuito de promover e realizar a construção, com venda total ou parcial de edificações (apartamentos ou casas).
 
-Incorporador: empresa imobiliária de natureza civil. ** Sujeito: ** um ou vários incorporadores, solidariamente responsáveis ​​pelas obrigações legais ou contratuais; responsabilidade quando termina o condomínio está juridicamente organizado (expedição do habite-se, inscrição no CRI, convenção de condomínio, etc).  
+Incorporador: empresa imobiliária de natureza civil. 
+**Sujeito:** um ou vários incorporadores, solidariamente responsáveis ​​pelas obrigações legais ou contratuais; responsabilidade quando termina o condomínio está juridicamente organizado (expedição do habite-se, inscrição no CRI, convenção de condomínio, etc).  
 
 
-** Deveres do adquirente: ** cumprir obrigações previstas em contrato, obter informações / certidões / declarações pedidos pelo incorporador.
+**Deveres do adquirente:** cumprir obrigações previstas em contrato, obter informações / certidões / declarações pedidos pelo incorporador.
 
-** Direitos do adquirente: ** receber chaves, satisfação das exigências contratuais, receber a escritura de compra e venda para registro no CRImóveis (pode ser obtida em juízo através de sentença judicial).
+**Direitos do adquirente:**  receber chaves, satisfação das exigências contratuais, receber a escritura de compra e venda para registro no CRImóveis (pode ser obtida em juízo através de sentença judicial).
 
 ## Perda da propriedade
 
-** Perda voluntária da propriedade: ** 
+**Perda voluntária da propriedade:**
 
 - alienação; - renúncia; - abandono.
 
@@ -112,6 +111,6 @@ Limite à liberdade de uso da propriedade com uma cultivar de segurança, sosseg
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODg5NjA0MiwtNTAzNzQ2NTUsODIxNT
-QxNzk1LDE3NTQ0MjAxMTJdfQ==
+eyJoaXN0b3J5IjpbNzM1NTM4NTExLC01MDM3NDY1NSw4MjE1ND
+E3OTUsMTc1NDQyMDExMl19
 -->
