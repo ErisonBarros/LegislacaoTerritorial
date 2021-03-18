@@ -81,28 +81,29 @@ um ou vários incorporadores, solidariamente responsáveis  pelas obrigações l
 – beneficio de obra pública,  
 – prévia e justa indenização em dinheiro (  confisco).
 
-**Pode ser amigável ou judicial.**
+** Pode ser amigável ou judicial. **
 
 ## Direito de vizinhança
 
-Limite à liberdade de uso da propriedade com a finalidade de promover a segurança, sossego e saúde dos habitantes.
-Uso anormal da propriedade: a lei interfere  disciplinando comportamento em caso de incômodo  ou prejuízo à segurança, sossego e saúde.
-Aplicação da lei a cada caso:
-– impor que seja tolerado o incômodo ou prejuízo  suportável;  
-– impor que seja parcialmente proibida a prática do ato,  sob pena de multa;  
-– impedir totalmente a prática do ato lesivo, abusivo ou  ilegal;  
-– impor condenação de indenização pelo dano causado;  
-– impor a obrigação de sanar, refazer ou desfazer o que  estiver irregular.
+Limite à liberdade de uso da propriedade com uma cultivar de segurança, sossego e saúde dos habitantes. Uso anormal da propriedade: uma lei interfere disciplinando comportamento em caso de incômodo ou prejuízo à segurança, sossego e saúde. Aplicação da lei a cada caso: - impor que seja tolerado o incômodo ou prejuízo suportável; - impor que seja parcialmente proibida a prática do ato, sob pena de multa; - impedir totalmente a prática do ato lesivo, abusivo ou ilegal; - Emissão de importância condenação de indenização pelo dano; - impor a obrigação de sanar, refazer ou desfazer ao estiver irregular.
+
+
+
+
+
+
+
 
 ## Árvores limítrofes
 
- - Árvore situada na linha divisória, pertence a ambos os proprietários, na proporção de metade para cada um, e   se for
-   cortada a madeira será dividida pela metade;
- - Frutos da árvore que pendem pelos ramos em terreno  alheio, a este    pertencerão;
- - Incômodo causado pelos ramos, raízes e frutos da  árvore plantada em    terreno alheio, pode ser resolvido  até o plano divisório vertical da    propriedade.
+- Árvore situada na linha divisória, pertence a ambos os proprietários, na proporção de metade para cada um, e se for cortada a madeira será dividida pela metade; - Frutos da árvore que pendem pelos ramos em terreno alheio, a este pertencerão; - Incômodo revelação pelos ramos, raízes e frutos da árvore plantada em terreno alheio, pode ser resolvido até o plano divisório vertical da propriedade.
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNTQxNzk1LDE3NTQ0MjAxMTJdfQ==
+eyJoaXN0b3J5IjpbLTcyMTU4MTA1MCw4MjE1NDE3OTUsMTc1ND
+QyMDExMl19
 -->
