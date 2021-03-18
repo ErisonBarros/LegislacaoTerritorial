@@ -20,19 +20,7 @@
  **Má fé:** possuidor sabe que a posse é de origem clandestina ou violenta. 
  Adquira-se um posse:  - Pela apreensão da coisa ou pelo exercício do direito de possuir: coisas sem dono, coisas abandonadas, se a coisa está sob o domínio de alguém que não oferece resistência se a coisa por esbulhada. - Pelo fato de se dispor da coisa ou fazer direito: ex. exercício do direito de passagem. - Demais modos de aquisição em geral: contrato de empréstimo, contrato de locação, compromisso de compra e venda. ** Perde-se um grupo:
 
-  
-
-
-
-
-
-**Pelo abandono;** - Pela entrega a quem se negociou a coisa; - Perda ou furto: ressalvado o direito de reavê-la; - Pela destruição da coisa; - Pelo esbulho: ressalvado o direito de reavê-la; - Pelo constituto possessório: operação jurídica em virtude da qual aquele que possuía em seu próprio nome passa, em seguida, a possuir a coisa em nome de outrem;  
-
-
-
-
-
-
+  **Pelo abandono;** - Pela entrega a quem se negociou a coisa; - Perda ou furto: ressalvado o direito de reavê-la; - Pela destruição da coisa; - Pelo esbulho: ressalvado o direito de reavê-la; - Pelo constituto possessório: operação jurídica em virtude da qual aquele que possuía em seu próprio nome passa, em seguida, a possuir a coisa em nome de outrem;  
 
 
 **Efeitos jurídicos gerados pela posse e conflitos:** 
@@ -40,14 +28,8 @@
 - proteção possessória, percepção de frutos; - responsabilidade pela perda e deterioração; - indenização por benfeitorias; direito de retenção para garantir pagamento; usucapião.
 
 
-
 **Esbulho:** ato em que o possuidor é privado da posse violentamente, clandestinamente, ou por abuso de confiança. 
 **Turbação:**  o agente não se apodera da coisa, mas perturba o possuidor pondo em risco sua relação jurídica com a coisa.
-
-
-
-
-
 
 Propriedade: propriedade ao sujeito ao direito de usar, gozar e ter do bem, e reavê-la de quem quer que injustamente o possua. 
 **Modo de aquisição:**  original e derivado. 
@@ -57,12 +39,7 @@ Propriedade: propriedade ao sujeito ao direito de usar, gozar e ter do bem, e re
  - i) pela transcrição do título de transferência no Registro de Imóveis; - 
  - ii) pela sucessão hereditária
 
-.
-
-
-
-
-## INCORPORAÇÃO IMOBILIÁRIA
+.## INCORPORAÇÃO IMOBILIÁRIA
 
  **Lei 4591/64:**  atividade exercida com o intuito de promover e realizar a construção, com venda total ou parcial de edificações (apartamentos ou casas).
 
@@ -92,7 +69,7 @@ Limite à liberdade de uso da propriedade com uma cultivar de segurança, sosseg
 
 - Árvore situada na linha divisória, pertence a ambos os proprietários, na proporção de metade para cada um, e se for cortada a madeira será dividida pela metade; - Frutos da árvore que pendem pelos ramos em terreno alheio, a este pertencerão; - Incômodo revelação pelos ramos, raízes e frutos da árvore plantada em terreno alheio, pode ser resolvido até o plano divisório vertical da propriedade.
 
-
+![enter image description here](https://lh3.googleusercontent.com/SepCEQIh1YMmem8XJNOCPiZFTeAyV9Xyko8DxP1nmWng6zx0Us2xAmUHRMNQJPwsqUw2jcjsnmgo0s5DOGg61Sul1dgUvtn1SMm0dg81edwnGrdliz71p3l9SpR-zwIVzyQOfnetkl34kYp4MqOJs8axoOaavYDkh4nr7RHRFqGqxbgeCj_cAoesSMleER8zo6fcz5HS5pxG-50krf3KNdSzoFxy-vtJ_8T4DOTQOWG5FQ70WAUxAWU8_XgbMR7bHXjqVd_nBJZP9JmBc49hmbceIwEQ93uRoxMb2eyBkOSoLuE0FFNz7oy5DUsrzC5Wg_4aRawFC7w_f53pL53IfOrD4YMR9qVoufzEub3g-qrmqjgItK7sbIh-HQY2SHAI5AELUPS0Ni5tPu8eUqkqZpa6P5pebloG68YhEzufP2EpLg3XE7TvFSFFAO1rrlQGKKDYSy1LCIFYZpJ1iDaX-2n00PFPHn8FK80sO5mOpe3Tzk9Wy__ZuimPdnceDnVpduQhnqbK9bRq-iomPfgstYiPi-JVGdIJRAB8-ynvo-XI6xC9mwk77InTwkecRLDk_fGS6U6subQUkVuqBLSgbxIJMzLAtKW5EWAXZeGCm283El9T8lU_DJFP3G_hTHHHUZ4QV2ZgV4WLnzaRkokCBEJHlyzM9cqDvKr8oKDEWDwaGxqRjGw3nOwRWmGSiUJdJ9EdIicHqvIwWNaSEj1zZdkCow=w702-h462-no?authuser=0)
 
 
 
@@ -100,6 +77,6 @@ Limite à liberdade de uso da propriedade com uma cultivar de segurança, sosseg
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTk4MDM3NCwtNTAzNzQ2NTUsODIxNT
+eyJoaXN0b3J5IjpbMTcwMTgzNzY2MiwtNTAzNzQ2NTUsODIxNT
 QxNzk1LDE3NTQ0MjAxMTJdfQ==
 -->
