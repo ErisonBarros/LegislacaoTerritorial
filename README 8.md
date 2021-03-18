@@ -1,12 +1,14 @@
 ## DIREITO DAS COISAS
 
-** Direito das Coisas: ** conjunto de normas regulamentadoras das relações entre pessoas e os bens materiais. A relação do sujeito com a coisa pode ser de: posse e propriedade.
+**Direito das Coisas:** conjunto de normas regulamentadoras das relações entre pessoas e os bens materiais. A relação do sujeito com a coisa pode ser de: posse e propriedade.
 
 
-** Posse: ** relação de fato entre o sujeito e a coisa, efeitos na órbita do direito, juridicamente protegida se exercida a justo título ou de boa-fé.  
+**Posse: r**elação de fato entre o sujeito e a coisa, efeitos na órbita do direito, juridicamente protegida se exercida a justo título ou de boa-fé.  
 
 
-Justo título: possuidor mantém a coisa mediante título hábil a conferir direito e outorgado pelo verdadeiro possuidor ou proprietário. **Posse injusta:**  violenta, clandestina ou precária. • ** Posse precária ou necessidadepria: ** mera detenção, com obrigação de devolver a coisa em certo tempo ou circunstância, não gera os efeitos da posse justa transcorrido o tempo. - * Ex: * locação, comodato, conserto, compromisso de compra e venda até que se efetue o pagamento. - Nesses casos pode se transformar em posse injusta quando negada a devolução.
+**Justo título:** possuidor mantém a coisa mediante título hábil a conferir direito e outorgado pelo verdadeiro possuidor ou proprietário. 
+**Posse injusta:**  violenta, clandestina ou precária. 
+**Posse precária ou necessidadepria:** mera detenção, com obrigação de devolver a coisa em certo tempo ou circunstância, não gera os efeitos da posse justa transcorrido o tempo. - * Ex: * locação, comodato, conserto, compromisso de compra e venda até que se efetue o pagamento. - Nesses casos pode se transformar em posse injusta quando negada a devolução.
 
 
 
@@ -24,7 +26,7 @@ Justo título: possuidor mantém a coisa mediante título hábil a conferir dire
 
 
 
-** - Pelo abandono; - Pela entrega a quem se negociou a coisa; - Perda ou furto: ressalvado o direito de reavê-la; - Pela destruição da coisa; - Pelo esbulho: ressalvado o direito de reavê-la; - Pelo constituto possessório: operação jurídica em virtude da qual aquele que possuía em seu próprio nome passa, em seguida, a possuir a coisa em nome de outrem;  
+**Pelo abandono;** - Pela entrega a quem se negociou a coisa; - Perda ou furto: ressalvado o direito de reavê-la; - Pela destruição da coisa; - Pelo esbulho: ressalvado o direito de reavê-la; - Pelo constituto possessório: operação jurídica em virtude da qual aquele que possuía em seu próprio nome passa, em seguida, a possuir a coisa em nome de outrem;  
 
 
 
@@ -33,7 +35,7 @@ Justo título: possuidor mantém a coisa mediante título hábil a conferir dire
 
 
 
-** Efeitos jurídicos gerados pela posse e conflitos: **  
+**Efeitos jurídicos gerados pela posse e conflitos:** 
 
 - proteção possessória, percepção de frutos; - responsabilidade pela perda e deterioração; - indenização por benfeitorias; direito de retenção para garantir pagamento; usucapião.
 
@@ -106,6 +108,6 @@ Limite à liberdade de uso da propriedade com uma cultivar de segurança, sosseg
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODI0MTUzNywtNTAzNzQ2NTUsODIxNT
-QxNzk1LDE3NTQ0MjAxMTJdfQ==
+eyJoaXN0b3J5IjpbNDg1NDg5MjIsLTUwMzc0NjU1LDgyMTU0MT
+c5NSwxNzU0NDIwMTEyXX0=
 -->
