@@ -41,14 +41,18 @@
 
 
 
-• ** Esbulho: ** ato em que o possuidor é privado da posse violentamente, clandestinamente, ou por abuso de confiança. • ** Turbação: ** o agente não se apodera da coisa, mas perturba o possuidor pondo em risco sua relação jurídica com a coisa.
+**Esbulho:** ato em que o possuidor é privado da posse violentamente, clandestinamente, ou por abuso de confiança. 
+**Turbação:**  o agente não se apodera da coisa, mas perturba o possuidor pondo em risco sua relação jurídica com a coisa.
 
 
 
 
 
 
-Propriedade: propriedade ao sujeito ao direito de usar, gozar e ter do bem, e reavê-la de quem quer que injustamente o possua. • ** Modo de aquisição: ** original e derivado. • ** Original: ** adquirido domínio de forma primitiva, sem que tenha havido nenhuma relação jurídica anterior. Por exemplo: acessão (avulsão, aluvião ou abandono de álveo); usucapião. • ** Derivado: **
+Propriedade: propriedade ao sujeito ao direito de usar, gozar e ter do bem, e reavê-la de quem quer que injustamente o possua. 
+**Modo de aquisição:**  original e derivado. 
+**Original:**  adquirido domínio de forma primitiva, sem que tenha havido nenhuma relação jurídica anterior. Por exemplo: acessão (avulsão, aluvião ou abandono de álveo); usucapião. 
+** Derivado: **
 
 
 
@@ -108,6 +112,6 @@ Limite à liberdade de uso da propriedade com uma cultivar de segurança, sosseg
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1NDg5MjIsLTUwMzc0NjU1LDgyMTU0MT
-c5NSwxNzU0NDIwMTEyXX0=
+eyJoaXN0b3J5IjpbMjAxODg5NjA0MiwtNTAzNzQ2NTUsODIxNT
+QxNzk1LDE3NTQ0MjAxMTJdfQ==
 -->
