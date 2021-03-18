@@ -6,7 +6,7 @@
 ** Posse: ** relação de fato entre o sujeito e a coisa, efeitos na órbita do direito, juridicamente protegida se exercida a justo título ou de boa-fé.  
 
 
-• ** Justo título: ** possuidor mantém a coisa mediante título hábil a conferir direito e outorgado pelo verdadeiro possuidor ou proprietário. • ** Posse injusta: ** violenta, clandestina ou precária. • ** Posse precária ou necessidadepria: ** mera detenção, com obrigação de devolver a coisa em certo tempo ou circunstância, não gera os efeitos da posse justa transcorrido o tempo. - * Ex: * locação, comodato, conserto, compromisso de compra e venda até que se efetue o pagamento. - Nesses casos pode se transformar em posse injusta quando negada a devolução.
+Justo título: possuidor mantém a coisa mediante título hábil a conferir direito e outorgado pelo verdadeiro possuidor ou proprietário. **Posse injusta:**  violenta, clandestina ou precária. • ** Posse precária ou necessidadepria: ** mera detenção, com obrigação de devolver a coisa em certo tempo ou circunstância, não gera os efeitos da posse justa transcorrido o tempo. - * Ex: * locação, comodato, conserto, compromisso de compra e venda até que se efetue o pagamento. - Nesses casos pode se transformar em posse injusta quando negada a devolução.
 
 
 
@@ -14,7 +14,9 @@
 
 
 
-Boa fé: possuidor ignora vício ou obstáculo que lhe impede a aquisição da coisa ou direito possuído. • ** Má fé: ** possuidor sabe que a posse é de origem clandestina ou violenta. • ** Adquira-se um posse: ** - Pela apreensão da coisa ou pelo exercício do direito de possuir: coisas sem dono, coisas abandonadas, se a coisa está sob o domínio de alguém que não oferece resistência se a coisa por esbulhada. - Pelo fato de se dispor da coisa ou fazer direito: ex. exercício do direito de passagem. - Demais modos de aquisição em geral: contrato de empréstimo, contrato de locação, compromisso de compra e venda. ** Perde-se um grupo:
+**Boa fé:** possuidor ignora vício ou obstáculo que lhe impede a aquisição da coisa ou direito possuído.
+ **Má fé:** possuidor sabe que a posse é de origem clandestina ou violenta. 
+ Adquira-se um posse:  - Pela apreensão da coisa ou pelo exercício do direito de possuir: coisas sem dono, coisas abandonadas, se a coisa está sob o domínio de alguém que não oferece resistência se a coisa por esbulhada. - Pelo fato de se dispor da coisa ou fazer direito: ex. exercício do direito de passagem. - Demais modos de aquisição em geral: contrato de empréstimo, contrato de locação, compromisso de compra e venda. ** Perde-se um grupo:
 
   
 
@@ -104,6 +106,6 @@ Limite à liberdade de uso da propriedade com uma cultivar de segurança, sosseg
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzc0NjU1LDgyMTU0MTc5NSwxNzU0ND
-IwMTEyXX0=
+eyJoaXN0b3J5IjpbMTM2ODI0MTUzNywtNTAzNzQ2NTUsODIxNT
+QxNzk1LDE3NTQ0MjAxMTJdfQ==
 -->
