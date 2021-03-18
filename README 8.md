@@ -78,27 +78,14 @@ Incorporador: empresa imobiliária de natureza civil.
 
 **Perda voluntária da propriedade:**
 
-- alienação; - renúncia; - abandono.
+**alienação; - renúncia; - abandono.**
 
-
-
-** Desapropriação: ** - perda total ou parcial da propriedade de modo involuntário, - por ato de autoridade pública, fundado em lei e justificado o interesse público subordinante ao interesse privado, - beneficio de obra pública, - prévia e justa indenização em dinheiro ( confisco).
-
-
-
-
-
-** Pode ser amigável ou judicial. **
+**Desapropriação:** - perda total ou parcial da propriedade de modo involuntário, - por ato de autoridade pública, fundado em lei e justificado o interesse público subordinante ao interesse privado, - beneficio de obra pública, - prévia e justa indenização em dinheiro ( confisco).
+**Pode ser amigável ou judicial.** 
 
 ## Direito de vizinhança
 
 Limite à liberdade de uso da propriedade com uma cultivar de segurança, sossego e saúde dos habitantes. Uso anormal da propriedade: uma lei interfere disciplinando comportamento em caso de incômodo ou prejuízo à segurança, sossego e saúde. Aplicação da lei a cada caso: - impor que seja tolerado o incômodo ou prejuízo suportável; - impor que seja parcialmente proibida a prática do ato, sob pena de multa; - impedir totalmente a prática do ato lesivo, abusivo ou ilegal; - Emissão de importância condenação de indenização pelo dano; - impor a obrigação de sanar, refazer ou desfazer ao estiver irregular.
-
-
-
-
-
-
 
 
 ## Árvores limítrofes
@@ -111,6 +98,6 @@ Limite à liberdade de uso da propriedade com uma cultivar de segurança, sosseg
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1NTM4NTExLC01MDM3NDY1NSw4MjE1ND
+eyJoaXN0b3J5IjpbMTY1MDU0OTcwLC01MDM3NDY1NSw4MjE1ND
 E3OTUsMTc1NDQyMDExMl19
 -->
