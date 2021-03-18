@@ -93,7 +93,19 @@ vizinho. Conseqüências: indenização, demolição, ou
 até mesmo o embargo da obra (telhados que vertem
 goteiras, janelas/terraços/varandas a menos de metro e meio,
 ruínas, desmoronamentos, bate-estacas, etc).
+
+**Regulamentos administrativos:** política de desenvolvimento urbano através do plano diretor aprovado pela Câmara Municipal, cidades com mais de 20 mil habitantes, objetiva ordenar o pleno desenvolvimento das funções sociais da cidade e garantir o bem-estar de seus habitantes.
+
+• Visa delimitar o uso e gozo dos bens e direitos em favor do bem comum: poder de polícia através normas de direito público.
+
+• O poder de polícia tutela o interesse social segundo o interesse específico: urbanístico, proteção às riquezas naturais, servidões administrativas, desapropriações.
+
+**Embargo da construção:** embargo a obra em andamento,
+requerido por vizinho ou administração pública, meios
+extrajudiciais ou judiciais, em razão de interesse social,
+prejuízo à segurança, à saúde, ao sossego e ao conforto
+das pessoas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjczNDc4MjIsLTUwMzc0NjU1LDgyMT
+eyJoaXN0b3J5IjpbLTE5MTUyMTM5MjgsLTUwMzc0NjU1LDgyMT
 U0MTc5NSwxNzU0NDIwMTEyXX0=
 -->
