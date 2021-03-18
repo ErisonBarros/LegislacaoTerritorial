@@ -73,20 +73,13 @@ Limite à liberdade de uso da propriedade com uma cultivar de segurança, sosseg
 
 ## **Água**
 
-Questão regulada pelo Código Civil e Código das Águas.
+ - Questão regulada pelo Código Civil e Código das Águas.
+ - Dono do prédio inferior tem obrigação de suportar águas que correm    naturalmente do prédio superior (chuva e fonte); sendo proibidas    obras que piorem a situação do prédio inferior.
+ - As águas que fluem artificialmente não podem ser lançadas ao prédio    inferior, senão mediante servidão de passagem própria, que exclui o    direito de indenização.
+ - Nascentes e coleções d’ ́águas não podem impedir ou desviar cursos    naturais.
+ - Proibidas construções que possam poluir águas de poços.
 
-• Dono do prédio inferior tem obrigação de suportar
-águas que correm naturalmente do prédio superior
-(chuva e fonte); sendo proibidas obras que piorem a
-situação do prédio inferior.
-• As águas que fluem artificialmente não podem ser
-lançadas ao prédio inferior, senão mediante servidão de
-passagem própria, que exclui o direito de indenização.
-• Nascentes e coleções d’ ́águas não podem impedir ou
-desviar cursos naturais.
-• Proibidas construções que possam poluir águas de
-poços.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5ODM2MTczLC01MDM3NDY1NSw4MjE1ND
+eyJoaXN0b3J5IjpbNzIxMDg5OTM0LC01MDM3NDY1NSw4MjE1ND
 E3OTUsMTc1NDQyMDExMl19
 -->
