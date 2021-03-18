@@ -100,12 +100,8 @@ ruínas, desmoronamentos, bate-estacas, etc).
 
 • O poder de polícia tutela o interesse social segundo o interesse específico: urbanístico, proteção às riquezas naturais, servidões administrativas, desapropriações.
 
-**Embargo da construção:** embargo a obra em andamento,
-requerido por vizinho ou administração pública, meios
-extrajudiciais ou judiciais, em razão de interesse social,
-prejuízo à segurança, à saúde, ao sossego e ao conforto
-das pessoas.
+**Embargo da construção:** embargo a obra em andamento, requerido por vizinho ou administração pública, meios extrajudiciais ou judiciais, em razão de interesse social, prejuízo à segurança, à saúde, ao sossego e ao conforto das pessoas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTUyMTM5MjgsLTUwMzc0NjU1LDgyMT
-U0MTc5NSwxNzU0NDIwMTEyXX0=
+eyJoaXN0b3J5IjpbMTE1NTMwNzcxMCwtNTAzNzQ2NTUsODIxNT
+QxNzk1LDE3NTQ0MjAxMTJdfQ==
 -->
