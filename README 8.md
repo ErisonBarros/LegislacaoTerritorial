@@ -79,7 +79,21 @@ Limite à liberdade de uso da propriedade com uma cultivar de segurança, sosseg
  - Nascentes e coleções d’ ́águas não podem impedir ou desviar cursos    naturais.
  - Proibidas construções que possam poluir águas de poços.
 
+**Limites entre prédios:** limites de domínio como cercas,
+tapumes e muros divisórios devem obedecer ao limites
+exatos entre os prédios, observando-se marcos
+originais ou o lançado em escrituras.
+Na falta das marcas originais pode-se valer do
+levantamento topográfico com posterior averbação em
+cartório.
+
+**Direito de construir:** a liberdade de construir de um não
+pode colocar em risco ou causar prejuízo ao outro
+vizinho. Conseqüências: indenização, demolição, ou
+até mesmo o embargo da obra (telhados que vertem
+goteiras, janelas/terraços/varandas a menos de metro e meio,
+ruínas, desmoronamentos, bate-estacas, etc).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxMDg5OTM0LC01MDM3NDY1NSw4MjE1ND
-E3OTUsMTc1NDQyMDExMl19
+eyJoaXN0b3J5IjpbLTE0MjczNDc4MjIsLTUwMzc0NjU1LDgyMT
+U0MTc5NSwxNzU0NDIwMTEyXX0=
 -->
