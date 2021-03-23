@@ -86,6 +86,18 @@ Em um lote de 3.000m2, com C.A máx. de 3,0, T.O. máx. de 60% e a altura máxim
 
 área máx. a construir por pavim.= 3.000m2 x 60% = 1.800m2
 
+<img src="https://i.ibb.co/n1dc223/Capturar-de-rea.jpg" alt="Capturar-de-rea" border="0">
+
+Exemplo 2:
+
+Em um lote de 2.000m2, com C.A. máx. de 2,0, T.O. máx. de 40% e a altura máxima de 45m, será possível construir:
+
+área construída total máxima = 2.000m2 x 2 = 4.000m2
+
+área máx. a construir por pavim. = 2.000m2 x 40% = 800m2
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTY3NTE1OF19
+eyJoaXN0b3J5IjpbLTIwNDUwNDM1ODcsMjExOTY3NTE1OF19
 -->
