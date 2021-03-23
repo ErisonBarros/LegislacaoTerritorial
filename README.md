@@ -23,9 +23,10 @@
 <li><a href="https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/README3.md">Direito das Coisas</a>;</li>
 <li>Direito Civil;</li>
 
-<li>Direito Urbanístico;</li>
+
 <li><a href="https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/Estatuto%20da%20Cidade.md">Direito Urbanísticos</a>;</li>
 <li>Direito Agrário;</li>
+
 <li><a
 href="https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/REAME4.md">Legislação Cartográfica;</li>
 <li>Legislação Profissional;</li>
@@ -60,6 +61,6 @@ b.	Seminário em Grupo sobre Proposta de Parcelamento de uma Gleba Urbana para f
 <p><a href="http://https://1drv.ms/x/s!AjO4oAHV5BZuioozg3Ez9_Rd86UWbg?e=sxfTQx" title="UNIDADES PROGRAMÁTICAS">UNIDADES PROGRAMÁTICAS</a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMjAwNzM2LC03NzQxMzM1NzcsLTEwND
+eyJoaXN0b3J5IjpbMzU5NDYwMTY3LC03NzQxMzM1NzcsLTEwND
 kxNjY0MDVdfQ==
 -->
