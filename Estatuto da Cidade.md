@@ -15,6 +15,9 @@ A Lei Nº 10.257 de 10 de julho de 2001 – Estatuto da Cidade – regulamenta o
  - Interesse público
  - Buscando o bem-estar  coletivo e a justiça social
 
+Instrumentos urbanístcos de indução da **FUNÇÃO SOCIAL DA PROPRIEDADE**
+
+
 **GESTÃO  DEMOCRÁTICA**, garantindo a participação da população urbana em todas as decisões de interesse público.
 
 **A JUSTA DISTRIBUIÇÃO**  dos benefícios e dos ônus decorrentes do processo de urbanização.
@@ -134,8 +137,9 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzI1NDk3MCwtMTI0MjE0NTI1OCw5OD
-cyNzk1MiwxNjIxMjA1MTQ1LC0xOTc2MTI4MDMwLDkxOTQzODI1
-NSwtMTg0MTgwMjk0MCwtMTcwMjM4MzI4MCwtNTkzMDQ1Mjg0LC
-05NTc0MjU4NDQsLTcwMjQyMjc0LC0zMDM2NzgyMDBdfQ==
+eyJoaXN0b3J5IjpbMjgwMTY4NTYwLDE5MTMyNTQ5NzAsLTEyND
+IxNDUyNTgsOTg3Mjc5NTIsMTYyMTIwNTE0NSwtMTk3NjEyODAz
+MCw5MTk0MzgyNTUsLTE4NDE4MDI5NDAsLTE3MDIzODMyODAsLT
+U5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MDI0MjI3NCwtMzAzNjc4
+MjAwXX0=
 -->
