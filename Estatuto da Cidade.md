@@ -39,17 +39,26 @@ de uso e ocupação do solo
 
 Obrigatório para Cidades:
 
-•com mais de vinte mil habitantes;
+• com mais de vinte mil habitantes;
 
 •integrantes de regiões metropolitanas e aglomerações urbanas;
 
-•onde o Poder público Municipal pretenda utilizar os instrumentos previstos no § 4º do art. 182 da Constituição Federal;
+• onde o Poder público Municipal pretenda utilizar os instrumentos previstos no § 4º do art. 182 da Constituição Federal;
 
-•pertencentes a áreas de especial interesse turístico;
+• pertencentes a áreas de especial interesse turístico;
 
-•inseridas em área de influência de empreendimentos ou atividades com impacto regional ou nacional.
+• inseridas em área de influência de empreendimentos ou atividades com impacto regional ou nacional.
+
+• No caso de cidades com mais de 500 mil habitantes deverá ser elaborado um  plano de transporte urbano  integrado, compatível com o Plano Diretor ou nele inserido.
+
+• A Lei que instituir o Plano Diretor deverá ser revista, pelo menos, a cada dez anos.
+
+• Cidades com mais de 20 mil habitantes ou que pertençam a regiões metropolitanas ou aglomerações urbanas que não tiverem Plano Diretor deverão aprová-los no  prazo de 5 anos.
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwNzE4MDg4LC0zMDM2NzgyMDBdfQ==
+eyJoaXN0b3J5IjpbLTYxNTA4NDI2MywtMzAzNjc4MjAwXX0=
 -->
