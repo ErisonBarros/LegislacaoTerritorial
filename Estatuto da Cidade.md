@@ -28,6 +28,12 @@ A Lei Nº 10.257 de 10 de julho de 2001 – Estatuto da Cidade – regulamenta o
 
 **GARANTIA DO DIREITO A CIDADES SUTENTÁVEIS**
 
+**SIMPLIFICAÇÃO DA LEGISLAÇÃO** de parcelamento, 
+de uso e ocupação do solo
+
+**ISONOMIA DE CONDIÇÕES**
+
+O PLANEJAMENTO  como processo construído a partir da participação permanente dos diferentes grupos sociais
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzY3ODIwMF19
+eyJoaXN0b3J5IjpbMTMwNTc5MDE0NiwtMzAzNjc4MjAwXX0=
 -->
