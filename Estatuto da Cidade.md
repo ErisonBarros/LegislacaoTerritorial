@@ -22,8 +22,16 @@ Instrumentos urbanístcos de indução da **FUNÇÃO SOCIAL DA PROPRIEDADE**
 **Ocupação desequilibrada**
 “Bairros bem planejados inspiram moradores, ao passo que comunidades mal planejadas brutalizam seus cidadãos”. *(Rogers, 2011)*
 
- 1. áreas com boa infraestrutura
- 2. áreas de vulnerabilidade urbana e ambiental (ma
+ 1. áreas com boa infraestrutura (Ociosas)
+ 2. áreas de vulnerabilidade urbana e ambiental (maior)
+
+## Instrumentos da Polítca Urbana
+
+IPTU Progressivo no Tempo 
+Outorga Onerosa do Direito de Construir 
+Transferência do Direito de Construir ZEIS – Zona Especial de Interesse Social 
+Direito de Preempção 
+Direito de Superfcie Consórcio Imobiliário EIV – Estudo de Impacto de Vizinlança Usucapião Especial
 
 **GESTÃO  DEMOCRÁTICA**, garantindo a participação da população urbana em todas as decisões de interesse público.
 
@@ -144,9 +152,9 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDI0NTMxNSwtMjMwNTA3OTg2LDE5MT
-MyNTQ5NzAsLTEyNDIxNDUyNTgsOTg3Mjc5NTIsMTYyMTIwNTE0
-NSwtMTk3NjEyODAzMCw5MTk0MzgyNTUsLTE4NDE4MDI5NDAsLT
-E3MDIzODMyODAsLTU5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MDI0
-MjI3NCwtMzAzNjc4MjAwXX0=
+eyJoaXN0b3J5IjpbODQ2MzM2MDI2LC0yMzA1MDc5ODYsMTkxMz
+I1NDk3MCwtMTI0MjE0NTI1OCw5ODcyNzk1MiwxNjIxMjA1MTQ1
+LC0xOTc2MTI4MDMwLDkxOTQzODI1NSwtMTg0MTgwMjk0MCwtMT
+cwMjM4MzI4MCwtNTkzMDQ1Mjg0LC05NTc0MjU4NDQsLTcwMjQy
+Mjc0LC0zMDM2NzgyMDBdfQ==
 -->
