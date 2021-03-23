@@ -22,8 +22,12 @@ A Lei Nº 10.257 de 10 de julho de 2001 – Estatuto da Cidade – regulamenta o
 
 **RECUPERAÇÃO DA VALORIZAÇÃO IMOBILIÁRIA**  decorrente dos investimentos públicos em infra-estrutura social e física.
 
+**ADEQUAÇÃO DOS INSTRUMENTOS**  de política econômica, tributária e financeira e dos gastos públicos aos objetivos do desenvolvimento urbano.
 
+**EVITAR CONFLITOS ENTRE AS ESFERAS DE GOVERNO NA ÁREA URBANÍSTICA**
+
+**GARANTIA DO DIREITO A CIDADES SUTENTÁVEIS**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg3NTczNjJdfQ==
+eyJoaXN0b3J5IjpbLTMwMzY3ODIwMF19
 -->
