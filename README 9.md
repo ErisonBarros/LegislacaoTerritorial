@@ -126,6 +126,12 @@ O recuo frontal de 5 m é exigido para todo o perímetro urbano.
 Já os recuos laterais e de fundos são facultados nas construções de até 4m de altura, observando os limites impostos pelas taxas de ocupação, permeabilidade e coeficientes.
 
 Caso haja aberturas voltadas para a divisa, será exigido o 1,5m de afastamento lateral.
+
+### Recuos
+A medida possibilita o desenvolvimento de novas tipologias, antes proibidas pela legislação.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzNDU4MDA5LDIxMTk2NzUxNThdfQ==
+eyJoaXN0b3J5IjpbLTQ1MTcwMjU2MywyMTE5Njc1MTU4XX0=
 -->
