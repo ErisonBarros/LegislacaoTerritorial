@@ -76,12 +76,21 @@ O Plano Diretor delimitará as áreas onde o planejamento urbano indicar a possi
 **Transferência do direito de construir  :** implantação de equipamentos urbanos e comunitários; preservação de imóvel de valor histórico, ambiental, paisagístico, social ou cultural; programas de regularização fundiária, urbanização de áreas ocupadas por população de baixa renda e construção de habitações de interesse social.
 
 
+**Estudo de impacto de vizinhança  –  definir em lei -** Esse Estudo deverá analisar os efeitos do empreendimento ou atividade sobre a qualidade de vida urbana, em especial nos aspectos que terão impactos relacionados:
 
+•ao adensamento da população;
+•à capacidade dos equipamentos urbanos e comunitários pré-existentes;
+•ao uso e ocupação do solo;
+•à valorização ou desvalorização dos imóveis na região;
+
+à geração de tráfego e aumento da demanda por transporte público; à ventilação e iluminação das edificações existentes; à paisagem urbana; ao patrimônio natural e cultural.
+
+Concessão de uso especial para fins de moradia  – Permite a regularização das moradias ilegais para aqueles que possuíam como seu, por 5 anos, até 30 de junho de 2001, até 250 m2 de imóvel público situado em área urbana, utilizando-o para sua moradia ou de sua família, desde que não seja proprietário ou concessionário de outro imóvel urbano ou rural.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzMwMTk0MywtMTcwMjM4MzI4MCwtNT
+eyJoaXN0b3J5IjpbLTQ2ODc2NjUwNSwtMTcwMjM4MzI4MCwtNT
 kzMDQ1Mjg0LC05NTc0MjU4NDQsLTcwMjQyMjc0LC0zMDM2Nzgy
 MDBdfQ==
 -->
