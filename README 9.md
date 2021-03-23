@@ -149,6 +149,8 @@ A taxa de arborização não significa que o proprietário poderá desmatar o re
 Conforme estipulado no Plano Diretor, a faixa entre a Av. Padre Anchieta e a praia tem seu gabarito máximo limitado a 15m de altura. Nas outras faixas, os técnicos da Prefeitura adotaram o conceito de favorecer a ventilação dos imóveis mais afastados da praia, conforme a ilustração abaixo:
 
 <img src="https://i.ibb.co/k8cXwPj/Capturar-de-rea5.jpg" alt="Capturar-de-rea5" border="0">
+
+<img src="https://i.ibb.co/rbfxGJw/Capturar-de-rea6.jpg" alt="Capturar-de-rea6" border="0">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQyMjc0MDIsMjExOTY3NTE1OF19
+eyJoaXN0b3J5IjpbNjIyNTM4NDQzLDIxMTk2NzUxNThdfQ==
 -->
