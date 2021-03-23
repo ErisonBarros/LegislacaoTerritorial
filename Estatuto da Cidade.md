@@ -37,7 +37,7 @@ de uso e ocupação do solo
 
 ## Plano Diretor 
 
-https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/ferpenna01.png
+![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/ferpenna01.png)
 
 Obrigatório para Cidades:
 
@@ -56,6 +56,10 @@ Obrigatório para Cidades:
 • A Lei que instituir o Plano Diretor deverá ser revista, pelo menos, a cada dez anos.
 
 • Cidades com mais de 20 mil habitantes ou que pertençam a regiões metropolitanas ou aglomerações urbanas que não tiverem Plano Diretor deverão aprová-los no  prazo de 5 anos.
+
+![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer02-300x280.jpg)
+
+![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer03-300x285.jpg)
 
 **Parcelamento, edificação ou utilização compulsórios**
 
@@ -105,7 +109,7 @@ As áreas urbanas com mais de 250 m2 poderão ser regularizadas mesmo não sendo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDEzNDA5NSw5MTk0MzgyNTUsLTE4ND
-E4MDI5NDAsLTE3MDIzODMyODAsLTU5MzA0NTI4NCwtOTU3NDI1
-ODQ0LC03MDI0MjI3NCwtMzAzNjc4MjAwXX0=
+eyJoaXN0b3J5IjpbNTkxMzQyMDg0LDkxOTQzODI1NSwtMTg0MT
+gwMjk0MCwtMTcwMjM4MzI4MCwtNTkzMDQ1Mjg0LC05NTc0MjU4
+NDQsLTcwMjQyMjc0LC0zMDM2NzgyMDBdfQ==
 -->
