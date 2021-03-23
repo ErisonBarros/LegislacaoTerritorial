@@ -12,8 +12,15 @@ A Lei Nº 10.257 de 10 de julho de 2001 – Estatuto da Cidade – regulamenta o
 
 ##  PRINCÍPIOS BÁSICOS
 
+ - Interesse público
+ - Buscando o bem-estar  coletivo e a justiça social
+
+**GESTÃO  DEMOCRÁTICA**, garantindo a participação da população urbana em todas as decisões de interesse público.
+
+**A JUSTA DISTRIBUIÇÃO**  dos benefícios e dos ônus decorrentes do processo de urbanização.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY4Njk1NDRdfQ==
+eyJoaXN0b3J5IjpbOTk5ODgwOTQ4XX0=
 -->
