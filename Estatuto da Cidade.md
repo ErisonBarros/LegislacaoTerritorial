@@ -69,6 +69,13 @@ Obrigatório para Cidades:
 
 **QUAL O OBJETIVO?**
 
+O Plano Diretor tem como objetivo garantir o atendimento das necessidades dos moradores, promover uma melhor qualidade de vida na cidade, preservar e restaurar os sistemas ambientais, solicitar a regularização fundiária, consolidar os princípios da reforma urbana, entre outros. Ele é altamente recomendado para todos os municípios brasileiros e obrigatório para cidades:
+
+-   Com mais de vinte mil habitantes;
+-   Integrantes de regiões metropolitanas;
+-   Integrantes de áreas turísticas; ou
+-   Inseridas em área de influência de atividades com significativo impacto ambiental, como aeroportos, rodovias e hidrelétricas.
+
 ![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer07-300x279.jpg)
 
 ![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer08-300x278.jpg)
@@ -105,7 +112,7 @@ O Plano Diretor delimitará as áreas onde o planejamento urbano indicar a possi
 
 à geração de tráfego e aumento da demanda por transporte público; à ventilação e iluminação das edificações existentes; à paisagem urbana; ao patrimônio natural e cultural.
 
-Concessão de uso especial para fins de moradia  – Permite a regularização das moradias ilegais para aqueles que possuíam como seu, por 5 anos, até 30 de junho de 2001, até 250 m2 de imóvel público situado em área urbana, utilizando-o para sua moradia ou de sua família, desde que não seja proprietário ou concessionário de outro imóvel urbano ou rural.
+Concessão de uso especial para fins de moradia  – Permite a regularização das moradias ilegais para aqueles que possuíam como seu, por 5 anos, até 30 de junho de 2001, até 250 m² de imóvel público situado em área urbana, utilizando-o para sua moradia ou de sua família, desde que não seja proprietário ou concessionário de outro imóvel urbano ou rural.
 
 As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não sendo possível identificar a parcela devida de cada um. Neste caso, a concessão de uso especial para fins de moradia será conferida de forma coletiva. Este instrumento foi vetado no Estatuto da Cidade, sendo posteriormente editado pela Medida Provisória 2.220 e para ser Lei a medida provisória precisa ser votada.
 
@@ -113,7 +120,6 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 **Zonas especiais de interesse social (ZEIS)  –** São áreas da cidade, definidas pelo Plano Diretor, comprometidas com a viabilização dos interesses das camadas populares. Ao município é dado instituir zonas com regras especiais, quando o uso admitido vier a promover a integração das pessoas mais necessitadas aos espaços habitáveis. As ZEIS servem para reservar terrenos ou prédios vazios para moradia popular; facilitar a regularização de áreas ocupadas; facilitar a regularização de cortiços.
-
 
 **Operação Urbana:**
 
@@ -123,7 +129,7 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTA0MjMxNiwxNjIxMjA1MTQ1LC0xOT
+eyJoaXN0b3J5IjpbMTQ4MzkyNzIwMSwxNjIxMjA1MTQ1LC0xOT
 c2MTI4MDMwLDkxOTQzODI1NSwtMTg0MTgwMjk0MCwtMTcwMjM4
 MzI4MCwtNTkzMDQ1Mjg0LC05NTc0MjU4NDQsLTcwMjQyMjc0LC
 0zMDM2NzgyMDBdfQ==
