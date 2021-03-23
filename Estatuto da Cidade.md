@@ -60,10 +60,18 @@ Obrigatório para Cidades:
 Com a aplicação deste instrumento, procura-se otimizar os investimentos públicos realizados e penalizar o uso inadequado, fazendo com que a propriedade cumpra a sua função social.
 Imposto predial e territorial urbano progressivo no tempo  – A idéia é punir com um valor crescente, ano a ano, os proprietários de terrenos cuja ociosidade ou mal aproveitamento acarrete prejuízo à população. Não sendo cumpridas as condições legais para o aproveitamento da área, o Município passará a aumentar,  durante 5 anos consecutivos, a alíquota do IPTU, até o limite máximo de 15%.
 
+**Desapropriação com pagamento em títulos da dívida pública.**
+
+Usucapião especial de imóvel urbano  – O cidadão que ocupar área ou edificação urbana de até 250 m2 para sua moradia ou de sua família, por 5 anos consecutivos, sem que o proprietário a reclame, terá garantido o direito à posse, desde que não seja proprietário de outro imóvel urbano ou rural.
+
+**Direito de superfície  –** O proprietário urbano poderá conceder a terceiros o direito de uso da superfície do seu terreno, mediante escritura pública.
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjQyMjc0LC0zMDM2NzgyMDBdfQ==
+eyJoaXN0b3J5IjpbLTEwMDc4NzkyMzYsLTcwMjQyMjc0LC0zMD
+M2NzgyMDBdfQ==
 -->
