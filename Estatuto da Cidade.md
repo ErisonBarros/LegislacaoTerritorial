@@ -66,12 +66,15 @@ Usucapião especial de imóvel urbano  – O cidadão que ocupar área ou edific
 
 **Direito de superfície  –** O proprietário urbano poderá conceder a terceiros o direito de uso da superfície do seu terreno, mediante escritura pública.
 
+**Direito de preempção:** regularização fundiária; execução de programas e projetos habitacionais de interesse social; constituição de reserva fundiária; ordenamento e direcionamento da expansão urbana; implantação de equipamentos urbanos e comunitários; criação de unidades de conservação ou proteção de outras áreas de interesse ambiental; ou proteção de áreas de interesse histórico, cultural ou paisagístico.
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDc4NzkyMzYsLTcwMjQyMjc0LC0zMD
-M2NzgyMDBdfQ==
+eyJoaXN0b3J5IjpbLTk1NzQyNTg0NCwtNzAyNDIyNzQsLTMwMz
+Y3ODIwMF19
 -->
