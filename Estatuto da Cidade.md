@@ -73,11 +73,15 @@ Usucapião especial de imóvel urbano  – O cidadão que ocupar área ou edific
 O Plano Diretor delimitará as áreas onde o planejamento urbano indicar a possibilidade de maior adensamento populacional e definirá os limites máximos de construção a serem atingidos, considerando a infra-estrutura existente e o potencial de densidade a ser alcançado em cada área.
 
 
+**Transferência do direito de construir  :** implantação de equipamentos urbanos e comunitários; preservação de imóvel de valor histórico, ambiental, paisagístico, social ou cultural; programas de regularização fundiária, urbanização de áreas ocupadas por população de baixa renda e construção de habitações de interesse social.
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDIzODMyODAsLTU5MzA0NTI4NCwtOT
-U3NDI1ODQ0LC03MDI0MjI3NCwtMzAzNjc4MjAwXX0=
+eyJoaXN0b3J5IjpbLTExNzMwMTk0MywtMTcwMjM4MzI4MCwtNT
+kzMDQ1Mjg0LC05NTc0MjU4NDQsLTcwMjQyMjc0LC0zMDM2Nzgy
+MDBdfQ==
 -->
