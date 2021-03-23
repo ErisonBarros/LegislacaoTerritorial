@@ -98,13 +98,12 @@ As áreas urbanas com mais de 250 m2 poderão ser regularizadas mesmo não sendo
 **Operação Urbana:**
 
 -  parceria entre o poder público e iniciativa privada;
-
 -  o empresariado contribui para a implantação de obras públicas e de índices urbanísticos em determinada área.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTU4NDEwMSwtMTg0MTgwMjk0MCwtMT
+eyJoaXN0b3J5IjpbMTExNTQ0MjAwMywtMTg0MTgwMjk0MCwtMT
 cwMjM4MzI4MCwtNTkzMDQ1Mjg0LC05NTc0MjU4NDQsLTcwMjQy
 Mjc0LC0zMDM2NzgyMDBdfQ==
 -->
