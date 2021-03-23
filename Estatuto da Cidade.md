@@ -41,6 +41,9 @@ de uso e ocupação do solo
 
 Obrigatório para Cidades:
 
+<img src="https://i.ibb.co/NNv5C6g/Capturar-de-rea10-JPG.jpg" alt="Capturar-de-rea10-JPG" border="0">
+
+
 • com mais de vinte mil habitantes;
 ![enter image description here](https://images2.coelhense.com.br/wp-content/uploads/2019/02/engenheiro-coelho-1517509442-1526993600-1549470489.jpg)
 •integrantes de regiões metropolitanas e aglomerações urbanas;
@@ -129,8 +132,8 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3Mjc5NTIsMTYyMTIwNTE0NSwtMTk3Nj
-EyODAzMCw5MTk0MzgyNTUsLTE4NDE4MDI5NDAsLTE3MDIzODMy
-ODAsLTU5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MDI0MjI3NCwtMz
-AzNjc4MjAwXX0=
+eyJoaXN0b3J5IjpbLTEyNDIxNDUyNTgsOTg3Mjc5NTIsMTYyMT
+IwNTE0NSwtMTk3NjEyODAzMCw5MTk0MzgyNTUsLTE4NDE4MDI5
+NDAsLTE3MDIzODMyODAsLTU5MzA0NTI4NCwtOTU3NDI1ODQ0LC
+03MDI0MjI3NCwtMzAzNjc4MjAwXX0=
 -->
