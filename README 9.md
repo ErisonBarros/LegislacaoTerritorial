@@ -130,8 +130,18 @@ Caso haja aberturas voltadas para a divisa, será exigido o 1,5m de afastamento 
 ### Recuos
 A medida possibilita o desenvolvimento de novas tipologias, antes proibidas pela legislação.
 
+<img src="https://i.ibb.co/wdYDmdy/Capturar-de-rea4.jpg" alt="Capturar-de-rea4" border="0">
+
+## Taxa de Arborização
+
+O objetivo da Taxa de Arborização é favorecer a permanência de árvores dentro dos lotes, principalmente em áreas ambientalmente especiais, como é o caso do Guaraú. A medida faz parte do conceito de Adequação Urbano-Ambiental proposta para aquela macrozona. Ela vale para todos os lotes da Macrozona, providos ou não de vegetação.
+
+Ela indica qual o percentual mínimo do lote, sobre o que exceder 200m2 (não inviabiliza a ocupação dos pequenos lotes existentes), que deverá ser mantido arborizado, facultando-se ao proprietário transferir para lotes próximos o restante da área preservada exigida pelos órgãos ambientais.
+
+## Taxa de preservação vegetal
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTcwMjU2MywyMTE5Njc1MTU4XX0=
+eyJoaXN0b3J5IjpbLTE0NTc2ODcyMzQsMjExOTY3NTE1OF19
 -->
