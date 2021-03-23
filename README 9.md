@@ -48,7 +48,34 @@ A Prefeitura trabalha para disponibilizar, via site ou arquivo off-line, um prog
 
 Neste programa, bastará informar a quadra, o lote e o loteamento do imóvel, o uso pretendido, para que seja gerado um formulário com todas as exigências dos Códigos, da Lei de Uso e Ocupação, podendo também incluir orientações a cerca das legislações estaduais e federais.
 
+## Fim das tipologias
 
+Acaba-se a determinação de padrões tipológicos de construções: R1, R2, C1, etc. Estipula-se apenas os critérios abaixo e, dentro deles, o profissional tem liberdade de criar o que lhe convier:
+
+Coeficiente de Aproveitamento (C.A.) Máximo;
+
+Taxa de Ocupação (T.O.) Máxima;
+
+Taxa de Permeabilidade (T.P.) Mínima;
+
+Recuos;
+
+Altura (gabarito) Máxima.
+
+Os valores são estipulados segundo o critério de cada macrozona e valem para a sua totalidade.
+
+
+## Parâmetros Urbanísticos
+
+**Coeficiente de aproveitamento (C.A.):** indica a área construída máxima que cada terreno pode ter. O C.A. básico indica o quanto é permitido construir de forma gratuita, o C.A. máximo indica o quanto é permitido construir de forma onerosa (paga).
+
+**Taxa de Ocupação (T.O.):** indica qual a percentagem máxima do terreno que pode ser ocupada por um pavimento.
+
+Taxa de Permeabilidade (T.P.): indica qual o percentual do terreno que deve ser mantido permeável.
+
+Taxa de Arborização (T.A.): indica qual o percentual mínimo do lote, sobre o que exceder 200m2, que deverá ser mantido arborizado, facultando-se ao proprietário transferir para lotes próximos o restante da área preservada exigida pelos órgãos ambientais.
+
+Gabarito máximo: altura máxima da edificação em metros.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5NDg2NDg1XX0=
+eyJoaXN0b3J5IjpbMTAxNzAxODE5MF19
 -->
