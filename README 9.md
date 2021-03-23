@@ -71,11 +71,21 @@ Os valores são estipulados segundo o critério de cada macrozona e valem para a
 
 **Taxa de Ocupação (T.O.):** indica qual a percentagem máxima do terreno que pode ser ocupada por um pavimento.
 
-Taxa de Permeabilidade (T.P.): indica qual o percentual do terreno que deve ser mantido permeável.
+**Taxa de Permeabilidade (T.P.):** indica qual o percentual do terreno que deve ser mantido permeável.
 
-Taxa de Arborização (T.A.): indica qual o percentual mínimo do lote, sobre o que exceder 200m2, que deverá ser mantido arborizado, facultando-se ao proprietário transferir para lotes próximos o restante da área preservada exigida pelos órgãos ambientais.
+**Taxa de Arborização (T.A.):** indica qual o percentual mínimo do lote, sobre o que exceder 200m², que deverá ser mantido arborizado, facultando-se ao proprietário transferir para lotes próximos o restante da área preservada exigida pelos órgãos ambientais.
 
-Gabarito máximo: altura máxima da edificação em metros.
+**Gabarito máximo:** altura máxima da edificação em metros.
+
+## Parâmetros Urbanísticos
+Exemplo 1:
+
+Em um lote de 3.000m2, com C.A máx. de 3,0, T.O. máx. de 60% e a altura máxima de 45m, será possível construir:
+
+área construída total máxima = 3.000m2 x 3 = 9.000m2
+
+área máx. a construir por pavim.= 3.000m2 x 60% = 1.800m2
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzAxODE5MF19
+eyJoaXN0b3J5IjpbMjExOTY3NTE1OF19
 -->
