@@ -61,6 +61,9 @@ Obrigatório para Cidades:
 
 ![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer03-300x285.jpg)
 
+**Quem faz ?**
+![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer04-300x281.jpg)
+
 **Parcelamento, edificação ou utilização compulsórios**
 
 Com a aplicação deste instrumento, procura-se otimizar os investimentos públicos realizados e penalizar o uso inadequado, fazendo com que a propriedade cumpra a sua função social.
@@ -109,7 +112,7 @@ As áreas urbanas com mais de 250 m2 poderão ser regularizadas mesmo não sendo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxMzQyMDg0LDkxOTQzODI1NSwtMTg0MT
-gwMjk0MCwtMTcwMjM4MzI4MCwtNTkzMDQ1Mjg0LC05NTc0MjU4
-NDQsLTcwMjQyMjc0LC0zMDM2NzgyMDBdfQ==
+eyJoaXN0b3J5IjpbLTE4MDY1MzY3MjcsOTE5NDM4MjU1LC0xOD
+QxODAyOTQwLC0xNzAyMzgzMjgwLC01OTMwNDUyODQsLTk1NzQy
+NTg0NCwtNzAyNDIyNzQsLTMwMzY3ODIwMF19
 -->
