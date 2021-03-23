@@ -37,6 +37,8 @@ de uso e ocupação do solo
 
 ## Plano Diretor 
 
+
+
 Obrigatório para Cidades:
 
 • com mais de vinte mil habitantes;
@@ -103,7 +105,7 @@ As áreas urbanas com mais de 250 m2 poderão ser regularizadas mesmo não sendo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTQ0MjAwMywtMTg0MTgwMjk0MCwtMT
-cwMjM4MzI4MCwtNTkzMDQ1Mjg0LC05NTc0MjU4NDQsLTcwMjQy
-Mjc0LC0zMDM2NzgyMDBdfQ==
+eyJoaXN0b3J5IjpbOTE5NDM4MjU1LC0xODQxODAyOTQwLC0xNz
+AyMzgzMjgwLC01OTMwNDUyODQsLTk1NzQyNTg0NCwtNzAyNDIy
+NzQsLTMwMzY3ODIwMF19
 -->
