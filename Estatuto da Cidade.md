@@ -20,7 +20,10 @@ A Lei Nº 10.257 de 10 de julho de 2001 – Estatuto da Cidade – regulamenta o
 **A JUSTA DISTRIBUIÇÃO**  dos benefícios e dos ônus decorrentes do processo de urbanização.
 
 
+**RECUPERAÇÃO DA VALORIZAÇÃO IMOBILIÁRIA**  decorrente dos investimentos públicos em infra-estrutura social e física.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5ODgwOTQ4XX0=
+eyJoaXN0b3J5IjpbLTExODg3NTczNjJdfQ==
 -->
