@@ -87,10 +87,16 @@ O Plano Diretor delimitará as áreas onde o planejamento urbano indicar a possi
 
 Concessão de uso especial para fins de moradia  – Permite a regularização das moradias ilegais para aqueles que possuíam como seu, por 5 anos, até 30 de junho de 2001, até 250 m2 de imóvel público situado em área urbana, utilizando-o para sua moradia ou de sua família, desde que não seja proprietário ou concessionário de outro imóvel urbano ou rural.
 
+As áreas urbanas com mais de 250 m2 poderão ser regularizadas mesmo não sendo possível identificar a parcela devida de cada um. Neste caso, a concessão de uso especial para fins de moradia será conferida de forma coletiva. Este instrumento foi vetado no Estatuto da Cidade, sendo posteriormente editado pela Medida Provisória 2.220 e para ser Lei a medida provisória precisa ser votada.
+
+Consórcio imobiliário  – Mecanismo que viabiliza parcerias entre os proprietários de imóveis e o poder público municipal, onde o proprietário transfere a prefeitura o seu imóvel e, após a realização das obras, recebe lotes, casas ou apartamentos no mesmo valor que o terreno tinha antes das obras.
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODc2NjUwNSwtMTcwMjM4MzI4MCwtNT
-kzMDQ1Mjg0LC05NTc0MjU4NDQsLTcwMjQyMjc0LC0zMDM2Nzgy
-MDBdfQ==
+eyJoaXN0b3J5IjpbLTE4NDE4MDI5NDAsLTE3MDIzODMyODAsLT
+U5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MDI0MjI3NCwtMzAzNjc4
+MjAwXX0=
 -->
