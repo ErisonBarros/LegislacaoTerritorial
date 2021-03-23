@@ -183,12 +183,18 @@ Cada macrozona têm um nível de restrição.
 <img src="https://i.ibb.co/2Y8X1Jy/Capturar-de-rea8.jpg" alt="Capturar-de-rea8" border="0">
 
 
+<img src="https://i.ibb.co/hWqjxSQ/Capturar-de-rea9.jpg" alt="Capturar-de-rea9" border="0">
 
+## Atividades com restrições especiais
 
+Pela dificuldade em mensurar seus impactos, pelo difícil controle sobre elas ou pela incompatibilidade do seu uso com as características dos setores, algumas atividades possuem restrições especiais, válidas para toda a cidade ou trecho delas:
 
-
-
+ - Boates, casas de show ou similares – são permitidas apenas nas vias
+   coletoras e arteriais
+ - Oficinas, Serralherias, Marcenarias, Comércios de sucata – são
+   permitidas apenas nas vias coletoras e arteriais fora do Setor de
+   Interesse Turístico
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTAwMTg4MSwyMTE5Njc1MTU4XX0=
+eyJoaXN0b3J5IjpbNzk3MDIxOTU5LDIxMTk2NzUxNThdfQ==
 -->
