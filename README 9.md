@@ -1,7 +1,7 @@
 > Written with [StackEdit](https://stackedit.io/).
 # <font color='blue'> Lei de Uso e Ocupação do Solo</font>
 **Prof. Erison Barros**
-<fonDepartamento de Engenharia Cartográfica
+<font color='red' > Departamento de Engenharia Cartográfica  </font>
 
 # Conceitos
 
@@ -218,5 +218,5 @@ Projetos especiais poderão ser submetidos a regras diferenciadas às estabeleci
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjM0NjE3OSwyMTE5Njc1MTU4XX0=
+eyJoaXN0b3J5IjpbLTEwOTk0MDY0OTIsMjExOTY3NTE1OF19
 -->
