@@ -96,8 +96,8 @@ Em um lote de 2.000m2, com C.A. máx. de 2,0, T.O. máx. de 40% e a altura máxi
 
 **área máx. a construir por pavim. = 2.000 m² x 40% = 800 m²**
 
-
+<img src="https://i.ibb.co/vP0N027/Capturar-de-rea2.jpg" alt="Capturar-de-rea2" border="0">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5NjI0MTUxLDIxMTk2NzUxNThdfQ==
+eyJoaXN0b3J5IjpbMTc3Mzg5MTU0MywyMTE5Njc1MTU4XX0=
 -->
