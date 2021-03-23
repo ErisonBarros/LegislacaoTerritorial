@@ -63,6 +63,10 @@ Obrigatório para Cidades:
 
 **Quem faz ?**
 ![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer04-300x281.jpg)
+![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer05-300x282.jpg)
+
+![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer06-300x288.jpg)
+
 
 **Parcelamento, edificação ou utilização compulsórios**
 
@@ -112,7 +116,7 @@ As áreas urbanas com mais de 250 m2 poderão ser regularizadas mesmo não sendo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY1MzY3MjcsOTE5NDM4MjU1LC0xOD
+eyJoaXN0b3J5IjpbLTE5NzYxMjgwMzAsOTE5NDM4MjU1LC0xOD
 QxODAyOTQwLC0xNzAyMzgzMjgwLC01OTMwNDUyODQsLTk1NzQy
 NTg0NCwtNzAyNDIyNzQsLTMwMzY3ODIwMF19
 -->
