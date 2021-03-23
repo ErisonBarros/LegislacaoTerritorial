@@ -37,7 +37,7 @@ de uso e ocupação do solo
 
 ## Plano Diretor 
 
-
+https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/ferpenna01.png
 
 Obrigatório para Cidades:
 
@@ -105,7 +105,7 @@ As áreas urbanas com mais de 250 m2 poderão ser regularizadas mesmo não sendo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5NDM4MjU1LC0xODQxODAyOTQwLC0xNz
-AyMzgzMjgwLC01OTMwNDUyODQsLTk1NzQyNTg0NCwtNzAyNDIy
-NzQsLTMwMzY3ODIwMF19
+eyJoaXN0b3J5IjpbMTkzNDEzNDA5NSw5MTk0MzgyNTUsLTE4ND
+E4MDI5NDAsLTE3MDIzODMyODAsLTU5MzA0NTI4NCwtOTU3NDI1
+ODQ0LC03MDI0MjI3NCwtMzAzNjc4MjAwXX0=
 -->
