@@ -116,6 +116,20 @@ O Plano Diretor tem como objetivo garantir o atendimento das necessidades dos mo
 Com a aplicação deste instrumento, procura-se otimizar os investimentos públicos realizados e penalizar o uso inadequado, fazendo com que a propriedade cumpra a sua função social.
 Imposto predial e territorial urbano progressivo no tempo  – A idéia é punir com um valor crescente, ano a ano, os proprietários de terrenos cuja ociosidade ou mal aproveitamento acarrete prejuízo à população. Não sendo cumpridas as condições legais para o aproveitamento da área, o Município passará a aumentar,  durante 5 anos consecutivos, a alíquota do IPTU, até o limite máximo de 15%.
 
+## A aplicação do PEUC é uma opção ou um dever do município?
+
+- Pode o município simplesmente ignorar as situações de descumprimento da função social da propriedade urbana?
+- A “faculdade” prevista na Constituição de 1988 (art.182, §4º) tem a forma de um poder-dever da Administração Pública.
+- Por isso, o PEUC é obrigatório como conteúdo de todos os planos diretores municipais.
+
+### Conteúdo mínimo do Plano Diretor em relação ao PEUC
+- Delimitação das áreas urbanas onde poderá ser aplicado o instrumento, considerando a existência de infraestrutura e de demanda para utilização (art. 42, I, EC) 
+-  Caracterização dos imóveis não edificados, não utilizados e subutilizados (art. 3º, I, da Resolução 34/2005 do ConCidades) 
+- Estabelecimento de prazos para cumprimento das obrigações pelos proprietários (art. 3º, IV, da Resolução 34/2005 do ConCidades)
+
+
+“O direito de preempção e os instrumentos de parcelamento, edificação e utilização compulsórios são os mais citados nos planos diretores, mas raramente são regulamentados de forma a garantir sua aplicação” *(SANTOS JÚNIOR; MONTANDON, 2011, p. 78).*
+
 
 
 **Desapropriação com pagamento em títulos da dívida pública.**
@@ -160,9 +174,10 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzA5ODAwNywxNjAwMzk4NjcxLC0yMz
-A1MDc5ODYsMTkxMzI1NDk3MCwtMTI0MjE0NTI1OCw5ODcyNzk1
-MiwxNjIxMjA1MTQ1LC0xOTc2MTI4MDMwLDkxOTQzODI1NSwtMT
-g0MTgwMjk0MCwtMTcwMjM4MzI4MCwtNTkzMDQ1Mjg0LC05NTc0
-MjU4NDQsLTcwMjQyMjc0LC0zMDM2NzgyMDBdfQ==
+eyJoaXN0b3J5IjpbLTgxNjI3OTM0MCwtNDM3MDk4MDA3LDE2MD
+AzOTg2NzEsLTIzMDUwNzk4NiwxOTEzMjU0OTcwLC0xMjQyMTQ1
+MjU4LDk4NzI3OTUyLDE2MjEyMDUxNDUsLTE5NzYxMjgwMzAsOT
+E5NDM4MjU1LC0xODQxODAyOTQwLC0xNzAyMzgzMjgwLC01OTMw
+NDUyODQsLTk1NzQyNTg0NCwtNzAyNDIyNzQsLTMwMzY3ODIwMF
+19
 -->
