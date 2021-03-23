@@ -89,14 +89,14 @@ Concessão de uso especial para fins de moradia  – Permite a regularização d
 
 As áreas urbanas com mais de 250 m2 poderão ser regularizadas mesmo não sendo possível identificar a parcela devida de cada um. Neste caso, a concessão de uso especial para fins de moradia será conferida de forma coletiva. Este instrumento foi vetado no Estatuto da Cidade, sendo posteriormente editado pela Medida Provisória 2.220 e para ser Lei a medida provisória precisa ser votada.
 
-Consórcio imobiliário  – Mecanismo que viabiliza parcerias entre os proprietários de imóveis e o poder público municipal, onde o proprietário transfere a prefeitura o seu imóvel e, após a realização das obras, recebe lotes, casas ou apartamentos no mesmo valor que o terreno tinha antes das obras.
+**Consórcio imobiliário  –** Mecanismo que viabiliza parcerias entre os proprietários de imóveis e o poder público municipal, onde o proprietário transfere a prefeitura o seu imóvel e, após a realização das obras, recebe lotes, casas ou apartamentos no mesmo valor que o terreno tinha antes das obras.
 
 
-
+**Zonas especiais de interesse social (ZEIS)  –** São áreas da cidade, definidas pelo Plano Diretor, comprometidas com a viabilização dos interesses das camadas populares. Ao município é dado instituir zonas com regras especiais, quando o uso admitido vier a promover a integração das pessoas mais necessitadas aos espaços habitáveis. As ZEIS servem para reservar terrenos ou prédios vazios para moradia popular; facilitar a regularização de áreas ocupadas; facilitar a regularização de cortiços.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDE4MDI5NDAsLTE3MDIzODMyODAsLT
-U5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MDI0MjI3NCwtMzAzNjc4
-MjAwXX0=
+eyJoaXN0b3J5IjpbMTkwOTc1NjgyNywtMTg0MTgwMjk0MCwtMT
+cwMjM4MzI4MCwtNTkzMDQ1Mjg0LC05NTc0MjU4NDQsLTcwMjQy
+Mjc0LC0zMDM2NzgyMDBdfQ==
 -->
