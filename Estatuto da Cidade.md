@@ -33,7 +33,23 @@ de uso e ocupação do solo
 
 **ISONOMIA DE CONDIÇÕES**
 
-O PLANEJAMENTO  como processo construído a partir da participação permanente dos diferentes grupos sociais
+**O PLANEJAMENTO**  como processo construído a partir da participação permanente dos diferentes grupos sociais.
+
+## Plano Diretor 
+
+Obrigatório para Cidades:
+
+•com mais de vinte mil habitantes;
+
+•integrantes de regiões metropolitanas e aglomerações urbanas;
+
+•onde o Poder público Municipal pretenda utilizar os instrumentos previstos no § 4º do art. 182 da Constituição Federal;
+
+•pertencentes a áreas de especial interesse turístico;
+
+•inseridas em área de influência de empreendimentos ou atividades com impacto regional ou nacional.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTc5MDE0NiwtMzAzNjc4MjAwXX0=
+eyJoaXN0b3J5IjpbMzUwNzE4MDg4LC0zMDM2NzgyMDBdfQ==
 -->
