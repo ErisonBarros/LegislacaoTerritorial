@@ -27,11 +27,19 @@ Instrumentos urbanístcos de indução da **FUNÇÃO SOCIAL DA PROPRIEDADE**
 
 ## Instrumentos da Polítca Urbana
 
-IPTU Progressivo no Tempo 
-Outorga Onerosa do Direito de Construir 
-Transferência do Direito de Construir ZEIS – Zona Especial de Interesse Social 
-Direito de Preempção 
-Direito de Superfcie Consórcio Imobiliário EIV – Estudo de Impacto de Vizinlança Usucapião Especial
+ - IPTU Progressivo no Tempo
+ - Outorga Onerosa do Direito de Construir
+ - Transferência do Direito de Construir ZEIS – Zona Especial de
+   Interesse Socia
+
+ - Direito de Preempção
+
+ - Direito de Superfície
+
+ - Consórcio Imobiliário EIV – Estudo de Impacto de Vizinhança
+
+ - Usucapião Especial
+
 
 **GESTÃO  DEMOCRÁTICA**, garantindo a participação da população urbana em todas as decisões de interesse público.
 
@@ -152,9 +160,9 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2MzM2MDI2LC0yMzA1MDc5ODYsMTkxMz
-I1NDk3MCwtMTI0MjE0NTI1OCw5ODcyNzk1MiwxNjIxMjA1MTQ1
-LC0xOTc2MTI4MDMwLDkxOTQzODI1NSwtMTg0MTgwMjk0MCwtMT
-cwMjM4MzI4MCwtNTkzMDQ1Mjg0LC05NTc0MjU4NDQsLTcwMjQy
-Mjc0LC0zMDM2NzgyMDBdfQ==
+eyJoaXN0b3J5IjpbLTEwMDk4ODA5MDAsLTIzMDUwNzk4NiwxOT
+EzMjU0OTcwLC0xMjQyMTQ1MjU4LDk4NzI3OTUyLDE2MjEyMDUx
+NDUsLTE5NzYxMjgwMzAsOTE5NDM4MjU1LC0xODQxODAyOTQwLC
+0xNzAyMzgzMjgwLC01OTMwNDUyODQsLTk1NzQyNTg0NCwtNzAy
+NDIyNzQsLTMwMzY3ODIwMF19
 -->
