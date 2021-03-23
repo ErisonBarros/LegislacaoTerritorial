@@ -48,7 +48,7 @@ Obrigatório para Cidades:
 • onde o Poder público Municipal pretenda utilizar os instrumentos previstos no § 4º do art. 182 da Constituição Federal;
 
 • pertencentes a áreas de especial interesse turístico;
-
+![enter image description here](https://revistanove.com.br/wp-content/uploads/2019/01/atrativos-turisticos-da-baixada-santista-revista-nove-foto-divulgacao.jpg)
 • inseridas em área de influência de empreendimentos ou atividades com impacto regional ou nacional.
 
 • No caso de cidades com mais de 500 mil habitantes deverá ser elaborado um  plano de transporte urbano  integrado, compatível com o Plano Diretor ou nele inserido.
@@ -129,8 +129,8 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQxMDQyMDIsMTYyMTIwNTE0NSwtMT
-k3NjEyODAzMCw5MTk0MzgyNTUsLTE4NDE4MDI5NDAsLTE3MDIz
-ODMyODAsLTU5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MDI0MjI3NC
-wtMzAzNjc4MjAwXX0=
+eyJoaXN0b3J5IjpbOTg3Mjc5NTIsMTYyMTIwNTE0NSwtMTk3Nj
+EyODAzMCw5MTk0MzgyNTUsLTE4NDE4MDI5NDAsLTE3MDIzODMy
+ODAsLTU5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MDI0MjI3NCwtMz
+AzNjc4MjAwXX0=
 -->
