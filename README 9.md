@@ -177,7 +177,10 @@ As atividades residenciais são consideradas não-incômodas.
 Atividades que reduzam seu impacto terão seu nível de incômodo reduzido.
 Cada macrozona têm um nível de restrição.
 
+<img src="https://i.ibb.co/tDMcN0P/Capturar-de-rea7.jpg" alt="Capturar-de-rea7" border="0">
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTA0NjgyMCwyMTE5Njc1MTU4XX0=
+eyJoaXN0b3J5IjpbLTQxNzQzNTAyNywyMTE5Njc1MTU4XX0=
 -->
