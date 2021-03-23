@@ -13,6 +13,7 @@ A Lei Nº 10.257 de 10 de julho de 2001 – Estatuto da Cidade – regulamenta o
 ##  PRINCÍPIOS BÁSICOS
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Mjg3MDYyXX0=
+eyJoaXN0b3J5IjpbLTE2NTY4Njk1NDRdfQ==
 -->
