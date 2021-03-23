@@ -111,7 +111,7 @@ O Plano Diretor tem como objetivo garantir o atendimento das necessidades dos mo
 
 [Vídeo](https://www.youtube.com/watch?v=6e7-H_oFbjo&t=92s&ab_channel=PennaArquiteturaeUrbanismo)
 
-**Parcelamento, edificação ou utilização compulsórios**
+**Parcelamento, edificação ou utilização compulsórios (PEUC)**
 
 Com a aplicação deste instrumento, procura-se otimizar os investimentos públicos realizados e penalizar o uso inadequado, fazendo com que a propriedade cumpra a sua função social.
 Imposto predial e territorial urbano progressivo no tempo  – A idéia é punir com um valor crescente, ano a ano, os proprietários de terrenos cuja ociosidade ou mal aproveitamento acarrete prejuízo à população. Não sendo cumpridas as condições legais para o aproveitamento da área, o Município passará a aumentar,  durante 5 anos consecutivos, a alíquota do IPTU, até o limite máximo de 15%.
@@ -160,9 +160,9 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDM5ODY3MSwtMjMwNTA3OTg2LDE5MT
-MyNTQ5NzAsLTEyNDIxNDUyNTgsOTg3Mjc5NTIsMTYyMTIwNTE0
-NSwtMTk3NjEyODAzMCw5MTk0MzgyNTUsLTE4NDE4MDI5NDAsLT
-E3MDIzODMyODAsLTU5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MDI0
-MjI3NCwtMzAzNjc4MjAwXX0=
+eyJoaXN0b3J5IjpbLTQzNzA5ODAwNywxNjAwMzk4NjcxLC0yMz
+A1MDc5ODYsMTkxMzI1NDk3MCwtMTI0MjE0NTI1OCw5ODcyNzk1
+MiwxNjIxMjA1MTQ1LC0xOTc2MTI4MDMwLDkxOTQzODI1NSwtMT
+g0MTgwMjk0MCwtMTcwMjM4MzI4MCwtNTkzMDQ1Mjg0LC05NTc0
+MjU4NDQsLTcwMjQyMjc0LC0zMDM2NzgyMDBdfQ==
 -->
