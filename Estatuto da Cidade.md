@@ -55,10 +55,15 @@ Obrigatório para Cidades:
 
 • Cidades com mais de 20 mil habitantes ou que pertençam a regiões metropolitanas ou aglomerações urbanas que não tiverem Plano Diretor deverão aprová-los no  prazo de 5 anos.
 
+**Parcelamento, edificação ou utilização compulsórios**
+
+Com a aplicação deste instrumento, procura-se otimizar os investimentos públicos realizados e penalizar o uso inadequado, fazendo com que a propriedade cumpra a sua função social.
+Imposto predial e territorial urbano progressivo no tempo  – A idéia é punir com um valor crescente, ano a ano, os proprietários de terrenos cuja ociosidade ou mal aproveitamento acarrete prejuízo à população. Não sendo cumpridas as condições legais para o aproveitamento da área, o Município passará a aumentar,  durante 5 anos consecutivos, a alíquota do IPTU, até o limite máximo de 15%.
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTA4NDI2MywtMzAzNjc4MjAwXX0=
+eyJoaXN0b3J5IjpbLTcwMjQyMjc0LC0zMDM2NzgyMDBdfQ==
 -->
