@@ -78,7 +78,7 @@ Os valores são estipulados segundo o critério de cada macrozona e valem para a
 **Gabarito máximo:** altura máxima da edificação em metros.
 
 ## Parâmetros Urbanísticos
-Exemplo 1:
+**Exemplo 1:**
 
 Em um lote de 3.000m2, com C.A máx. de 3,0, T.O. máx. de 60% e a altura máxima de 45m, será possível construir:
 
@@ -88,7 +88,7 @@ Em um lote de 3.000m2, com C.A máx. de 3,0, T.O. máx. de 60% e a altura máxim
 
 <img src="https://i.ibb.co/n1dc223/Capturar-de-rea.jpg" alt="Capturar-de-rea" border="0">
 
-Exemplo 2:
+**Exemplo 2:**
 
 Em um lote de 2.000m2, com C.A. máx. de 2,0, T.O. máx. de 40% e a altura máxima de 45m, será possível construir:
 
@@ -98,6 +98,13 @@ Em um lote de 2.000m2, com C.A. máx. de 2,0, T.O. máx. de 40% e a altura máxi
 
 <img src="https://i.ibb.co/vP0N027/Capturar-de-rea2.jpg" alt="Capturar-de-rea2" border="0">
 
+
+**Resumindo:**
+
+quanto mais pavimentos o edifício tiver, mais área livre ele terá que deixar no solo. É uma alternativa para lotes que necessitam preservar boa parte da mata nativa existente.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Mzg5MTU0MywyMTE5Njc1MTU4XX0=
+eyJoaXN0b3J5IjpbMTc4NDI2MDkwNiwyMTE5Njc1MTU4XX0=
 -->
