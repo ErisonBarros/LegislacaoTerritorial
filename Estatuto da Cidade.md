@@ -10,6 +10,9 @@ Conselho das Cidades
 
 A Lei Nº 10.257 de 10 de julho de 2001 – Estatuto da Cidade – regulamenta os artigos 182 e 183 da Constituição Federal de 1988, capítulo relativo à Política Urbana.
 
+##  PRINCÍPIOS BÁSICOS
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxMDIwNjA4XX0=
+eyJoaXN0b3J5IjpbLTg0Mjg3MDYyXX0=
 -->
