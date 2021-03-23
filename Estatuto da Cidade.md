@@ -17,6 +17,11 @@ A Lei Nº 10.257 de 10 de julho de 2001 – Estatuto da Cidade – regulamenta o
 
 Instrumentos urbanístcos de indução da **FUNÇÃO SOCIAL DA PROPRIEDADE**
 
+“Um bem imóvel, rural ou urbano, cumpre sua funço social quando e utlizado de acordo com as necessidades coletvas e não apenas com o interesse de seu proprietário”. *(Cartlla Plano Diretor de São Paulo, 2014, p.15)*
+
+**Ocupação desequilibrada**
+
+
 
 **GESTÃO  DEMOCRÁTICA**, garantindo a participação da população urbana em todas as decisões de interesse público.
 
@@ -137,9 +142,9 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwMTY4NTYwLDE5MTMyNTQ5NzAsLTEyND
-IxNDUyNTgsOTg3Mjc5NTIsMTYyMTIwNTE0NSwtMTk3NjEyODAz
-MCw5MTk0MzgyNTUsLTE4NDE4MDI5NDAsLTE3MDIzODMyODAsLT
-U5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MDI0MjI3NCwtMzAzNjc4
-MjAwXX0=
+eyJoaXN0b3J5IjpbLTIzMDUwNzk4NiwxOTEzMjU0OTcwLC0xMj
+QyMTQ1MjU4LDk4NzI3OTUyLDE2MjEyMDUxNDUsLTE5NzYxMjgw
+MzAsOTE5NDM4MjU1LC0xODQxODAyOTQwLC0xNzAyMzgzMjgwLC
+01OTMwNDUyODQsLTk1NzQyNTg0NCwtNzAyNDIyNzQsLTMwMzY3
+ODIwMF19
 -->
