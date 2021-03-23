@@ -140,8 +140,15 @@ Ela indica qual o percentual mínimo do lote, sobre o que exceder 200m2 (não in
 
 ## Taxa de preservação vegetal
 
+Isso valeria dizer que, em um lote de 250m2 nesta Macrozona, o proprietário deverá manter ao menos 1 árvore dentro do próprio lote; em um lote de 500m2, o proprietário deverá manter pelo menos 6 árvores.
 
+A taxa de arborização não significa que o proprietário poderá desmatar o resto do terreno. Continuam valendo as obrigações da Lei 11.428/06 (Bioma da Mata Atlântica) e sobretudo do Decreto Federal 5.300/04 (Gerenciamento Costeiro), que aponta a necessidade de averbação de área equivalente à desmatada. Ela apenas garante que parte desta vegetação permaneça na área do lote, permitindo ao proprietário transferir para terreno próximo a averbação da área restante.
 
+## Como as alturas máximas de cada zona foram estipuladas?
+
+Conforme estipulado no Plano Diretor, a faixa entre a Av. Padre Anchieta e a praia tem seu gabarito máximo limitado a 15m de altura. Nas outras faixas, os técnicos da Prefeitura adotaram o conceito de favorecer a ventilação dos imóveis mais afastados da praia, conforme a ilustração abaixo:
+
+<img src="https://i.ibb.co/k8cXwPj/Capturar-de-rea5.jpg" alt="Capturar-de-rea5" border="0">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc2ODcyMzQsMjExOTY3NTE1OF19
+eyJoaXN0b3J5IjpbLTIwOTQyMjc0MDIsMjExOTY3NTE1OF19
 -->
