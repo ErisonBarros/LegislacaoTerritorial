@@ -44,7 +44,7 @@ Obrigatório para Cidades:
 • com mais de vinte mil habitantes;
 ![enter image description here](https://images2.coelhense.com.br/wp-content/uploads/2019/02/engenheiro-coelho-1517509442-1526993600-1549470489.jpg)
 •integrantes de regiões metropolitanas e aglomerações urbanas;
-
+![enter image description here](https://www.researchgate.net/profile/Henrique-De-Castro-2/publication/314556531/figure/fig7/AS:470547436969987@1489198659161/FIGURA-7-Mapa-de-localizacao-das-Regioes-Metropolitanas-e-Aglomeracoes-Urbanas.png)
 • onde o Poder público Municipal pretenda utilizar os instrumentos previstos no § 4º do art. 182 da Constituição Federal;
 
 • pertencentes a áreas de especial interesse turístico;
@@ -129,8 +129,8 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwNDkwMTcxLDE2MjEyMDUxNDUsLTE5Nz
-YxMjgwMzAsOTE5NDM4MjU1LC0xODQxODAyOTQwLC0xNzAyMzgz
-MjgwLC01OTMwNDUyODQsLTk1NzQyNTg0NCwtNzAyNDIyNzQsLT
-MwMzY3ODIwMF19
+eyJoaXN0b3J5IjpbLTEwNzQxMDQyMDIsMTYyMTIwNTE0NSwtMT
+k3NjEyODAzMCw5MTk0MzgyNTUsLTE4NDE4MDI5NDAsLTE3MDIz
+ODMyODAsLTU5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MDI0MjI3NC
+wtMzAzNjc4MjAwXX0=
 -->
