@@ -105,9 +105,27 @@ quanto mais pavimentos o edifício tiver, mais área livre ele terá que deixar 
 
 <img src="https://i.ibb.co/HtNntX6/Capturar-de-rea3.jpg" alt="Capturar-de-rea3" border="0">
 
-Taxa de permeabilidade
+## **Taxa de permeabilidade**
 
+Na nova lei, a taxa de permeabilidade básica varia por macrozona.
 
+É facultado aos proprietários a redução desta área, até a taxa de permeabilidade mínima, mediante medidas mitigadoras:
+
+**1) Doação de mudas de árvores ao Departamento de Meio Ambiente.**
+
+A muda deverá ser plantada em um raio de 500m do local da construção, e cada espécie vale uma redução de x m2 na área permeável, conforme o porte, até se atingir a permeab. mínima.
+
+**2) Implantação de sistema de captação de águas pluviais.**
+
+Para cada m2 de área permeável reduzida a edificação deverá captar 30 litros de água. A água captada nunca poderá ser aproveitada para preparo de alimentos, constituindo infração gravísssima.
+
+## Recuos
+
+O recuo frontal de 5 m é exigido para todo o perímetro urbano.
+
+Já os recuos laterais e de fundos são facultados nas construções de até 4m de altura, observando os limites impostos pelas taxas de ocupação, permeabilidade e coeficientes.
+
+Caso haja aberturas voltadas para a divisa, será exigido o 1,5m de afastamento lateral.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTk0MDg0MTQsMjExOTY3NTE1OF19
+eyJoaXN0b3J5IjpbMjgzNDU4MDA5LDIxMTk2NzUxNThdfQ==
 -->
