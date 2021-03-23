@@ -92,12 +92,12 @@ Exemplo 2:
 
 Em um lote de 2.000m2, com C.A. máx. de 2,0, T.O. máx. de 40% e a altura máxima de 45m, será possível construir:
 
-área construída total máxima = 2.000m2 x 2 = 4.000m2
+**área construída total máxima = 2.000 m² x 2 = 4.000 m²**
 
-área máx. a construir por pavim. = 2.000m2 x 40% = 800m2
+**área máx. a construir por pavim. = 2.000 m² x 40% = 800 m²**
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDUwNDM1ODcsMjExOTY3NTE1OF19
+eyJoaXN0b3J5IjpbODk5NjI0MTUxLDIxMTk2NzUxNThdfQ==
 -->
