@@ -40,11 +40,11 @@ Instrumentos urbanístcos de indução da **FUNÇÃO SOCIAL DA PROPRIEDADE**
 
  - Usucapião Especial
 
+## Conceitos
 
 **GESTÃO  DEMOCRÁTICA**, garantindo a participação da população urbana em todas as decisões de interesse público.
 
 **A JUSTA DISTRIBUIÇÃO**  dos benefícios e dos ônus decorrentes do processo de urbanização.
-
 
 **RECUPERAÇÃO DA VALORIZAÇÃO IMOBILIÁRIA**  decorrente dos investimentos públicos em infra-estrutura social e física.
 
@@ -160,9 +160,9 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk4ODA5MDAsLTIzMDUwNzk4NiwxOT
-EzMjU0OTcwLC0xMjQyMTQ1MjU4LDk4NzI3OTUyLDE2MjEyMDUx
-NDUsLTE5NzYxMjgwMzAsOTE5NDM4MjU1LC0xODQxODAyOTQwLC
-0xNzAyMzgzMjgwLC01OTMwNDUyODQsLTk1NzQyNTg0NCwtNzAy
-NDIyNzQsLTMwMzY3ODIwMF19
+eyJoaXN0b3J5IjpbMTYwMDM5ODY3MSwtMjMwNTA3OTg2LDE5MT
+MyNTQ5NzAsLTEyNDIxNDUyNTgsOTg3Mjc5NTIsMTYyMTIwNTE0
+NSwtMTk3NjEyODAzMCw5MTk0MzgyNTUsLTE4NDE4MDI5NDAsLT
+E3MDIzODMyODAsLTU5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MDI0
+MjI3NCwtMzAzNjc4MjAwXX0=
 -->
