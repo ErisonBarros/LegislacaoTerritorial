@@ -35,10 +35,20 @@ A Lei de Uso e Ocupação regula a relação da edificação com seu entorno ime
 
 5. Normas e regras para os usos não conformes.
 
+### Conceito da nova lei
+
+A nova lei busca, sempre que possível, simplificar procedimentos, reunindo em algumas tabelas e em poucas atividades todas as informações necessárias à elaboração dos projetos.
+
+O foco central é criar, em breve, um procedimento automatizado de emissão de diretrizes, com possibilidade de consultá-lo via Internet, tornando o processo de entendimento da lei mais facilitado. A nova lei possibilita inclusive elaborar futuramente os procedimentos para aprovação em meio digital.
+
+## Emissão automática de diretrizes
 
 
+A Prefeitura trabalha para disponibilizar, via site ou arquivo off-line, um programa para emissão automática de diretrizes.
+
+Neste programa, bastará informar a quadra, o lote e o loteamento do imóvel, o uso pretendido, para que seja gerado um formulário com todas as exigências dos Códigos, da Lei de Uso e Ocupação, podendo também incluir orientações a cerca das legislações estaduais e federais.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4MDY0Nzc0XX0=
+eyJoaXN0b3J5IjpbNzU5NDg2NDg1XX0=
 -->
