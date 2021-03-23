@@ -68,6 +68,9 @@ Usucapião especial de imóvel urbano  – O cidadão que ocupar área ou edific
 
 **Direito de preempção:** regularização fundiária; execução de programas e projetos habitacionais de interesse social; constituição de reserva fundiária; ordenamento e direcionamento da expansão urbana; implantação de equipamentos urbanos e comunitários; criação de unidades de conservação ou proteção de outras áreas de interesse ambiental; ou proteção de áreas de interesse histórico, cultural ou paisagístico.
 
+**Outorga onerosa do direito de construir  –** Consiste na possibilidade de o Município estabelecer relação entre a área edificável e a área do terreno, a partir da qual a autorização para construir passaria a ser concedida de forma onerosa.
+
+
 
 
 
@@ -75,6 +78,6 @@ Usucapião especial de imóvel urbano  – O cidadão que ocupar área ou edific
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzQyNTg0NCwtNzAyNDIyNzQsLTMwMz
-Y3ODIwMF19
+eyJoaXN0b3J5IjpbLTU5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MD
+I0MjI3NCwtMzAzNjc4MjAwXX0=
 -->
