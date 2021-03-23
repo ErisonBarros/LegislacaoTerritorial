@@ -208,11 +208,14 @@ São empreendimentos que causam alterações nos ambientes sócio-econômico, na
 Para a instalação destes empreendimentos, o interessado deverá elaborar um Estudo de Impacto de Vizinhança (EIV), que após apresentado ao Executivo deverá ficar disponível para consulta pública por 30 dias, ser apresentado em audiência e possuir parecer do Conselho da Cidade antes da emissão do alvará pelo Executivo.
 
 ## Operações Urbanas
+
 Projetos especiais poderão ser submetidos a regras diferenciadas às estabelecidas na lei, através de Leis de Operações Urbanas, desde que nelas sejam estipuladas as regras específicas para a Operação, medidas mitigadoras e  contrapartidas a serem fornecidas pelos interessados, decorrentes das alterações.
 
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzY5NjAyMzIsMjExOTY3NTE1OF19
+eyJoaXN0b3J5IjpbLTE5MjY5MzMwNTAsMjExOTY3NTE1OF19
 -->
