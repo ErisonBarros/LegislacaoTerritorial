@@ -90,6 +90,8 @@ O Plano Diretor tem como objetivo garantir o atendimento das necessidades dos mo
 Com a aplicação deste instrumento, procura-se otimizar os investimentos públicos realizados e penalizar o uso inadequado, fazendo com que a propriedade cumpra a sua função social.
 Imposto predial e territorial urbano progressivo no tempo  – A idéia é punir com um valor crescente, ano a ano, os proprietários de terrenos cuja ociosidade ou mal aproveitamento acarrete prejuízo à população. Não sendo cumpridas as condições legais para o aproveitamento da área, o Município passará a aumentar,  durante 5 anos consecutivos, a alíquota do IPTU, até o limite máximo de 15%.
 
+
+
 **Desapropriação com pagamento em títulos da dívida pública.**
 
 Usucapião especial de imóvel urbano  – O cidadão que ocupar área ou edificação urbana de até 250 m2 para sua moradia ou de sua família, por 5 anos consecutivos, sem que o proprietário a reclame, terá garantido o direito à posse, desde que não seja proprietário de outro imóvel urbano ou rural.
@@ -132,8 +134,8 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIxNDUyNTgsOTg3Mjc5NTIsMTYyMT
-IwNTE0NSwtMTk3NjEyODAzMCw5MTk0MzgyNTUsLTE4NDE4MDI5
-NDAsLTE3MDIzODMyODAsLTU5MzA0NTI4NCwtOTU3NDI1ODQ0LC
-03MDI0MjI3NCwtMzAzNjc4MjAwXX0=
+eyJoaXN0b3J5IjpbMTkxMzI1NDk3MCwtMTI0MjE0NTI1OCw5OD
+cyNzk1MiwxNjIxMjA1MTQ1LC0xOTc2MTI4MDMwLDkxOTQzODI1
+NSwtMTg0MTgwMjk0MCwtMTcwMjM4MzI4MCwtNTkzMDQ1Mjg0LC
+05NTc0MjU4NDQsLTcwMjQyMjc0LC0zMDM2NzgyMDBdfQ==
 -->
