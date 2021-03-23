@@ -169,17 +169,15 @@ Com o novo critério, qualquer atividade pode se instalar no município, desde q
 
 São tipos de incômodo: poluição sonora, atmosférica, hídrica, geração de resíduos sólidos, vibração e periculosidade. Cada tipo é classificado em:
 
-atividades não-incômodas;
-
-atividades incômodas 1;
-
-atividades incômodas 2.
+ - atividades não-incômodas;
+ - atividades incômodas 1;
+ - atividades incômodas 2.
 
 As atividades residenciais são consideradas não-incômodas.
-
 Atividades que reduzam seu impacto terão seu nível de incômodo reduzido.
-
 Cada macrozona têm um nível de restrição.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA2MTU1MjcsMjExOTY3NTE1OF19
+eyJoaXN0b3J5IjpbMTY5MTA0NjgyMCwyMTE5Njc1MTU4XX0=
 -->
