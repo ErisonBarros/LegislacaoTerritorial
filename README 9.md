@@ -180,9 +180,15 @@ Cada macrozona têm um nível de restrição.
 <img src="https://i.ibb.co/tDMcN0P/Capturar-de-rea7.jpg" alt="Capturar-de-rea7" border="0">
 
 
+<img src="https://i.ibb.co/2Y8X1Jy/Capturar-de-rea8.jpg" alt="Capturar-de-rea8" border="0">
+
+
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTY4MjM1OSwyMTE5Njc1MTU4XX0=
+eyJoaXN0b3J5IjpbMTg3NTAwMTg4MSwyMTE5Njc1MTU4XX0=
 -->
