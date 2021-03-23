@@ -70,7 +70,7 @@ Usucapião especial de imóvel urbano  – O cidadão que ocupar área ou edific
 
 **Outorga onerosa do direito de construir  –** Consiste na possibilidade de o Município estabelecer relação entre a área edificável e a área do terreno, a partir da qual a autorização para construir passaria a ser concedida de forma onerosa.
 
-
+O Plano Diretor delimitará as áreas onde o planejamento urbano indicar a possibilidade de maior adensamento populacional e definirá os limites máximos de construção a serem atingidos, considerando a infra-estrutura existente e o potencial de densidade a ser alcançado em cada área.
 
 
 
@@ -78,6 +78,6 @@ Usucapião especial de imóvel urbano  – O cidadão que ocupar área ou edific
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MD
-I0MjI3NCwtMzAzNjc4MjAwXX0=
+eyJoaXN0b3J5IjpbLTE3MDIzODMyODAsLTU5MzA0NTI4NCwtOT
+U3NDI1ODQ0LC03MDI0MjI3NCwtMzAzNjc4MjAwXX0=
 -->
