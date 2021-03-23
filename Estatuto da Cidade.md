@@ -95,8 +95,16 @@ As áreas urbanas com mais de 250 m2 poderão ser regularizadas mesmo não sendo
 **Zonas especiais de interesse social (ZEIS)  –** São áreas da cidade, definidas pelo Plano Diretor, comprometidas com a viabilização dos interesses das camadas populares. Ao município é dado instituir zonas com regras especiais, quando o uso admitido vier a promover a integração das pessoas mais necessitadas aos espaços habitáveis. As ZEIS servem para reservar terrenos ou prédios vazios para moradia popular; facilitar a regularização de áreas ocupadas; facilitar a regularização de cortiços.
 
 
+**Operação Urbana:**
+
+-  parceria entre o poder público e iniciativa privada;
+
+-  o empresariado contribui para a implantação de obras públicas e de índices urbanísticos em determinada área.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTc1NjgyNywtMTg0MTgwMjk0MCwtMT
+eyJoaXN0b3J5IjpbMTYxOTU4NDEwMSwtMTg0MTgwMjk0MCwtMT
 cwMjM4MzI4MCwtNTkzMDQ1Mjg0LC05NTc0MjU4NDQsLTcwMjQy
 Mjc0LC0zMDM2NzgyMDBdfQ==
 -->
