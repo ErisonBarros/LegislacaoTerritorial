@@ -1,8 +1,9 @@
 > Written with [StackEdit](https://stackedit.io/).
 # <font color='blue'> Lei de Uso e Ocupação do Solo</font>
 **Prof. Erison Barros**
+<fonDepartamento de Engenharia Cartográfica
 
-# Lei de Uso e Ocupação do Solo
+# Conceitos
 
 Resumo da minuta preliminar  
 (sujeita a alterações) a ser apresentada na  
@@ -217,5 +218,5 @@ Projetos especiais poderão ser submetidos a regras diferenciadas às estabeleci
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY5MzMwNTAsMjExOTY3NTE1OF19
+eyJoaXN0b3J5IjpbMTQ5NjM0NjE3OSwyMTE5Njc1MTU4XX0=
 -->
