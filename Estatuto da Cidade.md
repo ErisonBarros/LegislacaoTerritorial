@@ -159,12 +159,13 @@ O Plano Diretor delimitará as áreas onde o planejamento urbano indicar a possi
 
 **Estudo de impacto de vizinhança  –  definir em lei -** Esse Estudo deverá analisar os efeitos do empreendimento ou atividade sobre a qualidade de vida urbana, em especial nos aspectos que terão impactos relacionados:
 
-•ao adensamento da população;
-•à capacidade dos equipamentos urbanos e comunitários pré-existentes;
-•ao uso e ocupação do solo;
-•à valorização ou desvalorização dos imóveis na região;
-
-à geração de tráfego e aumento da demanda por transporte público; à ventilação e iluminação das edificações existentes; à paisagem urbana; ao patrimônio natural e cultural.
+ - ao adensamento da população;
+ - à capacidade dos equipamentos urbanos e comunitários pré-existentes;
+ - ao uso e ocupação do solo;
+ - à valorização ou desvalorização dos imóveis na região;
+ - à geração de tráfego e aumento da demanda por transporte público; à
+   ventilação e iluminação das edificações existentes; à paisagem
+   urbana; ao patrimônio natural e cultural.
 
 Concessão de uso especial para fins de moradia  – Permite a regularização das moradias ilegais para aqueles que possuíam como seu, por 5 anos, até 30 de junho de 2001, até 250 m² de imóvel público situado em área urbana, utilizando-o para sua moradia ou de sua família, desde que não seja proprietário ou concessionário de outro imóvel urbano ou rural.
 
@@ -183,10 +184,11 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTM4NDI3OCwxNzc1OTc3MTgyLC04MT
-YyNzkzNDAsLTQzNzA5ODAwNywxNjAwMzk4NjcxLC0yMzA1MDc5
-ODYsMTkxMzI1NDk3MCwtMTI0MjE0NTI1OCw5ODcyNzk1MiwxNj
-IxMjA1MTQ1LC0xOTc2MTI4MDMwLDkxOTQzODI1NSwtMTg0MTgw
-Mjk0MCwtMTcwMjM4MzI4MCwtNTkzMDQ1Mjg0LC05NTc0MjU4ND
-QsLTcwMjQyMjc0LC0zMDM2NzgyMDBdfQ==
+eyJoaXN0b3J5IjpbLTEzNjY4MjEzMDMsMjE0MTM4NDI3OCwxNz
+c1OTc3MTgyLC04MTYyNzkzNDAsLTQzNzA5ODAwNywxNjAwMzk4
+NjcxLC0yMzA1MDc5ODYsMTkxMzI1NDk3MCwtMTI0MjE0NTI1OC
+w5ODcyNzk1MiwxNjIxMjA1MTQ1LC0xOTc2MTI4MDMwLDkxOTQz
+ODI1NSwtMTg0MTgwMjk0MCwtMTcwMjM4MzI4MCwtNTkzMDQ1Mj
+g0LC05NTc0MjU4NDQsLTcwMjQyMjc0LC0zMDM2NzgyMDBdfQ==
+
 -->
