@@ -164,8 +164,9 @@ O Plano Diretor delimitará as áreas onde o planejamento urbano indicar a possi
  - ao uso e ocupação do solo;
  - à valorização ou desvalorização dos imóveis na região;
  - à geração de tráfego e aumento da demanda por transporte público; à
-   ventilação e iluminação das edificações existentes; à paisagem
-   urbana; ao patrimônio natural e cultural.
+   ventilação e iluminação das edificações existentes; 
+   à paisagem   urbana; 
+ - ao patrimônio natural e cultural.
 
 Concessão de uso especial para fins de moradia  – Permite a regularização das moradias ilegais para aqueles que possuíam como seu, por 5 anos, até 30 de junho de 2001, até 250 m² de imóvel público situado em área urbana, utilizando-o para sua moradia ou de sua família, desde que não seja proprietário ou concessionário de outro imóvel urbano ou rural.
 
@@ -184,11 +185,10 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY4MjEzMDMsMjE0MTM4NDI3OCwxNz
-c1OTc3MTgyLC04MTYyNzkzNDAsLTQzNzA5ODAwNywxNjAwMzk4
-NjcxLC0yMzA1MDc5ODYsMTkxMzI1NDk3MCwtMTI0MjE0NTI1OC
-w5ODcyNzk1MiwxNjIxMjA1MTQ1LC0xOTc2MTI4MDMwLDkxOTQz
-ODI1NSwtMTg0MTgwMjk0MCwtMTcwMjM4MzI4MCwtNTkzMDQ1Mj
-g0LC05NTc0MjU4NDQsLTcwMjQyMjc0LC0zMDM2NzgyMDBdfQ==
-
+eyJoaXN0b3J5IjpbMTk0NDY5Mzg1NCwyMTQxMzg0Mjc4LDE3Nz
+U5NzcxODIsLTgxNjI3OTM0MCwtNDM3MDk4MDA3LDE2MDAzOTg2
+NzEsLTIzMDUwNzk4NiwxOTEzMjU0OTcwLC0xMjQyMTQ1MjU4LD
+k4NzI3OTUyLDE2MjEyMDUxNDUsLTE5NzYxMjgwMzAsOTE5NDM4
+MjU1LC0xODQxODAyOTQwLC0xNzAyMzgzMjgwLC01OTMwNDUyOD
+QsLTk1NzQyNTg0NCwtNzAyNDIyNzQsLTMwMzY3ODIwMF19
 -->
