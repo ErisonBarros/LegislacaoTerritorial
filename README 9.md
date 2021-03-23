@@ -195,6 +195,24 @@ Pela dificuldade em mensurar seus impactos, pelo difícil controle sobre elas ou
    permitidas apenas nas vias coletoras e arteriais fora do Setor de
    Interesse Turístico
 
+## Pólos Geradores de Tráfego
+
+De acordo com o número de vagas calculado pelo Código de Obras, as atividades serão classificadas como de baixo impacto (até 10 vagas), de médio impacto (de 11 a 50 vagas) e/ou de alto impacto (acima de 50 vagas). Acima de 10 vagas, os projetos estarão sujeitos à uma análise do Executivo que exigirá o cumprimento de medidas mitigadoras previstas no anexo IV.
+
+Acima de 100 vagas, o empreendimento será considerado de impacto e estará sujeito a um Estudo de Impacto de Vizinhança.
+
+## Empreendimentos de Impacto
+
+São empreendimentos que causam alterações nos ambientes sócio-econômico, natural ou construído e sobrecarga na infra-estrutura local.
+
+Para a instalação destes empreendimentos, o interessado deverá elaborar um Estudo de Impacto de Vizinhança (EIV), que após apresentado ao Executivo deverá ficar disponível para consulta pública por 30 dias, ser apresentado em audiência e possuir parecer do Conselho da Cidade antes da emissão do alvará pelo Executivo.
+
+## Operações Urbanas
+Projetos especiais poderão ser submetidos a regras diferenciadas às estabelecidas na lei, através de Leis de Operações Urbanas, desde que nelas sejam estipuladas as regras específicas para a Operação, medidas mitigadoras e  contrapartidas a serem fornecidas pelos interessados, decorrentes das alterações.
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3MDIxOTU5LDIxMTk2NzUxNThdfQ==
+eyJoaXN0b3J5IjpbLTE3MzY5NjAyMzIsMjExOTY3NTE1OF19
 -->
