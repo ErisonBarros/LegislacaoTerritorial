@@ -101,7 +101,9 @@ previstos no § 4º do art. 182 da Constituição Federal;
 ![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer04-300x281.jpg)
 ![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer05-300x282.jpg)
 
+
 ![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer06-300x288.jpg)
+
 
 **QUAL O OBJETIVO?**
 
@@ -114,9 +116,12 @@ O Plano Diretor tem como objetivo garantir o atendimento das necessidades dos mo
 
 ![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer07-300x279.jpg)
 
+
 ![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer08-300x278.jpg)
 
+
 [Vídeo](https://www.youtube.com/watch?v=6e7-H_oFbjo&t=92s&ab_channel=PennaArquiteturaeUrbanismo)
+
 
 **Parcelamento, edificação ou utilização compulsórios (PEUC)**
 
@@ -178,10 +183,10 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTcwNjAwLDE3NzU5NzcxODIsLTgxNj
-I3OTM0MCwtNDM3MDk4MDA3LDE2MDAzOTg2NzEsLTIzMDUwNzk4
-NiwxOTEzMjU0OTcwLC0xMjQyMTQ1MjU4LDk4NzI3OTUyLDE2Mj
-EyMDUxNDUsLTE5NzYxMjgwMzAsOTE5NDM4MjU1LC0xODQxODAy
-OTQwLC0xNzAyMzgzMjgwLC01OTMwNDUyODQsLTk1NzQyNTg0NC
-wtNzAyNDIyNzQsLTMwMzY3ODIwMF19
+eyJoaXN0b3J5IjpbMjE0MTM4NDI3OCwxNzc1OTc3MTgyLC04MT
+YyNzkzNDAsLTQzNzA5ODAwNywxNjAwMzk4NjcxLC0yMzA1MDc5
+ODYsMTkxMzI1NDk3MCwtMTI0MjE0NTI1OCw5ODcyNzk1MiwxNj
+IxMjA1MTQ1LC0xOTc2MTI4MDMwLDkxOTQzODI1NSwtMTg0MTgw
+Mjk0MCwtMTcwMjM4MzI4MCwtNTkzMDQ1Mjg0LC05NTc0MjU4ND
+QsLTcwMjQyMjc0LC0zMDM2NzgyMDBdfQ==
 -->
