@@ -103,8 +103,11 @@ Em um lote de 2.000m2, com C.A. máx. de 2,0, T.O. máx. de 40% e a altura máxi
 
 quanto mais pavimentos o edifício tiver, mais área livre ele terá que deixar no solo. É uma alternativa para lotes que necessitam preservar boa parte da mata nativa existente.
 
+<img src="https://i.ibb.co/HtNntX6/Capturar-de-rea3.jpg" alt="Capturar-de-rea3" border="0">
+
+Taxa de permeabilidade
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDI2MDkwNiwyMTE5Njc1MTU4XX0=
+eyJoaXN0b3J5IjpbLTE1OTk0MDg0MTQsMjExOTY3NTE1OF19
 -->
