@@ -127,10 +127,7 @@ Imposto predial e territorial urbano progressivo no tempo  – A idéia é punir
 -  Caracterização dos imóveis não edificados, não utilizados e subutilizados (art. 3º, I, da Resolução 34/2005 do ConCidades) 
 - Estabelecimento de prazos para cumprimento das obrigações pelos proprietários (art. 3º, IV, da Resolução 34/2005 do ConCidades)
 
-
 “O direito de preempção e os instrumentos de parcelamento, edificação e utilização compulsórios são os mais citados nos planos diretores, mas raramente são regulamentados de forma a garantir sua aplicação” *(SANTOS JÚNIOR; MONTANDON, 2011, p. 78).*
-
-
 
 **Desapropriação com pagamento em títulos da dívida pública.**
 
@@ -174,10 +171,10 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjI3OTM0MCwtNDM3MDk4MDA3LDE2MD
-AzOTg2NzEsLTIzMDUwNzk4NiwxOTEzMjU0OTcwLC0xMjQyMTQ1
-MjU4LDk4NzI3OTUyLDE2MjEyMDUxNDUsLTE5NzYxMjgwMzAsOT
-E5NDM4MjU1LC0xODQxODAyOTQwLC0xNzAyMzgzMjgwLC01OTMw
-NDUyODQsLTk1NzQyNTg0NCwtNzAyNDIyNzQsLTMwMzY3ODIwMF
-19
+eyJoaXN0b3J5IjpbMTc3NTk3NzE4MiwtODE2Mjc5MzQwLC00Mz
+cwOTgwMDcsMTYwMDM5ODY3MSwtMjMwNTA3OTg2LDE5MTMyNTQ5
+NzAsLTEyNDIxNDUyNTgsOTg3Mjc5NTIsMTYyMTIwNTE0NSwtMT
+k3NjEyODAzMCw5MTk0MzgyNTUsLTE4NDE4MDI5NDAsLTE3MDIz
+ODMyODAsLTU5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MDI0MjI3NC
+wtMzAzNjc4MjAwXX0=
 -->
