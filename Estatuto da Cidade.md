@@ -42,7 +42,7 @@ de uso e ocupação do solo
 Obrigatório para Cidades:
 
 • com mais de vinte mil habitantes;
-
+![enter image description here](https://images2.coelhense.com.br/wp-content/uploads/2019/02/engenheiro-coelho-1517509442-1526993600-1549470489.jpg)
 •integrantes de regiões metropolitanas e aglomerações urbanas;
 
 • onde o Poder público Municipal pretenda utilizar os instrumentos previstos no § 4º do art. 182 da Constituição Federal;
@@ -129,8 +129,8 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzkyNzIwMSwxNjIxMjA1MTQ1LC0xOT
-c2MTI4MDMwLDkxOTQzODI1NSwtMTg0MTgwMjk0MCwtMTcwMjM4
-MzI4MCwtNTkzMDQ1Mjg0LC05NTc0MjU4NDQsLTcwMjQyMjc0LC
-0zMDM2NzgyMDBdfQ==
+eyJoaXN0b3J5IjpbODYwNDkwMTcxLDE2MjEyMDUxNDUsLTE5Nz
+YxMjgwMzAsOTE5NDM4MjU1LC0xODQxODAyOTQwLC0xNzAyMzgz
+MjgwLC01OTMwNDUyODQsLTk1NzQyNTg0NCwtNzAyNDIyNzQsLT
+MwMzY3ODIwMF19
 -->
