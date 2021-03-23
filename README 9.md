@@ -151,6 +151,35 @@ Conforme estipulado no Plano Diretor, a faixa entre a Av. Padre Anchieta e a pra
 <img src="https://i.ibb.co/k8cXwPj/Capturar-de-rea5.jpg" alt="Capturar-de-rea5" border="0">
 
 <img src="https://i.ibb.co/rbfxGJw/Capturar-de-rea6.jpg" alt="Capturar-de-rea6" border="0">
+
+## Gabaritos máximos em setores especiais
+
+Setores Especiais (como o da orla da praia ou o de preservação da paisagem, no entorno de bens tombados pelo CONDEPHAAT) são sujeitos a alturas especiais. Os imóveis na Av. Gov. Mário Covas (Beira-Mar) ainda ficam sujeitos aos recuos especiais já constantes da Lei 733/79 (em função da largura da via).
+
+A tabela com os valores máximos estipulados para todos os índices urbanísticos está no anexo V da Lei de Uso e Ocupação.
+
+
+## Adoção do critério de incomodidade
+
+No zoneamento atual, não são permitidas atividades simples (ex. escritórios particulares) em muitas zonas da cidade.
+
+Com o novo critério, qualquer atividade pode se instalar no município, desde que atendidos os critérios de incômodo de sua macrozona. O conceito abre caminho para possibilitar que profissionais liberais ou pequenos comércios ou serviços se instalem em diversos locais, promovendo o desenvolvimento econômico da população local, sem comprometer o conforto público. O estabelecimento que desrespeitar os limites estabelecidos poderá ter seu alvará de funcionamento cassado.
+
+## Adoção do critério de incomodidade
+
+São tipos de incômodo: poluição sonora, atmosférica, hídrica, geração de resíduos sólidos, vibração e periculosidade. Cada tipo é classificado em:
+
+atividades não-incômodas;
+
+atividades incômodas 1;
+
+atividades incômodas 2.
+
+As atividades residenciais são consideradas não-incômodas.
+
+Atividades que reduzam seu impacto terão seu nível de incômodo reduzido.
+
+Cada macrozona têm um nível de restrição.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyNTM4NDQzLDIxMTk2NzUxNThdfQ==
+eyJoaXN0b3J5IjpbLTIwODA2MTU1MjcsMjExOTY3NTE1OF19
 -->
