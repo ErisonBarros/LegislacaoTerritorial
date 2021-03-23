@@ -20,8 +20,10 @@ Instrumentos urbanístcos de indução da **FUNÇÃO SOCIAL DA PROPRIEDADE**
 “Um bem imóvel, rural ou urbano, cumpre sua funço social quando e utlizado de acordo com as necessidades coletvas e não apenas com o interesse de seu proprietário”. *(Cartlla Plano Diretor de São Paulo, 2014, p.15)*
 
 **Ocupação desequilibrada**
-“Bairros bem planejados inspiram moradores, ao passo que comunidades mal planejadas brutalizam seus cidadãos”. (Rogers, 2011)
+“Bairros bem planejados inspiram moradores, ao passo que comunidades mal planejadas brutalizam seus cidadãos”. *(Rogers, 2011)*
 
+ 1. áreas com boa infraestrutura
+ 2. áreas de vulnerabilidade urbana e ambiental (ma
 
 **GESTÃO  DEMOCRÁTICA**, garantindo a participação da população urbana em todas as decisões de interesse público.
 
@@ -142,9 +144,9 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI4NTk4MjMsLTIzMDUwNzk4NiwxOT
-EzMjU0OTcwLC0xMjQyMTQ1MjU4LDk4NzI3OTUyLDE2MjEyMDUx
-NDUsLTE5NzYxMjgwMzAsOTE5NDM4MjU1LC0xODQxODAyOTQwLC
-0xNzAyMzgzMjgwLC01OTMwNDUyODQsLTk1NzQyNTg0NCwtNzAy
-NDIyNzQsLTMwMzY3ODIwMF19
+eyJoaXN0b3J5IjpbMTY3MDI0NTMxNSwtMjMwNTA3OTg2LDE5MT
+MyNTQ5NzAsLTEyNDIxNDUyNTgsOTg3Mjc5NTIsMTYyMTIwNTE0
+NSwtMTk3NjEyODAzMCw5MTk0MzgyNTUsLTE4NDE4MDI5NDAsLT
+E3MDIzODMyODAsLTU5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MDI0
+MjI3NCwtMzAzNjc4MjAwXX0=
 -->
