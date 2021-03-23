@@ -71,13 +71,19 @@ Obrigatório para Cidades:
 
 
 • com mais de vinte mil habitantes;
+
 ![enter image description here](https://images2.coelhense.com.br/wp-content/uploads/2019/02/engenheiro-coelho-1517509442-1526993600-1549470489.jpg)
 •integrantes de regiões metropolitanas e aglomerações urbanas;
+
 ![enter image description here](https://www.researchgate.net/profile/Henrique-De-Castro-2/publication/314556531/figure/fig7/AS:470547436969987@1489198659161/FIGURA-7-Mapa-de-localizacao-das-Regioes-Metropolitanas-e-Aglomeracoes-Urbanas.png)
-• onde o Poder público Municipal pretenda utilizar os instrumentos previstos no § 4º do art. 182 da Constituição Federal;
+
+• onde o Poder público Municipal pretenda utilizar os instrumentos 
+previstos no § 4º do art. 182 da Constituição Federal;
 
 • pertencentes a áreas de especial interesse turístico;
+
 ![enter image description here](https://revistanove.com.br/wp-content/uploads/2019/01/atrativos-turisticos-da-baixada-santista-revista-nove-foto-divulgacao.jpg)
+
 • inseridas em área de influência de empreendimentos ou atividades com impacto regional ou nacional.
 
 • No caso de cidades com mais de 500 mil habitantes deverá ser elaborado um  plano de transporte urbano  integrado, compatível com o Plano Diretor ou nele inserido.
@@ -87,6 +93,7 @@ Obrigatório para Cidades:
 • Cidades com mais de 20 mil habitantes ou que pertençam a regiões metropolitanas ou aglomerações urbanas que não tiverem Plano Diretor deverão aprová-los no  prazo de 5 anos.
 
 ![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer02-300x280.jpg)
+
 
 ![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer03-300x285.jpg)
 
@@ -171,10 +178,10 @@ As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não send
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTk3NzE4MiwtODE2Mjc5MzQwLC00Mz
-cwOTgwMDcsMTYwMDM5ODY3MSwtMjMwNTA3OTg2LDE5MTMyNTQ5
-NzAsLTEyNDIxNDUyNTgsOTg3Mjc5NTIsMTYyMTIwNTE0NSwtMT
-k3NjEyODAzMCw5MTk0MzgyNTUsLTE4NDE4MDI5NDAsLTE3MDIz
-ODMyODAsLTU5MzA0NTI4NCwtOTU3NDI1ODQ0LC03MDI0MjI3NC
-wtMzAzNjc4MjAwXX0=
+eyJoaXN0b3J5IjpbMjEzMTcwNjAwLDE3NzU5NzcxODIsLTgxNj
+I3OTM0MCwtNDM3MDk4MDA3LDE2MDAzOTg2NzEsLTIzMDUwNzk4
+NiwxOTEzMjU0OTcwLC0xMjQyMTQ1MjU4LDk4NzI3OTUyLDE2Mj
+EyMDUxNDUsLTE5NzYxMjgwMzAsOTE5NDM4MjU1LC0xODQxODAy
+OTQwLC0xNzAyMzgzMjgwLC01OTMwNDUyODQsLTk1NzQyNTg0NC
+wtNzAyNDIyNzQsLTMwMzY3ODIwMF19
 -->
