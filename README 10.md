@@ -53,15 +53,15 @@ Neste programa, bastará informar a quadra, o lote e o loteamento do imóvel, o 
 
 Acaba-se a determinação de padrões tipológicos de construções: R1, R2, C1, etc. Estipula-se apenas os critérios abaixo e, dentro deles, o profissional tem liberdade de criar o que lhe convier:
 
-Coeficiente de Aproveitamento (C.A.) Máximo;
+**Coeficiente de Aproveitamento (C.A.) Máximo;**
 
-Taxa de Ocupação (T.O.) Máxima;
+**Taxa de Ocupação (T.O.) Máxima;**
 
-Taxa de Permeabilidade (T.P.) Mínima;
+**Taxa de Permeabilidade (T.P.) Mínima;**
 
-Recuos;
+**Recuos;**
 
-Altura (gabarito) Máxima.
+**Altura (gabarito) Máxima.**
 
 Os valores são estipulados segundo o critério de cada macrozona e valem para a sua totalidade.
 
@@ -83,9 +83,9 @@ Os valores são estipulados segundo o critério de cada macrozona e valem para a
 
 Em um lote de 3.000m2, com C.A máx. de 3,0, T.O. máx. de 60% e a altura máxima de 45m, será possível construir:
 
-área construída total máxima = 3.000m2 x 3 = 9.000m2
+área construída total máxima = 3.000m² x 3 = 9.000m²
 
-área máx. a construir por pavim.= 3.000m2 x 60% = 1.800m2
+área máx. a construir por pavim.= 3.000m² x 60% = 1.800m²
 
 <img src="https://i.ibb.co/n1dc223/Capturar-de-rea.jpg" alt="Capturar-de-rea" border="0">
 
@@ -218,5 +218,5 @@ Projetos especiais poderão ser submetidos a regras diferenciadas às estabeleci
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTk0MDY0OTJdfQ==
+eyJoaXN0b3J5IjpbMTk2MzkyNjI0NCwtMTA5OTQwNjQ5Ml19
 -->
