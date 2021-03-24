@@ -102,7 +102,7 @@ Em um lote de 2.000m2, com C.A. máx. de 2,0, T.O. máx. de 40% e a altura máxi
 
 **Resumindo:**
 
-quanto mais pavimentos o edifício tiver, mais área livre ele terá que deixar no solo. É uma alternativa para lotes que necessitam preservar boa parte da mata nativa existente.
+Quanto mais pavimentos o edifício tiver, mais área livre ele terá que deixar no solo. É uma alternativa para lotes que necessitam preservar boa parte da mata nativa existente.
 
 <img src="https://i.ibb.co/HtNntX6/Capturar-de-rea3.jpg" alt="Capturar-de-rea3" border="0">
 
@@ -218,5 +218,6 @@ Projetos especiais poderão ser submetidos a regras diferenciadas às estabeleci
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzkyNjI0NCwtMTA5OTQwNjQ5Ml19
+eyJoaXN0b3J5IjpbLTEwNjYwOTI3OTYsMTk2MzkyNjI0NCwtMT
+A5OTQwNjQ5Ml19
 -->
