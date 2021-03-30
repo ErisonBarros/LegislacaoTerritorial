@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+* [Ementa](ementa-slides.md)
 * [README 7](readme-7.md)
 * [README3](readme3.md)
 * [Bens Públicos existentes no Brasil](readme-6.md)
