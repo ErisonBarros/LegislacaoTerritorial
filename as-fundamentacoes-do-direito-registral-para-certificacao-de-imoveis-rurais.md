@@ -63,73 +63,7 @@ Segundo Gonçalves \(2010\), Os Modos de aquisição da Propriedade eram enumera
 
 Com relação à procedência ou causa de aquisição, pode ser: Originária, quando não ocorre transmissão de um sujeito para outro, como, por exemplo, a acessão natural e a usucapião; e derivada, quando ocorre uma relação negocial entre o anterior proprietário e o adquirente, em que há uma transmissão de domínio devido à manifestação da vontade \(GONÇALVES, 2010\).
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Aquisi&#xE7;&#xE3;o da Propriedade im&#xF3;vel</th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Modos de Aquisi&#xE7;&#xE3;o</td>
-      <td style="text-align:left">Hip&#xF3;teses legais (CC, arts. 1239/1259 e 1784)</td>
-      <td style="text-align:left">
-        <ol>
-          <li>Usucapi&#xE3;o;</li>
-        </ol>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <ol>
-          <li>Registro do t&#xED;tulo de transfer&#xEA;ncia no registro de im&#xF3;vel;</li>
-        </ol>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <ol>
-          <li>Acess&#xE3;o</li>
-        </ol>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <ol>
-          <li>Direito heredit&#xE1;rio</li>
-        </ol>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Quanto &#xE0; proced&#xEA;ncia</td>
-      <td style="text-align:left">
-        <ol>
-          <li>Origin&#xE1;ria: n&#xE3;o h&#xE1; transmiss&#xE3;o de um sujeito para
-            outro, como ocorre na acess&#xE3;o natural e na usucapi&#xE3;o;</li>
-        </ol>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <ol>
-          <li>Derivada: a aquisi&#xE7;&#xE3;o resulta de uma rela&#xE7;&#xE3;o negocial
-            entre o anterior e o propriet&#xE1;rio adquirente.</li>
-        </ol>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+
 
 Tabela 2: Aquisição da Propriedade imóvel
 
