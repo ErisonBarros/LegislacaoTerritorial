@@ -22,24 +22,9 @@ A posse poderá vir a transformar-se em domínio, através de uma ação de usuc
 
 A posse apresenta-se em diversas modalidades. As mesmas são mostradas na tabela a seguir:
 
-| MODALIDADES DE POSSE |  |  |  |
-| :--- | :--- | :--- | :--- |
-| 1 | JUSTA | - |  |
-| 2 | INJUSTA | VIOLENTA \(uso da força\) | Convalescem |
-| 3 | CLANDESTINA \(às escondidas\) |  |  |
-| 4 | PRECÁRIA \(abuso de confiança\) | Não Convalesce |  |
-| 5 | BOA-FÉ | Desconhecimento de vício |  |
-| 6 | MÁ-FÉ | Conhecimento de vício |  |
-| 7 | POSSE NOVA | Menos de ano e dia – Proporciona Liminar |  |
-| 8 | POSSE VELHA | Mais de ano e dia - Ordinária |  |
-| 9 | POSSE DIRETA | Inquilino, comodatário |  |
-| 10 | POSSE INDIRETA | Proprietário, locador, comodante |  |
-| 11 | POSSE GOZO | O uso, exercício da posse |  |
-| 12 | POSSE ENCARGO | Satisfação aos ônus gerados |  |
-| 13 | POSSE “AD USUCAPIONEM” | Gera o direito a propriedade |  |
-| 14 | POSSE “AD INTERDICTA” | Direito da posse em defesa |  |
+![Tabela 2: Aquisi&#xE7;&#xE3;o da Propriedade im&#xF3;vel](.gitbook/assets/screenshot_2.png)
 
-_Tabela 1 – Modalidades de Posse_
+
 
 Fonte: Liporoni e Benite, \(2008\).
 
@@ -63,9 +48,9 @@ Segundo Gonçalves \(2010\), Os Modos de aquisição da Propriedade eram enumera
 
 Com relação à procedência ou causa de aquisição, pode ser: Originária, quando não ocorre transmissão de um sujeito para outro, como, por exemplo, a acessão natural e a usucapião; e derivada, quando ocorre uma relação negocial entre o anterior proprietário e o adquirente, em que há uma transmissão de domínio devido à manifestação da vontade \(GONÇALVES, 2010\).
 
+![Tabela 2: Aquisi&#xE7;&#xE3;o da Propriedade im&#xF3;vel](.gitbook/assets/screenshot_1.png)
 
 
-Tabela 2: Aquisição da Propriedade imóvel
 
 Fonte: Gonçalves, \(2010\).
 
@@ -107,13 +92,7 @@ Segundo Gonçalves \(2010\), tanto bens móveis quanto bens imóveis podem ser o
 
 A tabela 3, a seguir, expõe essas modalidades e suas características.
 
-| Espécies | a\) Extraordinária | Tem como Requisitos: Posse de 15 anos \(que pode reduzir-se a 10 anos se o possuidor houver estabelecido no imóvel a sua moradia habitual ou nele realizado obras ou serviços de caráter produtivo\), exercida com ânimo de dono, de forma contínua, mansa e pacificamente. Dispensam-se os requisitos do justo título e da boa-fé \(CC, art. 1.238\). |
-| :--- | :--- | :--- |
-| b\) Ordinária | É prevista no art. 1.242 do CC e apresenta os seguintes requisitos: posse de 10 anos, exercida com ânimo de dono, de forma contínua, mansa e pacificamente, além de justo título e boa-fé. O prazo pode ser reduzido para 5 anos, na hipótese prevista no parágrafo único. |  |
-| c\) Especial | Rural | Tem como requisitos: a\) não ser o usucapiente proprietário rural nem urbano; b\) posse de 5 anos, contínua, mansa e pacífica; c\) área rural contínua, não excedente a 50 hectares, tornando-a produtiva com seu trabalho e nela tendo sua morada. Independente de justo título e boa fé e não pode recair sobre bens públicos \(CF, art. 191; CC, art. 1.239\). |
-| Urbana | Exige: a\) posse de área urbana de até 250 metros quadrados; b\) prazo de 5 anos; c\) posse contínua, mansa e pacífica; d\) Utilização do imóvel para moradia do possuidor ou de sua família; e\) não propriedade de outro imóvel urbano ou rural. Não pode recair sobre imóveis públicos, nem ser reconhecido ao mesmo possuidor mais de uma vez \(CF, art. 183; CC, art.1.240\) |  |
-
-Tabela 3 - Espécies de Usucapião
+![Tabela 3 - Esp&#xE9;cies de Usucapi&#xE3;o](.gitbook/assets/screenshot_3.png)
 
 Fonte: Gonçalves, \(2010\).
 
@@ -133,53 +112,9 @@ Quando o proprietário de um bem adquire à titularidade de tudo aquilo que a el
 
 A tabela 4 mostra as espécies de acessões.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Esp&#xE9;cies (CC, art. 1.248)</th>
-      <th style="text-align:left">
-        <ol>
-          <li>Acess&#xF5;es f&#xED;sicas ou naturais: constituem fen&#xF4;menos naturais
-            e acess&#xF5;es de im&#xF3;vel a im&#xF3;vel</li>
-        </ol>
-      </th>
-      <th style="text-align:left">
-        <p>&#x2500; Forma&#xE7;&#xE3;o de ilhas pelo ac&#xFA;mulo natural de areia
-          e materiais lavados pela correnteza e ocorre de acordo com sua situa&#xE7;&#xE3;o
-          ou posi&#xE7;&#xE3;o no leito dos rios (CC, art. 1.249);</p>
-        <p>&#x2500; aluvi&#xE3;o &#xE9; o aumento insens&#xED;vel que o rio anexa
-          &#xE0;s terras, t&#xE3;o vagarosamente que seria imposs&#xED;vel, em dado
-          momento, apreciar a quantidade acrescida. Esses acr&#xE9;scimos pertencem
-          aos donos dos terrenos marginais, segundo a regra de que o acess&#xF3;rio
-          segue o principal (CC, art. 1250);</p>
-        <p>&#x2500; avuls&#xE3;o quando a for&#xE7;a s&#xFA;bita da corrente arranca
-          uma parte consider&#xE1;vel de um pr&#xE9;dio, arrojando-a sobre outro
-          (art. 1.251);</p>
-        <p>&#x2500; abandono de &#xE1;lveo, que &#xE9; a superf&#xED;cie que as aguas
-          cobrem sem transbordar para o solo natural e ordinariamente enxuto. O &#xE1;lveo
-          abandonado de rio p&#xFA;blico ou particular pertence aos propriet&#xE1;rios
-          ribeirinhos das duas margens, na propor&#xE7;&#xE3;o das testadas, at&#xE9;
-          a linha mediana daquela (art. 1252).</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">b) Acess&#xF5;es industriais</td>
-      <td style="text-align:left">As constru&#xE7;&#xF5;es e planta&#xE7;&#xF5;es s&#xE3;o chamadas de acess&#xF5;es
-        industriais ou artificiais, porque derivam de um comportamento ativo do
-        homem. A regra b&#xE1;sica est&#xE1; consubstanciada na presun&#xE7;&#xE3;o
-        de que toda constru&#xE7;&#xE3;o ou planta&#xE7;&#xE3;o existente em um
-        terreno foi feita pelo propriet&#xE1;rio e a sua custa. Trata-se, no entanto,
-        de presun&#xE7;&#xE3;o venc&#xED;vel, admitindo prova contr&#xE1;ria (CC,
-        art. 1.253). A presun&#xE7;&#xE3;o se ilide nas hip&#xF3;teses mencionadas
-        nos arts. 1.245 e s.</td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+![Tabela 3 - Esp&#xE9;cies de Usucapi&#xE3;o](.gitbook/assets/screenshot_4.png)
 
-Tabela 4 – Espécies de acessões
+![](.gitbook/assets/screenshot_5.png)
 
 Fonte: Gonçalves, \(2010\).
 
