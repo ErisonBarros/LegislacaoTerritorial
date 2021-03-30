@@ -1,8 +1,4 @@
----
-description: As fundamentações do Direito Registral para Certificação de Imóveis Rurais
----
-
-# README 10
+# Uso do Solo
 
 > Written with [StackEdit](https://stackedit.io/).
 >
