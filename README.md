@@ -2,7 +2,7 @@
 description: Plano de Aula
 ---
 
-# README
+# Plano de Aula
 
 ### OBJETIVOS <a id="user-content-objetivos"></a>
 
