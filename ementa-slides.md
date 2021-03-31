@@ -2,7 +2,7 @@
 
 ## Ementa:
 
-{% page-ref page="ementa-slides.md" %}
+
 
 ## Slides
 
