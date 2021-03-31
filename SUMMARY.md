@@ -7,6 +7,7 @@
   * [Coletânea com a Legislação da  Cartografia Nacional](untitled/readme4.md)
   * [Legislação ambiental](untitled/readme2.md)
 * [Direito das Coisas](readme3.md)
+* [Aquisição de Propriedade](aquisicao-de-propriedade.md)
 * [Os Bens](readme5/README.md)
   * [Tipos de Bens](readme5/readme-7.md)
   * [Bens Públicos existentes no Brasil](readme5/readme-6.md)
