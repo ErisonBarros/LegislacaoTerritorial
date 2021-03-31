@@ -48,6 +48,8 @@ Segundo Gonçalves \(2010\), Os Modos de aquisição da Propriedade eram enumera
 
 Com relação à procedência ou causa de aquisição, pode ser: Originária, quando não ocorre transmissão de um sujeito para outro, como, por exemplo, a acessão natural e a usucapião; e derivada, quando ocorre uma relação negocial entre o anterior proprietário e o adquirente, em que há uma transmissão de domínio devido à manifestação da vontade \(GONÇALVES, 2010\).
 
+
+
 ![Tabela 2: Aquisi&#xE7;&#xE3;o da Propriedade im&#xF3;vel](.gitbook/assets/screenshot_1.png)
 
 
