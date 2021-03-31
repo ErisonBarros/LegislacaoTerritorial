@@ -29,7 +29,7 @@ Serão presenciados de forma online:
 * Apresentação das técnicas de levantamentos e locações;
 * Apresentação das práticas de elaboração de planta utilizando o QGis, Topocad \(adquirido pelo Laboratório\).
 * [Direito das Coisas](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/README3.md);
-* Direito Civil;
+* [Direito Civil;](https://www2.senado.leg.br/bdsf/bitstream/handle/id/506294/codigo_civil_5ed.pdf?sequence=6&isAllowed=y)
 * [Direito Urbanísticos](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/Estatuto%20da%20Cidade.md);
 * Direito Agrário;
 * [Legislação Cartográfica;](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/REAME4.md)
