@@ -23,7 +23,9 @@
 ## II UNIDADE
 
 * [Regularização Fundiária Rural](ii-unidade/regularizacao-fundiaria-rural/README.md)
+  * [Sumário](ii-unidade/regularizacao-fundiaria-rural/sumario.md)
   * [1. Introdução](ii-unidade/regularizacao-fundiaria-rural/1.-introducao/README.md)
+    * [1.2. Índices básicos](ii-unidade/regularizacao-fundiaria-rural/1.-introducao/1.2.-indices-basicos.md)
     * [1.4. Base Legal da Regularização Fundiária em Terras Públicas Federais Rurais](ii-unidade/regularizacao-fundiaria-rural/1.-introducao/1.4.-base-legal-da-regularizacao-fundiaria-em-terras-publicas-federais-rurais.md)
   * [2. Conceitos Básicos](ii-unidade/regularizacao-fundiaria-rural/2.-conceitos-basicos.md)
   * [3. Tipos de documentos](ii-unidade/regularizacao-fundiaria-rural/3.-tipos-de-documentos.md)
