@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Plano de Aula](README.md)
-* [EMENTA](ementa-slides.md)
+* [Google Classroom](ementa-slides.md)
 * [As fundamentações do Direito Registral para Certificação de Imóveis Rurais](as-fundamentacoes-do-direito-registral-para-certificacao-de-imoveis-rurais.md)
 * [Tipos de Legislação](untitled/README.md)
   * [Coletânea com a Legislação da  Cartografia Nacional](untitled/readme4.md)

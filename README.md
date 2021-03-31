@@ -1,5 +1,5 @@
 ---
-description: Plano de Aula
+description: Prof. Erison Rosa de Oliveira Barros
 ---
 
 # Plano de Aula
@@ -23,7 +23,7 @@ description: Plano de Aula
 As atividades síncronas e assíncronas, desenvolvidas em ambiente virtual, remotamente. As síncronas, que totalizarão 33,3%, serão 12 atividades \(2 horas/ aulas por semana\) serão feitas remotamente, através de encontros virtuais previamente agendados, disponibilizados no siga, que serão feitos usando a ferramenta Google Meet. Nessas atividades síncronas o professor apresentará a parte teórica e esclarecerá sobre estudos e os trabalhos . Esses encontros síncronos também poderão ser utilizados para apresentação dos trabalhos dos estudantes utilizando o Meet. Nas atividades assíncronas, que totalizarão 66,6%, serão \(4 horas/aulas por semana\) os alunos deverão complementar estudos e resolver os trabalhos propostos nas aulas presenciais e previstos nos plano de trabalho. Essas atividades serão passadas através de sala de aula virtual, utilizando a ferramenta Google Classroom.  
 Serão presenciados de forma online:
 
-### Ementa <a id="ementa"></a>
+### EMENTA <a id="ementa"></a>
 
 * aulas expositivas da parte teórica e legal;
 * Apresentação das técnicas de levantamentos e locações;
