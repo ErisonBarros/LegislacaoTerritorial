@@ -4,13 +4,17 @@
 
 ![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj22VbC8fk8D_jFPXMq1BxjVaT6DL5HZ0Plg&usqp=CAU) ![enter image description here](https://oxereta.com/images/noticia/A5975d66ee7810.jpg)
 
-![enter image description here](https://www.politize.com.br/wp-content/uploads/2021/02/Captura-de-Tela-142.png)
+![Figura 1 - Demarca&#xE7;&#xE3;o de Terrenos de Marinha](https://www.politize.com.br/wp-content/uploads/2021/02/Captura-de-Tela-142.png)
 
-![enter image description here](http://www2.camara.leg.br/camaranoticias/imagens/imgNoticiaUpload1418387433295.jpg)
+![Figura 2 - Custos dos Terrenos de Marinha](http://www2.camara.leg.br/camaranoticias/imagens/imgNoticiaUpload1418387433295.jpg)
 
-![enter image description here](https://regularizacaofundiariamt.com/wp-content/uploads/2020/08/LIMEO.png)
+![Figura 3 - Terrenos Marginais ](https://regularizacaofundiariamt.com/wp-content/uploads/2020/08/LIMEO.png)
 
-![enter image description here](https://www.gov.br/economia/pt-br/assuntos/patrimonio-da-uniao/bens-da-uniao/imagens/terrenosmarginais.jpg) Segundo Zanella di Pietro, “Terrenos de marinha são os que, banhados pelas águas do mar ou dos rios navegáveis, vão até a distância de 15 braças craveiras \(33 metros\), para a parte da terra, contadas desde o ponto em que chega o preamar médio \(art. [13](https://www.jusbrasil.com.br/topicos/10609113/artigo-13-do-decreto-n-24643-de-10-de-julho-de-1934) do [Código de Águas](https://www.jusbrasil.com.br/legislacao/91582/c%C3%B3digo-de-%C3%A1guas-decreto-24643-34)\).” \[2\]
+ 
+
+![Figura 4 - Delimita&#xE7;&#xE3;o dos Terrenos Marginais](https://www.gov.br/economia/pt-br/assuntos/patrimonio-da-uniao/bens-da-uniao/imagens/terrenosmarginais.jpg)
+
+Segundo Zanella di Pietro, “Terrenos de marinha são os que, banhados pelas águas do mar ou dos rios navegáveis, vão até a distância de 15 braças craveiras \(33 metros\), para a parte da terra, contadas desde o ponto em que chega o preamar médio \(art. [13](https://www.jusbrasil.com.br/topicos/10609113/artigo-13-do-decreto-n-24643-de-10-de-julho-de-1934) do [Código de Águas](https://www.jusbrasil.com.br/legislacao/91582/c%C3%B3digo-de-%C3%A1guas-decreto-24643-34)\).” \[2\]
 
 Ou seja, todo e qualquer terreno ribeirinho \(desde que o rio seja navegável\) ou banhado pela água do mar, será de propriedade da União \(art. [20](https://www.jusbrasil.com.br/topicos/10639137/artigo-20-da-constitui%C3%A7%C3%A3o-federal-de-1988), [VII](https://www.jusbrasil.com.br/topicos/10721710/inciso-vii-do-artigo-20-da-constitui%C3%A7%C3%A3o-federal-de-1988) da [CRFB/88](https://www.jusbrasil.com.br/legislacao/188546065/constitui%C3%A7%C3%A3o-federal-constitui%C3%A7%C3%A3o-da-republica-federativa-do-brasil-1988)\), até 33 metros da água à faixa de terra, desde que seja influenciado pela faixa de maré.
 
@@ -24,7 +28,9 @@ Em razão de sua agregação aos terrenos de marinha, também são pertencentes 
 
 ## Terrenos Reservados
 
-Esses possuem mesma definição dos terrenos de marinha, contudo diferenciam-se pela sua titularidade e pela não influência das marés, pois como afirmam Vicente Paulo e Marcelo Alexandrino “são aqueles que, banhados pelas correntes navegáveis, fora do alcance das marés, se estendem até a distância de 15 metros para a parte da terra, contados desde a linha média das enchentes ordinárias.” \[3\] ![enter image description here](http://2.bp.blogspot.com/-Y2bJetS9MPo/UjJHxwJ9XiI/AAAAAAAAEEQ/gLJAW9uAzL8/s1600/Slide2.PNG)
+Esses possuem mesma definição dos terrenos de marinha, contudo diferenciam-se pela sua titularidade e pela não influência das marés, pois como afirmam Vicente Paulo e Marcelo Alexandrino “são aqueles que, banhados pelas correntes navegáveis, fora do alcance das marés, se estendem até a distância de 15 metros para a parte da terra, contados desde a linha média das enchentes ordinárias.” \[3\] 
+
+![Figura 5 - Terrenos Reservados](http://2.bp.blogspot.com/-Y2bJetS9MPo/UjJHxwJ9XiI/AAAAAAAAEEQ/gLJAW9uAzL8/s1600/Slide2.PNG)
 
 ## Terras Ocupadas pelos Índios
 

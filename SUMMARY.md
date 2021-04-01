@@ -5,7 +5,7 @@
 
 ## I UNIDADE
 
-* [DIREITO DAS COISAS](i-unidade/readme-8.md)
+* [1. DIREITO DAS COISAS](i-unidade/readme-8.md)
 * [As fundamentações do Direito Registral para Certificação de Imóveis Rurais](i-unidade/as-fundamentacoes-do-direito-registral-para-certificacao-de-imoveis-rurais.md)
 * [Aquisição de Propriedade](i-unidade/aquisicao-de-propriedade.md)
 * [Tipos de Legislação](i-unidade/untitled-1/README.md)
@@ -22,7 +22,7 @@
 
 ## II UNIDADE
 
-* [Regularização Fundiária Rural](ii-unidade/regularizacao-fundiaria-rural/README.md)
+* [Regularização Fundiária Rural de Terras Públicas Federais Rurais](ii-unidade/regularizacao-fundiaria-rural/README.md)
   * [Sumário](ii-unidade/regularizacao-fundiaria-rural/sumario.md)
   * [1. Introdução](ii-unidade/regularizacao-fundiaria-rural/1.-introducao/README.md)
     * [1.2. Índices básicos](ii-unidade/regularizacao-fundiaria-rural/1.-introducao/1.2.-indices-basicos.md)
