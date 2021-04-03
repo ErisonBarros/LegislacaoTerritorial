@@ -37,7 +37,11 @@ Suas determinações de posse através daquele que entrar com recursos variam de
 
 ## Quais são os tipos de usucapião?
 
-Bens Imóveis :
+### Bens Imóveis :
+
+{% embed url="https://www.mindmeister.com/pt/1763467735?t=Jwtr5bA4yh\#" %}
+
+
 
 – Extraordinária; 
 
