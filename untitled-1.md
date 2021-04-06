@@ -106,7 +106,7 @@ NUNES, Luiz A. R. O Princípio Constitucional da Dignidade da Pessoa Humana: Dou
 
 PINTO, Victor Carvalho. Direito Urbanístico: Plano Diretor e Direito de Propriedade. 3. ed. São Paulo: Revista dos Tribunais, 2011. 
 
-SANTOS, Antonio Silveira Ribeiro dos. Estudos de Direito Urbanístico. Disponível em: [http://www.aultimaarcadenoe.com](http://www.aultimaarcadenoe.com). br/estudos-de-direito-urbanistico/. Acesso em: 19 abr. 2013. 
+SANTOS, Antonio Silveira Ribeiro dos. Estudos de Direito Urbanístico. Disponível em: [http://www.aultimaarcadenoe.com](http://www.aultimaarcadenoe.com). br/estudos-de-direito-urbanístico/. Acesso em: 19 abr. 2013. 
 
 SILVA, José Afonso. Direito Urbanístico Brasileiro. 5. ed. São Paulo: Malheiros, 2008. WIKIPEDIA. Disponível em: www.wikipedia.org. Acesso em: 17 abr. 2013.
 
