@@ -44,21 +44,14 @@ Serão presenciados de forma online:
 aulas expositivas da parte teórica e legal;
 Apresentação das técnicas de levantamentos e locações;
 Apresentação das práticas de elaboração de planta utilizando o QGis, Topocad \(adquirido pelo Laboratório\).
-* [Direito das Coisas]
-<li>Direito Civil;</li>
-<li>Direito Urbanístico;</li>
-<li>Direito Agrário;</li>
-<li><a
-
-* [Direito Urbanísticos](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/Estatuto%20da%20Cidade.md);
-
+* Direito das Coisas
+* Direito Civil;
+* Direito Urbanístico
+* Direito Agrário
+* Direito Urbanísticos
 * Direito Agrário;
-* 
-* [Legislação Cartográfica;](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/REAME4.md">)
-* Legislação Cartográfica;</li>
-<li>Legislação Profissional;</li>
-
-<li><a href="Profissional;
+* Legislação Cartográfica;
+* Legislação Profissional;
 * [Legislação Ambiental](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/README2.md" title="Legislação Ambiental">Legislação Ambiental</a>;</li>
 <li>Normas técnicas.</li>
 </ul>
@@ -143,5 +136,5 @@ As atividades síncronas e assíncronas, desenvolvidas em ambiente virtual, remo
 <p><a href="](http://https://1drv.ms/x/s!AjO4oAHV5BZuioozg3Ez9_Rd86UWbg?e=sxfTQx" title="UNIDADES PROGRAMÁTICAS">UNIDADES PROGRAMÁTICAS</a></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDQ4MjY4LC0xMDQ5MTY2NDA1XX0=
+eyJoaXN0b3J5IjpbODUyNTIwODkyLC0xMDQ5MTY2NDA1XX0=
 -->
