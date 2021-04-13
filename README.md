@@ -27,8 +27,6 @@ description: Prof. Erison Rosa de Oliveira Barros
 <td align="center">Legislação Territorial</td>
 <td align="center"></td>
 <td align="c brasileira.
-
-
 3. Dar subicidios a trabalhar em casos de estudo de perícias judiciais.
 
 ## Legislação Territorial <a id="legisla&#xE7;&#xE3;o-territorial"></a>
@@ -43,25 +41,20 @@ As atividades síncronas e assíncronas, desenvolvidas em ambiente virtual, remo
 Serão presenciados de forma online:
 
 ### EMENTA <a id="ementera"></td>
-</tr>
-</tbody>
-</table><h2 id="ementa">Ementa</h2>
-<ul>
-<li><a href="a>
-
-* aulas expositivas da parte teórica e legal;
-* Apresentação das técnicas de levantamentos e locações;
-* Apresentação das práticas de elaboração de planta utilizando o QGis, Topocad \(adquirido pelo Laboratório\).
+aulas expositivas da parte teórica e legal;
+Apresentação das técnicas de levantamentos e locações;
+Apresentação das práticas de elaboração de planta utilizando o QGis, Topocad \(adquirido pelo Laboratório\).
 * [Direito das Coisas](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/README3.md">);
-[Direito das Coisas</a>;</li>
+* [Direito das Coisas</a>;</li>
 <li>Direito Civil;</li>
 <li>Direito Urbanístico;</li>
 <li>Direito Agrário;</li>
 <li><a
 href="Civil;](https://www2.senado.leg.br/bdsf/bitstream/handle/id/506294/codigo_civil_5ed.pdf?sequence=6&isAllowed=y)
 * [Direito Urbanísticos](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/Estatuto%20da%20Cidade.md);
-* Direito Agrário
-* [Legislação Cartográfica;] https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/REAME4.md">)
+* Direito Agrário;
+* [Legislação Cartográfica;](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/REAME4.md">)
+* Legislação Cartográfica;</li>
 <li>Legislação Profissional;</li>
 <li><a href="Profissional;
 * [Legislação Ambiental](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/README2.md" title="Legislação Ambiental">Legislação Ambiental</a>;</li>
@@ -147,6 +140,6 @@ As atividades síncronas e assíncronas, desenvolvidas em ambiente virtual, remo
 <p><a href="](http://https://1drv.ms/x/s!AjO4oAHV5BZuioozg3Ez9_Rd86UWbg?e=sxfTQx" title="UNIDADES PROGRAMÁTICAS">UNIDADES PROGRAMÁTICAS</a></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDU1NTMyNzcsLTEwNDkxNjY0MDVdfQ
+eyJoaXN0b3J5IjpbLTE3ODExMTAwNzMsLTEwNDkxNjY0MDVdfQ
 ==
 -->
