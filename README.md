@@ -27,6 +27,8 @@ description: Prof. Erison Rosa de Oliveira Barros
 <td align="center">Legislação Territorial</td>
 <td align="center"></td>
 <td align="c brasileira.
+
+
 3. Dar subicidios a trabalhar em casos de estudo de perícias judiciais.
 
 ## Legislação Territorial <a id="legisla&#xE7;&#xE3;o-territorial"></a>
@@ -60,7 +62,7 @@ Serão presenciados de forma online:
 href="Civil;](https://www2.senado.leg.br/bdsf/bitstream/handle/id/506294/codigo_civil_5ed.pdf?sequence=6&isAllowed=y)
 * [Direito Urbanísticos](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/Estatuto%20da%20Cidade.md);
 * Direito Agrário;
-* [Legislação Cartográfica;](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/REAME4.md">)
+* [Legislação Cartográfica;] https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/REAME4.md">)
 * Legislação Cartográfica;</li>
 <li>Legislação Profissional;</li>
 <li><a href="Profissional;
@@ -147,5 +149,5 @@ As atividades síncronas e assíncronas, desenvolvidas em ambiente virtual, remo
 <p><a href="](http://https://1drv.ms/x/s!AjO4oAHV5BZuioozg3Ez9_Rd86UWbg?e=sxfTQx" title="UNIDADES PROGRAMÁTICAS">UNIDADES PROGRAMÁTICAS</a></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjYwMTk2MywtMTA0OTE2NjQwNV19
+eyJoaXN0b3J5IjpbMTI3NzQ5NjEyOSwtMTA0OTE2NjQwNV19
 -->
