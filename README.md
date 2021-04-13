@@ -37,6 +37,9 @@ description: Prof. Erison Rosa de Oliveira Barros
 | :--- | :--- | :--- | :--- |
 | CA 471 | Legislação Territorial |  |  |
 
+
+
+
 As atividades síncronas e assíncronas, desenvolvidas em ambiente virtual, remotamente. As síncronas, que totalizarão 33,3%, serão 12 atividades \(2 horas/ aulas por semana\) serão feitas remotamente, através de encontros virtuais previamente agendados, disponibilizados no siga, que serão feitos usando a ferramenta Google Meet. Nessas atividades síncronas o professor apresentará a parte teórica e esclarecerá sobre estudos e os trabalhos . Esses encontros síncronos também poderão ser utilizados para apresentação dos trabalhos dos estudantes utilizando o Meet. Nas atividades assíncronas, que totalizarão 66,6%, serão \(4 horas/aulas por semana\) os alunos deverão complementar estudos e resolver os trabalhos propostos nas aulas presenciais e previstos nos plano de trabalho. Essas atividades serão passadas através de sala de aula virtual, utilizando a ferramenta Google Classroom.  
 Serão presenciados de forma online:
 
@@ -136,6 +139,6 @@ As atividades síncronas e assíncronas, desenvolvidas em ambiente virtual, remo
 <p><a href="](http://https://1drv.ms/x/s!AjO4oAHV5BZuioozg3Ez9_Rd86UWbg?e=sxfTQx" title="UNIDADES PROGRAMÁTICAS">UNIDADES PROGRAMÁTICAS</a></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMxNzM3MTcsLTE4MjcxNzgwMjksLT
-EwNDkxNjY0MDVdfQ==
+eyJoaXN0b3J5IjpbMTg3NTQ5NzE0MSwtMTgyNzE3ODAyOSwtMT
+A0OTE2NjQwNV19
 -->
