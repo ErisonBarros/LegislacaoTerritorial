@@ -1,4 +1,4 @@
 # LegislacaoTerritorial
 
-Fornecer aos alunos os conhecimentos necessários referentes a legislação territorial;
-
+Prof. Erison Barros
+e-mail: erison.barros@ufpe.br
