@@ -4,7 +4,7 @@ Nas últimas décadas, impulsionado-se a influência devastadora das ações hum
 
 Fonte: [http: // http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf] (http: // http: //r1.ufrrj. br / cfar / d / download / Apostila% 20do% 20curso% 20de% 20Legislacao% 20Ambiental.pdf) 
 
-##                                                                                                                                                                                                                                                                                                                     CONCEITO
+##                                                                                                                                                                                                                                                                                                                            CONCEITO
 
 É conjunto de normas jurídicas que se destinam a disciplinar a atividade humana, para torná-la compatível com a proteção do meio ambiente. A legislação ambiental brasileira, para atingir seus objetivos de preservação, criou ** direitos ** e ** deveres ** para o cidadão.
 
@@ -62,6 +62,6 @@ Constituinte do Grupo das Unidades de Uso Sustentável as seguintes unidades de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzA4Nzc5OCwyMjA4MjYzMTQsLTE1OD
-Q1NjQzOTAsLTEyMjQ2MTEwODBdfQ==
+eyJoaXN0b3J5IjpbMTQ3MzY0NDA0MiwtOTc3MDg3Nzk4LDIyMD
+gyNjMxNCwtMTU4NDU2NDM5MCwtMTIyNDYxMTA4MF19
 -->
