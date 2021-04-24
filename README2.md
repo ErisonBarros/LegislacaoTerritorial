@@ -1,10 +1,10 @@
 # Legislação ambiental
 
-Nas últimas décadas, impulsionado-se a influência devastadora das ações humanas voltadas à inovação e desenvolvimento econômico no ecossistema. E com essa percepção como associações viram a necessidade de controlar e reduzir o impacto dessas ações, criando a Legislação ambiental, campanhas de conscientização e programas que procuram manter nosso ecossistema o mais intacto possível, sem diminuir o avanço de nossa civilização.
+Nas últimas décadas, impulsionado-se a influência devastadora das ações humanas voltadas à inovação e desenvolvimento econômico no ecossistema. E com essa percepção como associações viram a necessidade de controlar e reduzir o impacto dessas ações, criando a legislação ambiental, campanhas de conscientização e programas que procuram manter o ecossistema mais intacto possível, sem diminuir o avanço de nossa civilização.
 
 Fonte: [http: // http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf] (http: // http: //r1.ufrrj. br / cfar / d / download / Apostila% 20do% 20curso% 20de% 20Legislacao% 20Ambiental.pdf) 
 
-##  CONCEITO
+##                                                                                                                                                                                                                           CONCEITO
 
 É conjunto de normas jurídicas que se destinam a disciplinar a atividade humana, para torná-la compatível com a proteção do meio ambiente. A legislação ambiental brasileira, para atingir seus objetivos de preservação, criou ** direitos ** e ** deveres ** para o cidadão.
 
@@ -45,11 +45,11 @@ As unidades de conservação integrantes do SNUC dividem-se em dois grupos, com 
 
 O grupo das Unidades de Proteção Integral é composto pelas seguintes categorias de unidade de conservação:
 
-- I - Estação Ecológica 
--  II - Reserva Biológica 
-- III - Parque Nacional 
-- IV - Monumento Natural 
-- V - Refúgio de Vida Silvestre
+- I - Estação Ecológica - II - Reserva Biológica - III - Parque Nacional - IV - Monumento Natural - V - Refúgio de Vida Silvestre
+
+
+
+
 
 ------------
 
@@ -62,6 +62,6 @@ Constituinte do Grupo das Unidades de Uso Sustentável as seguintes unidades de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ1NjQzOTAsLTEyMjQ2MTEwODBdfQ
-==
+eyJoaXN0b3J5IjpbMjIwODI2MzE0LC0xNTg0NTY0MzkwLC0xMj
+I0NjExMDgwXX0=
 -->
