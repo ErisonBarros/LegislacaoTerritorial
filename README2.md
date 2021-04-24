@@ -4,7 +4,7 @@ Nas últimas décadas, impulsionado-se a influência devastadora das ações hum
 
 Fonte: [http: // http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf] (http: // http: //r1.ufrrj. br / cfar / d / download / Apostila% 20do% 20curso% 20de% 20Legislacao% 20Ambiental.pdf) 
 
-##                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              CONCEITO
+##                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         CONCEITO
 
 É conjunto de normas jurídicas que se destinam a disciplinar a atividade humana, para torná-la compatível com a proteção do meio ambiente. A legislação ambiental brasileira, para atingir seus objetivos de preservação, criou ** direitos ** e ** deveres ** para o cidadão.
 
@@ -62,7 +62,7 @@ Constituinte do Grupo das Unidades de Uso Sustentável as seguintes unidades de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzc2NDg3NCwyMTQ0MDA1MjIsLTk3Nz
-A4Nzc5OCwyMjA4MjYzMTQsLTE1ODQ1NjQzOTAsLTEyMjQ2MTEw
-ODBdfQ==
+eyJoaXN0b3J5IjpbNTM3NjMzNDgyLDIxNDQwMDUyMiwtOTc3MD
+g3Nzk4LDIyMDgyNjMxNCwtMTU4NDU2NDM5MCwtMTIyNDYxMTA4
+MF19
 -->
