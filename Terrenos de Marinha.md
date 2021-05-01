@@ -104,6 +104,5 @@ Na divisão de titularidade, fica a União com as águas que banhem terreno de s
 
 [7] ALEXANDRINO, Marcelo; PAULO, Vicente.  **Direito Administrativo Descomplicado.** 22. ed. São Paulo: Método, 2014.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3NDY4NzUzLC0zNTA0NjgzNjcsLTE0MT
-IyOTM2MzAsMTczNTkyOTc1MSwxNDgwNzU0OTVdfQ==
+eyJoaXN0b3J5IjpbNjA3NDY4NzUzXX0=
 -->

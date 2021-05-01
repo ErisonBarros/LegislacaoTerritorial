@@ -71,3 +71,6 @@ Limite à liberdade de uso da propriedade com uma cultivar de segurança, sosseg
 
 **Embargo da construção:** embargo a obra em andamento, requerido por vizinho ou administração pública, meios extrajudiciais ou judiciais, em razão de interesse social, prejuízo à segurança, à saúde, ao sossego e ao conforto das pessoas. 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTE3ODY4Nzg0XX0=
+-->

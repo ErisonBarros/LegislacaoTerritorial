@@ -78,6 +78,5 @@ Fonte: https://luizfreaza.jusbrasil.com.br/artigos/584642261/resumos-juridicos-b
 
  **[Página 3](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/README%207.md)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU3OTQ5MjksMTM5MTgyOTI1MCwxOD
-M2MzAzNjI3LDcwNzY0MDgxLDExODI5MjYzODBdfQ==
+eyJoaXN0b3J5IjpbLTE3OTU3OTQ5MjldfQ==
 -->
