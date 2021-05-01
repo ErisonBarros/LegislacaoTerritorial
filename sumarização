@@ -1,0 +1,148 @@
+#! / usr / bin / env ruby
+
+requer 'tempfile'
+requer 'utilitários de arquivo'
+requer 'optparse'
+requer 'optparse / time'
+requer 'ostruct'
+requer 'yaml'
+
+VERSION = "0.1.0"
+
+classe MDUtils
+
+
+	def self.summarize (args)
+
+		nome do arquivo = args [0]
+		options = args [1]
+
+		if! File.exist? (nome do arquivo)
+			abortar ("Por favor, insira um arquivo MD válido.")
+		fim
+
+		coloca "Gerando resumo para arquivo" + nome do arquivo
+
+		# Para ter certeza de não escrever no arquivo existente
+		timeNow = Time.now.to_f
+		tmpfilename = "tmp_00_" + timeNow.inspect + ".md"
+		temp_file = File.new (tmpfilename, "w")
+
+		resumo = "\ #Resumo \ n \ n"
+		forbidden_words = ['Índice', 'definir', 'pragma']
+
+		File.open (filename, 'r') do | f |
+			if options.verbose 
+				coloca "Gerar resumo para as seções:"
+			fim
+			f.each_line do | line |
+		    	if! (! line.start_with? ("#") || forbidden_words.any? {| w | line = ~ / # {w} /}) 
+			    	title = line.gsub ("#", "") .strip
+				    href = "id da seção - # {$.}"
+				    anchor = "<div id = '# {href}' /> \ n \ n"
+				    temp_file.puts âncora + linha
+				    resumo + = "" * (line.count ("#") - 1) + "- [# {title}] (\ ## {href})" + "\ n"
+				    if options.verbose 
+				    	coloca "\ t- [# {título}]"
+				    fim
+			 	outro
+			 		linha temp_file.puts
+			 	fim   
+		   	fim
+
+			temp_file.close
+			resumo + = "\ n \ n"
+			outputFilename = "summary_" + nome do arquivo
+			if! options.output.empty? 
+				outputFilename = options.output
+				outputComponents = outputFilename.split (".")
+
+				if outputComponents.last.downcase! = "md" 
+					outputFilename + = ".md"
+					if options.verbose 
+				    	coloca "Forçando a adição de extensão."
+				    fim
+				fim
+				
+			fim
+			system ("echo \" # {summary} \ "| cat - # {tmpfilename}> # {outputFilename}")
+		    sistema ("rm # {tmpfilename}")
+		    coloca "Concluído. \ n"
+		fim
+	end # (resumo final)	
+
+fim
+
+classe OptparseSummarize
+
+  CÓDIGOS =% w [binário iso-2022-jp shift_jis euc-jp utf8]
+  CODE_ALIASES = {"jis" => "iso-2022-jp", "sjis" => "shift_jis"}
+
+  #
+  # Retorne uma estrutura descrevendo as opções.
+  #
+  def self.parse (args)
+    # As opções especificadas na linha de comando serão coletadas em * opções *.
+    # Definimos os valores padrão aqui.
+    options = OpenStruct.new
+    options.encoding = "utf8"
+    options.verbose = false
+    options.output = String.new
+
+    opt_parser = OptionParser.new do | opts |
+      opts.banner = "Uso: resumeMD <nome do arquivo> [opções]"
+
+      opts.separator ""
+      opts.separator "Opções específicas:"
+
+      # Nome de saída.
+      opts.on ("- o", "--output [nome do arquivo]",
+              "Especifique o nome do arquivo de saída") do | out |
+        options.output << out
+      fim
+
+      # Chave booleana.
+      opts.on ("- v", "- [não-] verboso", "Executar detalhadamente") do | v |
+        options.verbose = v
+      fim
+
+      opts.separator ""
+      opts.separator "Opções comuns:"
+
+      # Sem argumento, mostra na cauda. Isso imprimirá um resumo das opções.
+      # Experimente e veja!
+      opts.on_tail ("- h", "--help", "Mostrar esta mensagem") faça
+        puts opts
+        saída
+      fim
+
+      # Outra opção típica para imprimir a versão.
+      opts.on_tail ("- versão", "Mostrar versão") do
+        coloca "# {VERSION}"
+        saída
+      fim
+    fim
+
+    opt_parser.parse! (args) 
+  
+    opções
+  end # parse ()
+
+end # class OptparseExample
+
+## ---- Principal ----
+
+
+options = OptparseSummarize.parse (ARGV)
+
+mdUtils = MDUtils.summarize ([ARGV [0], opções]);
+
+
+# My Table of content
+- [Section 1](#id-section1)
+- [Section 2](#id-section2)
+
+<div id='id-section1'/>
+## Section 1
+<div id='id-section2'/>
+## Section 2
