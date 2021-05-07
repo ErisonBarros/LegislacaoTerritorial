@@ -1,32 +1,9 @@
-<p><strong>27/01/2021</strong></p>
-<h1 id="---
-description: Prof. Erison Rosa de Oliveira Barros
----
-
 # Plano de Aula
 
 ### OBJETIVOS <a id="user-content-objetivos"></a>
 
-**27/01/2021**
-
 1. Fornecer aos alunos os conhecimentos necessários referentes a legislação territorial;
 2. Capacitar aos alunos para buscar o mecanismos legais de adaptação a projetos a legislação- territorial">Legislação Territorial</h1>
-
-<table>
-<thead>
-<tr>
-<th align="center">Código</th>
-<th align="center">Nome</th>
-<th align="center">Tipo</th>
-<th align="center">Crédito</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">CA 471</td>
-<td align="center">Legislação Territorial</td>
-<td align="center"></td>
-<td align="c brasileira.
 3. Dar subicidios a trabalhar em casos de estudo de perícias judiciais.
 
 ## Legislação Territorial <a id="legisla&#xE7;&#xE3;o-territorial"></a>
@@ -36,9 +13,6 @@ description: Prof. Erison Rosa de Oliveira Barros
 | Código | Nome | Tipo | Crédito |
 | :--- | :--- | :--- | :--- |
 | CA 471 | Legislação Territorial |  |  |
-
-
-
 
 As atividades síncronas e assíncronas, desenvolvidas em ambiente virtual, remotamente. As síncronas, que totalizarão 33,3%, serão 12 atividades \(2 horas/ aulas por semana\) serão feitas remotamente, através de encontros virtuais previamente agendados, disponibilizados no siga, que serão feitos usando a ferramenta Google Meet. Nessas atividades síncronas o professor apresentará a parte teórica e esclarecerá sobre estudos e os trabalhos . Esses encontros síncronos também poderão ser utilizados para apresentação dos trabalhos dos estudantes utilizando o Meet. Nas atividades assíncronas, que totalizarão 66,6%, serão \(4 horas/aulas por semana\) os alunos deverão complementar estudos e resolver os trabalhos propostos nas aulas presenciais e previstos nos plano de trabalho. Essas atividades serão passadas através de sala de aula virtual, utilizando a ferramenta Google Classroom.  
 Serão presenciados de forma online:
@@ -58,16 +32,7 @@ Apresentação das práticas de elaboração de planta utilizando o QGis, Topoca
 * Legislação Ambiental
 * Normas técnicas.
 
-
-<h2 id="objetivos">OBJETIVOS</h2>
-<ol>
-<li>);
-* Normas técnicas.
-
 ### FORMAS DE AVALIAÇÃO <a id="user-content-formas-de-avalia&#xE7;&#xE3;o"></a>
-
-### OBJETIVOS <a id="objetivos"></a>
-
 1º E.E.:  
 a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 1,3,4 e 5 da Ementa \(Peso 4\)  
 b. Seminário em Grupo sobre Proposta de Parcelamento de uma propriedade Rural para fins de assentamento da reforma agrária baseado na legislação e no conteúdo Ministrado , analise individual no aluno na apresentação \( Peso 6\);  
