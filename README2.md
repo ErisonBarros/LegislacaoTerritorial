@@ -8,9 +8,9 @@ Fonte: [ http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legisl
 
 É conjunto de normas jurídicas que se destinam a disciplinar a atividade humana, para torná-la compatível com a proteção do meio ambiente. A legislação ambiental brasileira, para atingir seus objetivos de preservação, criou **direitos**  e  **deveres** para o cidadão.
 
-* Lei 9.605 / 98  - Uma chamada Lei de Crimes Ambientais. Definir, em seu artigo 60, como crime ambiental passível de detenção, multa ou ambos, cumulativamente, a prática de atividades potencialmente poluidoras sem o devido licenciamento ambiental. 
+* *Lei 9.605 / 98  -* Uma chamada Lei de Crimes Ambientais. Definir, em seu artigo 60, como crime ambiental passível de detenção, multa ou ambos, cumulativamente, a prática de atividades potencialmente poluidoras sem o devido licenciamento ambiental. 
 
-Fonte: http: // http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf
+Fonte: http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf
 
 
 ## CONSERVAÇÃO
@@ -26,15 +26,8 @@ Uso sustentável dos recursos naturais como o solo, a água, as plantas, os anim
 <img src = " https://i.ibb.co/5sGH2Sr/logo-materia-sem-foto.png " alt = "logo-materia-sem-foto" border = "0">
 
 ------------
-
-
-
 ** Lei 9.985 / 00 ** Instituição do Sistema Nacional de Unidades de Conservação (SNUC).
-
-
 ** Unidades de Conservação: ** Conjunto de áreas legais de propriedade pelo poder público, que objetivam a preservação do meio ambiente e das condições naturais de certos espaços territoriais do país.
-
-
 
 “Espaço territorial e seus recursos ambientais, incluindo como águas jurisdicionais, com características naturais relevantes, legalmente instituído pelo Poder Público, com objetivos de conservação e limites definidos, sob regime especial de administração, ao qual se efetua bonificação de proteção.”
 
@@ -53,11 +46,6 @@ O grupo das Unidades de Proteção Integral é composto pelas seguintes categori
 - III - Parque Nacional 
 - IV - Monumento Natural 
 - V - Refúgio de Vida Silvestre
-
-
-
-
-
 ------------
 
 Constituinte do Grupo das Unidades de Uso Sustentável as seguintes unidades de conservação:
@@ -69,7 +57,7 @@ Constituinte do Grupo das Unidades de Uso Sustentável as seguintes unidades de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzczODc2NCw1Mzc2MzM0ODIsMjE0ND
+eyJoaXN0b3J5IjpbLTY3NzQ1NjI5MCw1Mzc2MzM0ODIsMjE0ND
 AwNTIyLC05NzcwODc3OTgsMjIwODI2MzE0LC0xNTg0NTY0Mzkw
 LC0xMjI0NjExMDgwXX0=
 -->
