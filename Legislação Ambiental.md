@@ -179,10 +179,16 @@ Fonte: https://iusnatura.com.br/principais-leis-ambientais/
 
 ### **Novo Código Florestal Brasileiro**  (Lei  **[12.651/12](https://iusnatura.com.br/wp-content/uploads/2019/02/12651_12.doc)**)
 
+**Cadastro Ambiental Rural** - O CAR é o registro público eletrônico das informações ambientais dos imóveis rurais.
 
+**Objetivos** 
+
+Promover a identificação e integração das informações ambientais das propriedades e posses rurais, visando ao planejamento ambiental, monitoramento, combate ao desmatamento e regularização ambiental.
+
+**Que informações serão cadastradas?**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTQyMjIzMCwxNTQ1NDk2NjM0LC0xMT
-c2ODE3NjM0LC0xMjc0OTkyMTQ0XX0=
+eyJoaXN0b3J5IjpbLTEwMDczNTAzMTAsMTU0NTQ5NjYzNCwtMT
+E3NjgxNzYzNCwtMTI3NDk5MjE0NF19
 -->
