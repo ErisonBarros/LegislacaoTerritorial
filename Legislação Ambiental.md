@@ -235,7 +235,7 @@ XI - em veredas, a faixa marginal, em projeção horizontal, com largura mínima
 
 **Reserva Legal**
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/n01wtYC/l7-Cj-WL-1-Gw1-QIw-Y74-Zg-Jm-BE-t3ohkv-R4-Ih-Kw-M9hao-YL8-Fky-Eabg-6k9e-Aw-NXb-QOWKD8-Ia-x6-EIh-IWy.png" alt="l7-Cj-WL-1-Gw1-QIw-Y74-Zg-Jm-BE-t3ohkv-R4-Ih-Kw-M9hao-YL8-Fky-Eabg-6k9e-Aw-NXb-QOWKD8-Ia-x6-EIh-IWy-" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload a photo</a><br />
+
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/X3pn100/reserva-legal.png" alt="reserva-legal" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload png</a><br />
 
@@ -247,15 +247,18 @@ odo imóvel rural deve manter área com cobertura de vegetação nativa a títul
 • 20% do imóvel situado em área de campos gerais 
 Se localizado nas demais regiões do país:
 • 20% do imóvel
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/n01wtYC/l7-Cj-WL-1-Gw1-QIw-Y74-Zg-Jm-BE-t3ohkv-R4-Ih-Kw-M9hao-YL8-Fky-Eabg-6k9e-Aw-NXb-QOWKD8-Ia-x6-EIh-IWy.png" alt="l7-Cj-WL-1-Gw1-QIw-Y74-Zg-Jm-BE-t3ohkv-R4-Ih-Kw-M9hao-YL8-Fky-Eabg-6k9e-Aw-NXb-QOWKD8-Ia-x6-EIh-IWy-" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload a photo</a><br />
 
 No entanto, a Lei abriu uma exceção no Art. 67 ao estabelecer que nos imóveis rurais que detinham área de até 4 módulos fiscais, em 22 de julho de 2008, e que possuam remanescentes de vegetação nativa em percentuais inferiores ao previsto acima, a reserva legal será constituída com a área ocupada com a vegetação nativa existente em 22 de julho de 2008, vedadas novas conversões para uso alternativo do solo.
 
 **Como fazer o CAR?**
 
+
+
 A inscrição pode ser feita diretamente pelo sitewww.car.gov.br ou nos sites dos órgãos estaduais competentes que disponibilizarem sistema próprio. Esses sistemas estarão integrados ao Sistema Nacional de Cadastro Ambiental Rural (Sicar).O Poder Público deverá oferecer suporte técnico para a inscrição dos imóveis que desenvolvam atividades agrossilvipastoris com área de até 4 módulos fiscais (medida que varia de acordo com o município), além dos assentamentos da reforma agrária e dos territórios de povos e comunidades tradicionais. Para os assentados da reforma agrária, esse suporte deve ser fornecido pelo órgão fundiário.
 
 Fonte: https://onedrive.live.com/?cid=6E16E4D501A0B833&q=CURSO%20CAR&ft=31&searchsessionid=777044e6%2Da8a8%2D47a2%2Db1bd%2Db8be6ee62ed4&id=6E16E4D501A0B833%2167897&parId=root&parQt=search&o=OneUp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjE2OTEwNiw5MjM0MjQ2NTMsMTU0NT
-Q5NjYzNCwtMTE3NjgxNzYzNCwtMTI3NDk5MjE0NF19
+eyJoaXN0b3J5IjpbLTExMDA4NzgyNDQsOTIzNDI0NjUzLDE1ND
+U0OTY2MzQsLTExNzY4MTc2MzQsLTEyNzQ5OTIxNDRdfQ==
 -->
