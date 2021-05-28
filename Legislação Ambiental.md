@@ -237,7 +237,9 @@ No entanto, a Lei abriu uma exceção no Art. 67 ao estabelecer que nos imóveis
 **Como fazer o CAR?**
 
 A inscrição pode ser feita diretamente pelo sitewww.car.gov.br ou nos sites dos órgãos estaduais competentes que disponibilizarem sistema próprio. Esses sistemas estarão integrados ao Sistema Nacional de Cadastro Ambiental Rural (Sicar).O Poder Público deverá oferecer suporte técnico para a inscrição dos imóveis que desenvolvam atividades agrossilvipastoris com área de até 4 módulos fiscais (medida que varia de acordo com o município), além dos assentamentos da reforma agrária e dos territórios de povos e comunidades tradicionais. Para os assentados da reforma agrária, esse suporte deve ser fornecido pelo órgão fundiário.
+
+Fonte: https://onedrive.live.com/?cid=6E16E4D501A0B833&q=CURSO%20CAR&ft=31&searchsessionid=777044e6%2Da8a8%2D47a2%2Db1bd%2Db8be6ee62ed4&id=6E16E4D501A0B833%2167897&parId=root&parQt=search&o=OneUp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjAyMjQwNTEsMTU0NTQ5NjYzNCwtMT
-E3NjgxNzYzNCwtMTI3NDk5MjE0NF19
+eyJoaXN0b3J5IjpbOTIzNDI0NjUzLDE1NDU0OTY2MzQsLTExNz
+Y4MTc2MzQsLTEyNzQ5OTIxNDRdfQ==
 -->
