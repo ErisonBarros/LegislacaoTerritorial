@@ -88,6 +88,20 @@ Concede aos órgãos ambientais mecanismos para punição de infratores ambienta
 
 Ou seja, com essa norma torna-se possível a penalização das pessoas jurídicas em caso de crimes ambientais.
 
+**Política Nacional do Meio Ambiente (Lei 6.938 – 1981)**  
+Dispõe sobre a Política Nacional do Meio Ambiente, seus Fins e Mecanismos de Formulação e Aplicação, e dá outras providências. Tem como objetivo a preservação, melhoria e recuperação da qualidade ambiental benéfica à vida, pretendendo garantir boas condições ao desenvolvimento socioeconômico, aos interesses da segurança nacional e à proteção da qualidade da vida humana. Proíbe a poluição e obriga ao licenciamento, além de regulamentar a utilização adequada dos recursos ambientais.
+
+**Lei de Fauna (Lei 5.197 – 1967)**  
+Esta Lei proporcionou medidas de proteção à fauna. Ela classifica como crime o uso, perseguição, captura de animais silvestres, caça profissional, comércio de espécies da fauna silvestre e produtos originários de sua caça, além de proibir a importação de espécie exótica e a caça amadora sem autorização do IBAMA. Criminaliza também a exportação de peles e couros de anfíbios e répteis.
+
+**Política Nacional de Recursos Hídricos (Lei 9.433 – 1997)**  
+Institui a política e o sistema nacional de recursos hídricos. Define a água como recurso natural limitado, provido de valor econômico, que pode ter diversos usos, como por exemplo o consumo humano, produção de energia, transporte, lançamento de esgotos e outros. Esta lei também prevê a criação do Sistema Nacional para a coleta, tratamento, armazenamento e recuperação de informações sobre recursos hídricos e fatores que interferem em seu funcionamento.
+
+**Sistema Nacional de Unidades de Conservação da Natureza (Lei 9.985 – 2000)**  
+Dentre seus objetivos, estão a conservação de variedades de espécies biológicas e dos recursos genéticos, a preservação e restauração da diversidade de ecossistemas naturais e a promoção do desenvolvimento sustentável a partir dos recursos naturais.
+
+**Área de Proteção Ambiental (Lei 6.902 – 1981)**  
+Estabelece as diretrizes para a criação das Estações Ecológicas e as Áreas de Proteção Ambiental (APA’s). As Estações Ecológicas são áreas representativas de diferentes ecossistemas do Brasil que precisam ter 90% do território inalteradas e apenas 10% podem sofrer alterações para fins acadêmicos. Já as APA’s, compreendem propriedades privadas que podem ser regulamentadas pelo órgão público competente em relação às atividades econômicas para proteger o meio ambiente.
 
 
 ## CONSERVAÇÃO
@@ -166,6 +180,6 @@ Fonte: https://iusnatura.com.br/principais-leis-ambientais/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY4MTc2MzQsLTEyNzQ5OTIxNDRdfQ
-==
+eyJoaXN0b3J5IjpbNDM5MzI0NDYwLC0xMTc2ODE3NjM0LC0xMj
+c0OTkyMTQ0XX0=
 -->
