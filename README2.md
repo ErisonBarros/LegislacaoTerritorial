@@ -4,7 +4,7 @@ Nas últimas décadas, impulsionado-se a influência devastadora das ações hum
 
 Fonte: [http: // http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf] (http: // http: //r1.ufrrj. br / cfar / d / download / Apostila% 20do% 20curso% 20de% 20Legislacao% 20Ambiental.pdf) 
 
-##                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         CONCEITO
+## CONCEITO
 
 É conjunto de normas jurídicas que se destinam a disciplinar a atividade humana, para torná-la compatível com a proteção do meio ambiente. A legislação ambiental brasileira, para atingir seus objetivos de preservação, criou ** direitos ** e ** deveres ** para o cidadão.
 
@@ -40,12 +40,17 @@ Uso sustentável dos recursos naturais como o solo, a água, as plantas, os anim
 
 As unidades de conservação integrantes do SNUC dividem-se em dois grupos, com características específicas:
 
-- I - Unidades de Proteção Integral; - II - Unidades de Uso Sustentável.
+- I - Unidades de Proteção Integral; 
+- II - Unidades de Uso Sustentável.
 
 
 O grupo das Unidades de Proteção Integral é composto pelas seguintes categorias de unidade de conservação:
 
-- I - Estação Ecológica - II - Reserva Biológica - III - Parque Nacional - IV - Monumento Natural - V - Refúgio de Vida Silvestre
+- I - Estação Ecológica 
+- II - Reserva Biológica 
+- III - Parque Nacional 
+- IV - Monumento Natural 
+- V - Refúgio de Vida Silvestre
 
 
 
