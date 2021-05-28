@@ -206,9 +206,25 @@ I - as faixas marginais de qualquer curso d’água natural, perene e intermiten
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/72LY4Fm/CAR.jpg" alt="CAR" border="0"></a>
 
+II - as áreas no entorno dos lagos e lagoas naturais, em largura mínima de:a) 100 metros, em zonas rurais, exceto para o corpo d’água com até 20 hectares de superfície, cuja faixa marginal será de 50 metros;b) 30 metros, em zonas urbanas;III - as áreas no entorno dos reservatórios d’água artificiais, decorrentes de barramento ou represamento de cursos d’água naturais, na faixa definida na licença ambiental do empreendimento;
+IV - as áreas no entorno das nascentes e dos olhos d’água perenes, no raio mínimo de 50 metros; V - as encostas ou partes destas com declividade superior a 45°, equivalente a 100% na linha de maior declive;
+
+VI - as restingas, como fixadoras de dunas ou estabilizadoras de mangues;
+
+VII - os manguezais, em toda a sua extensão;
+
+VIII - as bordas dos tabuleiros ou chapadas, até a linha de ruptura do relevo, em faixa nunca inferior a 100 metros em projeções horizontais;
+
+IX - no topo de morros, montes, montanhas e serras, com altura mínima de 100 metros e inclinação média maior que 25°, as áreas delimitadas a partir da curva de nível correspondente a 2/3 (dois terços) da altura mínima da elevação sempre em relação à base, sendo esta, definida pelo plano horizontal determinado por planície ou espelho d’água adjacente ou, nos relevos ondulados, pela cota do ponto de sela mais próximo da elevação;
+
+X - as áreas em altitude superior a 1.800 metros, qualquer que seja a vegetação;
+
+XI - em veredas, a faixa marginal, em projeção horizontal, com largura mínima de 50 metros, a partir do espaço permanentemente brejoso e encharcado.
+
+**Reserva Legal**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwODg2OTE4LDE1NDU0OTY2MzQsLTExNz
-Y4MTc2MzQsLTEyNzQ5OTIxNDRdfQ==
+eyJoaXN0b3J5IjpbLTEyMTAyMTU3NDEsMTU0NTQ5NjYzNCwtMT
+E3NjgxNzYzNCwtMTI3NDk5MjE0NF19
 -->
