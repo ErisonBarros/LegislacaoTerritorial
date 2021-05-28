@@ -223,8 +223,17 @@ XI - em veredas, a faixa marginal, em projeção horizontal, com largura mínima
 
 **Reserva Legal**
 
+Área localizada no interior de uma propriedade ou posse rural, delimitada nos termos do art. 12 da Lei n° 12.651/2012, com a função de assegurar o uso econômico sustentável dos recursos naturais do imóvel rural, auxiliar a conservação e a reabilitação dos processos ecológicos e promover a conservação da biodiversidade, bem como o abrigo e a proteção da fauna silvestre e da flora nativas.
 
+odo imóvel rural deve manter área com cobertura de vegetação nativa a título de reserva legal? Sim. Todo imóvel deve manter um percentual mínimo com cobertura de vegetação nativa, que pode variar de acordo com a região e bioma. (Lei n°12.651/12)Se localizado na Amazônia legal:
+• 80% do imóvel situado em área de floresta
+• 35% do imóvel situado em área de cerrado
+• 20% do imóvel situado em área de campos gerais 
+Se localizado nas demais regiões do país:
+• 20% do imóvel
+
+No entanto, a Lei abriu uma exceção no Art. 67 ao estabelecer que nos imóveis rurais que detinham área de até 4 módulos fiscais, em 22 de julho de 2008, e que possuam remanescentes de vegetação nativa em percentuais inferiores ao previsto acima, a reserva legal será constituída com a área ocupada com a vegetação nativa existente em 22 de julho de 2008, vedadas novas conversões para uso alternativo do solo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTAyMTU3NDEsMTU0NTQ5NjYzNCwtMT
-E3NjgxNzYzNCwtMTI3NDk5MjE0NF19
+eyJoaXN0b3J5IjpbLTE1ODM0MzQ2LDE1NDU0OTY2MzQsLTExNz
+Y4MTc2MzQsLTEyNzQ5OTIxNDRdfQ==
 -->
