@@ -125,14 +125,41 @@ O grupo das Unidades de Proteção Integral é composto pelas seguintes categori
 ------------
 
 
+### **Área de Proteção Ambiental**  (Lei  **[6.902/81](https://iusnatura.com.br/wp-content/uploads/2019/02/6902_81.doc)**)
 
+Estabelece as diretrizes para a criação das Estações Ecológicas e as Áreas de Proteção Ambiental (APA’s).
 
+As Estações Ecológicas são áreas representativas de diferentes ecossistemas do Brasil que precisam ter 90% do território intocadas e apenas 10% podem sofrer alterações para fins acadêmicos.
 
+Já as APA’s, compreendem propriedades privadas que podem ser regulamentadas pelo órgão público competente em relação às atividades econômicas para proteger o meio ambiente.
 
+Obs.: aconselhamos analisar essa norma em conjunto com a Lei  **[9.985/00](https://iusnatura.com.br/wp-content/uploads/2019/02/9985_00.doc)**
 
+### **Patrimônio Cultural**  (Decreto Lei  **[25/37](https://iusnatura.com.br/wp-content/uploads/2019/02/25_37.doc)**)
 
+Dispõe sobre a proteção do Patrimônio Histórico e Artístico Nacional.
 
+Entende-se como patrimônio nacional o conjunto dos bens móveis e imóveis existentes no país e cuja conservação seja de interesse público, quer por sua vinculação a fatos memoráveis da História do Brasil, quer por seu excepcional valor arqueológico ou etnográfico, bibliográfico ou artístico.
+
+### **Política Agrícola**  (Lei  **[8.171/91](https://iusnatura.com.br/wp-content/uploads/2019/02/8171_91.doc)**)
+
+Essa lei objetiva a proteção do meio ambiente.
+
+Ela estabelece a obrigação de recuperar os recursos naturais para as empresas que exploram economicamente águas represadas e para as concessionárias de energia elétrica.
+
+Responsabiliza o Poder Público em suas esferas de fiscalizar o uso racional do solo, água, fauna e flora.
+
+### **Zoneamento Industrial** (Lei **[6.803/80](https://iusnatura.com.br/wp-content/uploads/2019/02/6803_80.doc)**)
+
+Dispõe sobre as diretrizes básicas para o zoneamento industrial nas áreas críticas de  **[poluição](https://iusnatura.com.br/a-importancia-do-controle-de-poluicao-atmosferica/)**.
+
+A norma condiciona a atuação de entidades estatais no que se refere às áreas críticas de poluição e institui proibições a serem observadas por tais entidades durante os processos de licenciamento ambiental.
+
+São estabelecidos padrões ambientais para a instalação e licenciamento das indústrias, exigindo-se o Estudo de Impacto Ambiental (**[EIA](https://iusnatura.com.br/estudo-de-impactos-ambientais-eia/)**).
+
+A lista é grande né? Isso porque listamos apenas a legislação federal, mas há muitos procedimentos que são regulamentados por órgãos e secretarias estaduais e ambientais.
+
+E apesar de sabemos que as principais leis ambientais são completas e conseguem tratar os pontos mais críticos do meio ambiente no Brasil, é preciso ir além e tentar, ao máximo,  **[atender às obrigações impostas](https://cal.digital/)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE5ODkzMjksLTEyNzQ5OTIxNDRdfQ
-==
+eyJoaXN0b3J5IjpbLTM3MjcwMjcwNCwtMTI3NDk5MjE0NF19
 -->
