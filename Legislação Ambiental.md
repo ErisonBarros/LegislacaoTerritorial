@@ -22,7 +22,7 @@ A legislação ambiental exerce um papel fundamental quando o assunto é desenvo
 
 ### **Legislação ambiental: quais são suas principais leis e normas?**
 
-As mudanças climáticas são fruto das ações antrópicas e, principalmente, das empresas. Muitas delas possuem processos de produção que não seguem boas práticas e prejudicam o meio ambiente. Derramamento de petróleo nos mares e oceanos, a emissão de gases poluentes e o descarte incorreto de resíduos são alguns exemplos de malefícios causados por empresas aos ecossistemas. Para evitar danos como estes é que existe uma legislação ambiental. Leia este artigo da AmbScience e confira o que a sua empresa deve saber sobre este assunto tão importante.
+As mudanças climáticas são fruto das ações antrópicas e, principalmente, das empresas e pessoas. Muitas delas possuem processos de produção que não seguem boas práticas e prejudicam o meio ambiente. Derramamento de petróleo nos mares e oceanos, a emissão de gases poluentes e o descarte incorreto de resíduos são alguns exemplos de malefícios causados por empresas aos ecossistemas. Para evitar danos como estes é que existe uma legislação ambiental. 
 
 ### **O que é a legislação ambiental e para que ela serve?**
 
@@ -30,7 +30,7 @@ A legislação ambiental consiste em leis, decretos e resoluções que visam o e
 
 Municípios, estados e governo federal podem editar suas próprias normas ambientais. Entretanto, os dois primeiros precisam seguir as diretrizes dadas em âmbito federal.
 
-A legislação ambiental exerce um papel fundamental quando o assunto é desenvolvimento sustentável. Pois, ela é uma forma legal de exigir que as empresas adequem suas práticas tendo em vista a preservação dos recursos naturais. Além de evitar malefícios à natureza e à comunidade que mora no entorno dos locais de produção das organizações, a adequação à legislação ambiental beneficia diretamente a imagem das empresas. Os consumidores estão cada vez mais conscientes e, por isso, buscam adquirir produtos de empresas ecologicamente corretas.
+A legislação ambiental exerce um papel fundamental quando o assunto é desenvolvimento sustentável. Pois, ela é uma forma legal de exigir que as empresas adéqüem suas práticas tendo em vista a preservação dos recursos naturais. Além de evitar malefícios à natureza e à comunidade que mora no entorno dos locais de produção das organizações, a adequação à legislação ambiental beneficia diretamente a imagem das empresas. Os consumidores estão cada vez mais conscientes e, por isso, buscam adquirir produtos de empresas ecologicamente corretas.
 
 ### **Legislação ambiental: quais são suas principais leis e normas?**
 
@@ -42,7 +42,7 @@ A legislação ambiental é bem abrangente e se aplica à operação de empresas
 -   **Política Nacional de Resíduos Sólidos (Lei 12.305/10):** define princípios e diretrizes para empresas quanto ao gerenciamento de resíduos sólidos, além de estabelecer responsabilidades tanto das organizações quanto do poder público;
 -   Entre outras.
 
-Fonte: https://ambscience.com/legislacao-ambiental/
+**Fonte:** https://ambscience.com/legislacao-ambiental/
 
 Você sabia que legislação ambiental brasileira é considerada uma das mais completas e apropriadas do mundo? Além de se tratar da preservação do meio ambiente, há muito conteúdo sobre ações preventivas que visam diminuir os impactos.
 
@@ -170,7 +170,7 @@ A lista é grande né? Isso porque listamos apenas a legislação federal, mas h
 
 E apesar de sabemos que as principais leis ambientais são completas e conseguem tratar os pontos mais críticos do meio ambiente no Brasil, é preciso ir além e tentar, ao máximo,  **[atender às obrigações impostas](https://cal.digital/)**.
 
-Fonte: https://iusnatura.com.br/principais-leis-ambientais/
+**Fonte:** https://iusnatura.com.br/principais-leis-ambientais/
 
 ### **Novo Código Florestal Brasileiro**  (Lei  **[12.651/12](https://iusnatura.com.br/wp-content/uploads/2019/02/12651_12.doc)**)
 
@@ -258,6 +258,6 @@ A inscrição pode ser feita diretamente pelo sitewww.car.gov.br ou nos sites do
 
 Fonte: https://onedrive.live.com/?cid=6E16E4D501A0B833&q=CURSO%20CAR&ft=31&searchsessionid=777044e6%2Da8a8%2D47a2%2Db1bd%2Db8be6ee62ed4&id=6E16E4D501A0B833%2167897&parId=root&parQt=search&o=OneUp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODI5ODYwNCw5MjM0MjQ2NTMsMTU0NT
-Q5NjYzNCwtMTE3NjgxNzYzNCwtMTI3NDk5MjE0NF19
+eyJoaXN0b3J5IjpbLTE3NDk3ODg0OTYsOTIzNDI0NjUzLDE1ND
+U0OTY2MzQsLTExNzY4MTc2MzQsLTEyNzQ5OTIxNDRdfQ==
 -->
