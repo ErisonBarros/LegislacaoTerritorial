@@ -231,6 +231,8 @@ X - as áreas em altitude superior a 1.800 metros, qualquer que seja a vegetaç�
 
 XI - em veredas, a faixa marginal, em projeção horizontal, com largura mínima de 50 metros, a partir do espaço permanentemente brejoso e encharcado.
 
+![APP URBANA O que é e como ela afeta o seu projeto? - Construtiva](https://construtiva.net.br/wp-content/uploads/2019/02/sat_areas2-1024x669.jpg)
+
 **Reserva Legal**
 
 Área localizada no interior de uma propriedade ou posse rural, delimitada nos termos do art. 12 da Lei n° 12.651/2012, com a função de assegurar o uso econômico sustentável dos recursos naturais do imóvel rural, auxiliar a conservação e a reabilitação dos processos ecológicos e promover a conservação da biodiversidade, bem como o abrigo e a proteção da fauna silvestre e da flora nativas.
@@ -250,6 +252,6 @@ A inscrição pode ser feita diretamente pelo sitewww.car.gov.br ou nos sites do
 
 Fonte: https://onedrive.live.com/?cid=6E16E4D501A0B833&q=CURSO%20CAR&ft=31&searchsessionid=777044e6%2Da8a8%2D47a2%2Db1bd%2Db8be6ee62ed4&id=6E16E4D501A0B833%2167897&parId=root&parQt=search&o=OneUp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA2MDg4NDYsOTIzNDI0NjUzLDE1ND
+eyJoaXN0b3J5IjpbLTE1NjI4MTM4MzUsOTIzNDI0NjUzLDE1ND
 U0OTY2MzQsLTExNzY4MTc2MzQsLTEyNzQ5OTIxNDRdfQ==
 -->
