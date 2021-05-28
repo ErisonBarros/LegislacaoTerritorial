@@ -177,9 +177,10 @@ E apesar de sabemos que as principais leis ambientais são completas e conseguem
 
 Fonte: https://iusnatura.com.br/principais-leis-ambientais/
 
+### **Novo Código Florestal Brasileiro**  (Lei  **[12.651/12](https://iusnatura.com.br/wp-content/uploads/2019/02/12651_12.doc)**)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5MzI0NDYwLC0xMTc2ODE3NjM0LC0xMj
-c0OTkyMTQ0XX0=
+eyJoaXN0b3J5IjpbMTU0NTQ5NjYzNCwtMTE3NjgxNzYzNCwtMT
+I3NDk5MjE0NF19
 -->
