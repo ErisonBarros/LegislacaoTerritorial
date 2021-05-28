@@ -187,8 +187,23 @@ Promover a identificação e integração das informações ambientais das propr
 
 **Que informações serão cadastradas?**
 
+• Identificação do proprietário ou possuidor rural;
+• Informações dos documentos comprobatórios da propriedade ou posse rural;
+• Identificação do imóvel rural;
+• Delimitação do perímetro:
+• do imóvel;
+• das áreas de remanescentes de vegetação nativa;
+• das Áreas de Preservação Permanentes (APP) e de Reserva Legal (RL);
+• das áreas de uso restrito e áreas consolidadas.
+
+**Áreas de Preservação Permanente - APP**
+
+São áreas protegidas, cobertas ou não por vegetação nativa, com a função ambiental de preservar os recursos hídricos, a paisagem, a estabilidade geológica e a biodiversidade, facilitar o fluxo gênico de fauna e flora, proteger o solo e assegurar o bem estar das populações humanas.
+
+Considera-se APP em zonas rurais ou urbanas (Lei n° 12.651/12)I - as faixas marginais de qualquer curso d’água natural, perene e intermitente, excluídos os efêmeros, desde a borda da calha do leito regular, em largura mínima de:
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDczNTAzMTAsMTU0NTQ5NjYzNCwtMT
-E3NjgxNzYzNCwtMTI3NDk5MjE0NF19
+eyJoaXN0b3J5IjpbMTcwMzEwNDg1OSwxNTQ1NDk2NjM0LC0xMT
+c2ODE3NjM0LC0xMjc0OTkyMTQ0XX0=
 -->
