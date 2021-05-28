@@ -49,13 +49,24 @@ A legislação ambiental é bem abrangente e se aplica à operação de empresas
 
 Fonte: https://ambscience.com/legislacao-ambiental/
 
+Você sabia que legislação ambiental brasileira é considerada uma das mais completas e apropriadas do mundo? Além de se tratar da preservação do meio ambiente, há muito conteúdo sobre ações preventivas que visam diminuir os impactos.
+
+A **[Constituição Brasileira](https://iusnatura.com.br/wp-content/uploads/2019/02/CONSTITUICAO_CF.pdf)** de 1988, em seu art. 225, define a importância de manter o ecossistema equilibrado por meio da preservação e recuperação ambiental em prol da qualidade de vida que todo cidadão tem direito.
+
+E com os avanços industriais e tecnológicos, tornou-se fundamental a discussão sobre o desenvolvimento **[sustentável](https://iusnatura.com.br/ser-sustentavel-no-trabalho/)** nas empresas e adequação das práticas corporativas em relação ao uso dos recursos naturais.
+
+
+
+
+
+
 ## CONSERVAÇÃO
 
 Uso sustentável dos recursos naturais como o solo, a água, as plantas, os animais e os minerais. A conservação inclui também a manutenção das reservas naturais da fauna autóctona (do local), enquanto do ponto de vista cultural inclui uma preservação dos lugares históricos.
 
 
 
-Lei 7.735 / 89  Artificial sobre a extinção de órgão e entidade autárquica, cria o Instituto Brasileiro de Meio Ambiente e dos Recursos Naturais Renováveis ​​(IBAMA) e dá outras providências.
+**Lei 7.735 / 89**  Artificial sobre a extinção de órgão e entidade autárquica, cria o Instituto Brasileiro de Meio Ambiente e dos Recursos Naturais Renováveis ​​(IBAMA) e dá outras providências.
 
 
 
@@ -92,5 +103,6 @@ O grupo das Unidades de Proteção Integral é composto pelas seguintes categori
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0MzEzMDE3LC0xMjc0OTkyMTQ0XX0=
+eyJoaXN0b3J5IjpbLTEwOTQwNzc2MDYsLTEyNzQ5OTIxNDRdfQ
+==
 -->
