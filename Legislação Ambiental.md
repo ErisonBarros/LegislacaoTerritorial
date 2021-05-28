@@ -198,7 +198,7 @@ Promover a identificação e integração das informações ambientais das propr
 
 **Áreas de Preservação Permanente - APP**
 
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qN6ZLZ0/7-VXkkbn3-SDb-L94d4z0-Ux-An-Zqv8-SKJt-J1sk-I-qa-SJf-YDx-En-L99o-CHp5-H5y96u-fx-NM3-Yr-P-jf-Oxujk-Qj.png" alt="7-VXkkbn3-SDb-L94d4z0-Ux-An-Zqv8-SKJt-J1sk-I-qa-SJf-YDx-En-L99o-CHp5-H5y96u-fx-NM3-Yr-P-jf-Oxujk-Qj-" border="0"></a>
 
 São áreas protegidas, cobertas ou não por vegetação nativa, com a função ambiental de preservar os recursos hídricos, a paisagem, a estabilidade geológica e a biodiversidade, facilitar o fluxo gênico de fauna e flora, proteger o solo e assegurar o bem estar das populações humanas.
 
@@ -242,6 +242,6 @@ A inscrição pode ser feita diretamente pelo sitewww.car.gov.br ou nos sites do
 
 Fonte: https://onedrive.live.com/?cid=6E16E4D501A0B833&q=CURSO%20CAR&ft=31&searchsessionid=777044e6%2Da8a8%2D47a2%2Db1bd%2Db8be6ee62ed4&id=6E16E4D501A0B833%2167897&parId=root&parQt=search&o=OneUp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Nzg0MTM4NSw5MjM0MjQ2NTMsMTU0NT
+eyJoaXN0b3J5IjpbLTI1MzE1OTg5OSw5MjM0MjQ2NTMsMTU0NT
 Q5NjYzNCwtMTE3NjgxNzYzNCwtMTI3NDk5MjE0NF19
 -->
