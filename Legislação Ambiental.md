@@ -180,7 +180,9 @@ Fonte: https://iusnatura.com.br/principais-leis-ambientais/
 ### **Novo Código Florestal Brasileiro**  (Lei  **[12.651/12](https://iusnatura.com.br/wp-content/uploads/2019/02/12651_12.doc)**)
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTQ5NjYzNCwtMTE3NjgxNzYzNCwtMT
-I3NDk5MjE0NF19
+eyJoaXN0b3J5IjpbMTQ1OTQyMjIzMCwxNTQ1NDk2NjM0LC0xMT
+c2ODE3NjM0LC0xMjc0OTkyMTQ0XX0=
 -->
