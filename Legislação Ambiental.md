@@ -104,9 +104,7 @@ Estabelece as diretrizes para a criação das Estações Ecológicas e as Áreas
 Uso sustentável dos recursos naturais como o solo, a água, as plantas, os animais e os minerais. A conservação inclui também a manutenção das reservas naturais da fauna autóctona (do local), enquanto do ponto de vista cultural inclui uma preservação dos lugares históricos.
 
 
-
 **Lei 7.735 / 89**  Artificial sobre a extinção de órgão e entidade autárquica, cria o Instituto Brasileiro de Meio Ambiente e dos Recursos Naturais Renováveis ​​(IBAMA) e dá outras providências.
-
 
 
 <img src = " https://i.ibb.co/5sGH2Sr/logo-materia-sem-foto.png " alt = "logo-materia-sem-foto" border = "0">
@@ -258,6 +256,7 @@ A inscrição pode ser feita diretamente pelo sitewww.car.gov.br ou nos sites do
 
 Fonte: https://onedrive.live.com/?cid=6E16E4D501A0B833&q=CURSO%20CAR&ft=31&searchsessionid=777044e6%2Da8a8%2D47a2%2Db1bd%2Db8be6ee62ed4&id=6E16E4D501A0B833%2167897&parId=root&parQt=search&o=OneUp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk3ODg0OTYsOTIzNDI0NjUzLDE1ND
-U0OTY2MzQsLTExNzY4MTc2MzQsLTEyNzQ5OTIxNDRdfQ==
+eyJoaXN0b3J5IjpbLTE4NTc0NzI2ODIsLTE3NDk3ODg0OTYsOT
+IzNDI0NjUzLDE1NDU0OTY2MzQsLTExNzY4MTc2MzQsLTEyNzQ5
+OTIxNDRdfQ==
 -->
