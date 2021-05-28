@@ -60,7 +60,7 @@ Serão tratados, a seguir, referente às formas de aquisição da propriedade im
 
 1.3**.1 Usucapião**
 
-* * * 1. Conceito
+## 1. Conceito
 
 A aquisição da propriedade pode ser gerada pela posse prolongada da coisa, desde que estejam presentes certas exigências estabelecidas em lei. Usucapião é a forma de aquisição da propriedade mediante a posse suficientemente prolongada em conformidade com determinados requisitos \(VENOSA, 2014\).
 
@@ -374,3 +374,6 @@ BRASIL. [Lei no 10.267, de 28 de agosto de 2001.](http://legislacao.planalto.gov
 
 BRASIL. [Decreto nº 4.449, de 30 de outubro de 2002.](http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/DEC%204.449-2002?OpenDocument) Disponível em: &lt;http://www.planalto.gov.br&gt; Acesso em: 31/08/2015.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjEyNDczNzU0N119
+-->
