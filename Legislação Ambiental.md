@@ -200,10 +200,15 @@ Promover a identificação e integração das informações ambientais das propr
 
 São áreas protegidas, cobertas ou não por vegetação nativa, com a função ambiental de preservar os recursos hídricos, a paisagem, a estabilidade geológica e a biodiversidade, facilitar o fluxo gênico de fauna e flora, proteger o solo e assegurar o bem estar das populações humanas.
 
-Considera-se APP em zonas rurais ou urbanas (Lei n° 12.651/12)I - as faixas marginais de qualquer curso d’água natural, perene e intermitente, excluídos os efêmeros, desde a borda da calha do leito regular, em largura mínima de:
+Considera-se APP em zonas rurais ou urbanas (Lei n° 12.651/12)
+
+I - as faixas marginais de qualquer curso d’água natural, perene e intermitente, excluídos os efêmeros, desde a borda da calha do leito regular, em largura mínima de:
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/72LY4Fm/CAR.jpg" alt="CAR" border="0"></a>
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzEwNDg1OSwxNTQ1NDk2NjM0LC0xMT
-c2ODE3NjM0LC0xMjc0OTkyMTQ0XX0=
+eyJoaXN0b3J5IjpbNTQwODg2OTE4LDE1NDU0OTY2MzQsLTExNz
+Y4MTc2MzQsLTEyNzQ5OTIxNDRdfQ==
 -->
