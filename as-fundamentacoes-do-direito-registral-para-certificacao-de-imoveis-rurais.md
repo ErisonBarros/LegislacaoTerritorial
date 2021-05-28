@@ -120,7 +120,7 @@ A tabela 4 mostra as espécies de acessões.
 
 Fonte: Gonçalves, \(2010\).
 
-1.3.4 Direito Hereditário
+### Direito Hereditário
 
 A sucessão hereditária é determinada pela morte de um titular de um patrimônio. O fato da morte, fato jurídico, assinala o momento em que “o domínio e a posse da herança transmite-se desde logo aos herdeiros legítimos e testamentários” \(art. 1.572 do código de 1916\). O código atual expressa que “a herança transmite-se, desde logo, aos herdeiros legítimos e testamentários” \(art. 1784\). Neste caso, com a morte do autor da herança, a aludida herança guarda a noção de patrimônio que se transmite aos herdeiros \(VENOSA, 2014\).
 
@@ -130,7 +130,7 @@ Pelo nosso direito, portanto, com a morte dá-se a abertura da sucessão, com a 
 
 Mantêm-se, como eram exercidas pelo morto, a mesma natureza e características da posse e propriedade recebidas pelos herdeiros \(VENOSA, 2014\).
 
-* 1. **Princípios do Direito Registral**
+### Princípios do Direito Registral
 
 Os princípios do direito registral são elementos que orientam o ato de registro, dando-lhe padrões jurídicos e características internas. As interpretações normativas são direcionadas por eles, e também atuam como norteadores para a formação legislativa \(FOLLE, 2010\).
 
@@ -138,7 +138,7 @@ O legislador, a fim de proporcionar maior segurança nos negócios imobiliários
 
 Serão tratados, a seguir, os princípios da publicidade, da Fé Pública, da Prioridade, da Especialidade, da Disponibilidade, da Continuidade, da Legalidade.
 
-1.4.1 Princípio da publicidade
+### Princípio da publicidade
 
 Conforme Folle \(2010\), O princípio da _**publicidade**_, dirigido a todos os registros públicos, considera que o registro torna público o conhecimento do ato registrado, logo, ninguém poderá alegar não conhecer o fato, visto que tenha sido registrado. No artigo 17 da Lei de Registros Públicos podem ser encontradas sua justificativa e incidência legal, a qual determina que qualquer pessoa poderá requerer a certidão do registro sem necessidade de informar o motivo do interesse, e o oficial de registro e seu preposto não podem se recusar a oferecê-la.
 
@@ -375,5 +375,5 @@ BRASIL. [Lei no 10.267, de 28 de agosto de 2001.](http://legislacao.planalto.gov
 BRASIL. [Decreto nº 4.449, de 30 de outubro de 2002.](http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/DEC%204.449-2002?OpenDocument) Disponível em: &lt;http://www.planalto.gov.br&gt; Acesso em: 31/08/2015.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDczNzU0N119
+eyJoaXN0b3J5IjpbLTI1NzEwMDU3OV19
 -->
