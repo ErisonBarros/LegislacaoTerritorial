@@ -26,7 +26,7 @@ Uso sustentável dos recursos naturais como o solo, a água, as plantas, os anim
 <img src = " https://i.ibb.co/5sGH2Sr/logo-materia-sem-foto.png " alt = "logo-materia-sem-foto" border = "0">
 
 ------------
-** Lei 9.985 / 00 ** Instituição do Sistema Nacional de Unidades de Conservação (SNUC).
+ **Lei 9.985 / 00**  Instituição do Sistema Nacional de Unidades de Conservação (SNUC).
 ** Unidades de Conservação: ** Conjunto de áreas legais de propriedade pelo poder público, que objetivam a preservação do meio ambiente e das condições naturais de certos espaços territoriais do país.
 
 “Espaço territorial e seus recursos ambientais, incluindo como águas jurisdicionais, com características naturais relevantes, legalmente instituído pelo Poder Público, com objetivos de conservação e limites definidos, sob regime especial de administração, ao qual se efetua bonificação de proteção.”
@@ -37,7 +37,6 @@ As unidades de conservação integrantes do SNUC dividem-se em dois grupos, com 
 
 - I - Unidades de Proteção Integral; 
 - II - Unidades de Uso Sustentável.
-
 
 O grupo das Unidades de Proteção Integral é composto pelas seguintes categorias de unidade de conservação:
 
@@ -57,7 +56,7 @@ Constituinte do Grupo das Unidades de Uso Sustentável as seguintes unidades de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzQ1NjI5MCw1Mzc2MzM0ODIsMjE0ND
-AwNTIyLC05NzcwODc3OTgsMjIwODI2MzE0LC0xNTg0NTY0Mzkw
-LC0xMjI0NjExMDgwXX0=
+eyJoaXN0b3J5IjpbLTEyNzQ5OTIxNDQsNTM3NjMzNDgyLDIxND
+QwMDUyMiwtOTc3MDg3Nzk4LDIyMDgyNjMxNCwtMTU4NDU2NDM5
+MCwtMTIyNDYxMTA4MF19
 -->
