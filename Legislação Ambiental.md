@@ -160,6 +160,12 @@ São estabelecidos padrões ambientais para a instalação e licenciamento das i
 A lista é grande né? Isso porque listamos apenas a legislação federal, mas há muitos procedimentos que são regulamentados por órgãos e secretarias estaduais e ambientais.
 
 E apesar de sabemos que as principais leis ambientais são completas e conseguem tratar os pontos mais críticos do meio ambiente no Brasil, é preciso ir além e tentar, ao máximo,  **[atender às obrigações impostas](https://cal.digital/)**.
+
+Fonte: https://iusnatura.com.br/principais-leis-ambientais/
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjcwMjcwNCwtMTI3NDk5MjE0NF19
+eyJoaXN0b3J5IjpbLTExNzY4MTc2MzQsLTEyNzQ5OTIxNDRdfQ
+==
 -->
