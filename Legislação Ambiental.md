@@ -42,7 +42,12 @@ A legislação ambiental exerce um papel fundamental quando o assunto é desenvo
 A legislação ambiental é bem abrangente e se aplica à operação de empresas que possuem um potencial poluidor. Confira alguns exemplos de leis e normas desta legislação específica:
 
 -   **Licenciamento ambiental:** é um pré-requisito para a atuação de empresas que realizam atividades que podem prejudicar o meio ambiente. A sua obrigatoriedade é prevista em lei desde 1981 com a promulgação da Política Nacional do Meio Ambiente e pode ser conduzida nos âmbitos municipal, estadual ou federal, de acordo com porte e extensão territorial do empreendimento. O licenciamento ambiental depende de condicionantes como a produção de resíduos sólidos, a geração de efluentes líquidos ou gasosos e o armazenamento de substâncias tóxicas; por exemplo;
+-   **Novo Código Florestal Brasileiro (Lei 12.651/12):** a sua principal função é responsabilizar proprietário de espaços protegidos entre a Área de Preservação Permanente (APP) e a Reserva Legal (RL). Este deve zelar pelo ecossistema que há nestes locais;
+-   **Política Nacional do Meio Ambiente (Lei 6.938/81):** foi a primeira lei federal sobre o tema e que o aborda sob diversos aspectos. Ela proíbe a poluição, obriga a obtenção do licenciamento ambiental e atribui responsabilidade ao poluidor, por exemplo;
+-   **Política Nacional de Resíduos Sólidos (Lei 12.305/10):** define princípios e diretrizes para empresas quanto ao gerenciamento de resíduos sólidos, além de estabelecer responsabilidades tanto das organizações quanto do poder público;
+-   Entre outras.
 
+Fonte: https://ambscience.com/legislacao-ambiental/
 
 ## CONSERVAÇÃO
 
@@ -50,7 +55,7 @@ Uso sustentável dos recursos naturais como o solo, a água, as plantas, os anim
 
 
 
-** Lei 7.735 / 89 ** Artificial sobre a extinção de órgão e entidade autárquica, cria o Instituto Brasileiro de Meio Ambiente e dos Recursos Naturais Renováveis ​​(IBAMA) e dá outras providências.
+Lei 7.735 / 89  Artificial sobre a extinção de órgão e entidade autárquica, cria o Instituto Brasileiro de Meio Ambiente e dos Recursos Naturais Renováveis ​​(IBAMA) e dá outras providências.
 
 
 
@@ -87,5 +92,5 @@ O grupo das Unidades de Proteção Integral é composto pelas seguintes categori
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODM4MzE1NCwtMTI3NDk5MjE0NF19
+eyJoaXN0b3J5IjpbNTA0MzEzMDE3LC0xMjc0OTkyMTQ0XX0=
 -->
