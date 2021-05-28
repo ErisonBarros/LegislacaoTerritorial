@@ -14,12 +14,34 @@ Fonte: http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislac
 
 
 ### **O que é a legislação ambiental e para que ela serve?**
-legislação ambiental consiste em leis, decretos e resoluções que visam o estabelecimento de regras para o funcionamento de empresas e também a conduta do cidadão em relação ao meio ambiente. Estes dispositivos legais ainda definem atos de infrações e punições em caso de não cumprimento das leis.
+A legislação ambiental consiste em leis, decretos e resoluções que visam o estabelecimento de regras para o funcionamento de empresas e também a conduta do cidadão em relação ao meio ambiente. Estes dispositivos legais ainda definem atos de infrações e punições em caso de não cumprimento das leis.
 
+Municípios, estados e governo federal podem editar suas próprias normas ambientais. Entretanto, os dois primeiros precisam seguir as diretrizes dadas em âmbito federal.
 
+A legislação ambiental exerce um papel fundamental quando o assunto é desenvolvimento sustentável. Pois, ela é uma forma legal de exigir que as empresas adequem suas práticas tendo em vista a preservação dos recursos naturais. Além de evitar malefícios à natureza e à comunidade que mora no entorno dos locais de produção das organizações, a adequação à legislação ambiental beneficia diretamente a imagem das empresas. Os consumidores estão cada vez mais conscientes e, por isso, buscam adquirir produtos de empresas ecologicamente corretas.
 
+### **Legislação ambiental: quais são suas principais leis e normas?**
 
+  
+![legislação ambiental](https://ambscience.com/wp-content/uploads/2019/11/legisla%C3%A7%C3%A3o-ambiental-590x275.png)
 
+# Legislação ambiental: o que as empresas precisam saber
+
+As mudanças climáticas são fruto das ações antrópicas e, principalmente, das empresas. Muitas delas possuem processos de produção que não seguem boas práticas e prejudicam o meio ambiente. Derramamento de petróleo nos mares e oceanos, a emissão de gases poluentes e o descarte incorreto de resíduos são alguns exemplos de malefícios causados por empresas aos ecossistemas. Para evitar danos como estes é que existe uma legislação ambiental. Leia este artigo da AmbScience e confira o que a sua empresa deve saber sobre este assunto tão importante.
+
+### **O que é a legislação ambiental e para que ela serve?**
+
+A legislação ambiental consiste em leis, decretos e resoluções que visam o estabelecimento de regras para o funcionamento de empresas e também a conduta do cidadão em relação ao meio ambiente. Estes dispositivos legais ainda definem atos de infrações e punições em caso de não cumprimento das leis.
+
+Municípios, estados e governo federal podem editar suas próprias normas ambientais. Entretanto, os dois primeiros precisam seguir as diretrizes dadas em âmbito federal.
+
+A legislação ambiental exerce um papel fundamental quando o assunto é desenvolvimento sustentável. Pois, ela é uma forma legal de exigir que as empresas adequem suas práticas tendo em vista a preservação dos recursos naturais. Além de evitar malefícios à natureza e à comunidade que mora no entorno dos locais de produção das organizações, a adequação à legislação ambiental beneficia diretamente a imagem das empresas. Os consumidores estão cada vez mais conscientes e, por isso, buscam adquirir produtos de empresas ecologicamente corretas.
+
+### **Legislação ambiental: quais são suas principais leis e normas?**
+
+A legislação ambiental é bem abrangente e se aplica à operação de empresas que possuem um potencial poluidor. Confira alguns exemplos de leis e normas desta legislação específica:
+
+-   **Licenciamento ambiental:** é um pré-requisito para a atuação de empresas que realizam atividades que podem prejudicar o meio ambiente. A sua obrigatoriedade é prevista em lei desde 1981 com a promulgação da Política Nacional do Meio Ambiente e pode ser conduzida nos âmbitos municipal, estadual ou federal, de acordo com porte e extensão territorial do empreendimento. O licenciamento ambiental depende de condicionantes como a produção de resíduos sólidos, a geração de efluentes líquidos ou gasosos e o armazenamento de substâncias tóxicas; por exemplo;
 
 
 ## CONSERVAÇÃO
@@ -65,6 +87,5 @@ O grupo das Unidades de Proteção Integral é composto pelas seguintes categori
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc4NTA5ODIsLTEyNzQ5OTIxNDRdfQ
-==
+eyJoaXN0b3J5IjpbMTE1ODM4MzE1NCwtMTI3NDk5MjE0NF19
 -->
