@@ -1,12 +1,12 @@
 # Legislação ambiental
 
-Nas últimas décadas, impulsionado-se a influência devastadora das ações humanas voltadas à inovação e desenvolvimento econômico no ecossistema. E com essa percepção como associações viram a necessidade de controlar e reduzir o impacto dessas ações, criando a legislação ambiental, campanhas de conscientização e programas que procuram manter o ecossistema mais intacto possível, sem diminuir o avanço de nossa civilização.
+Nas últimas décadas, impulsionando-se a influência devastadora das ações humanas voltadas à inovação e desenvolvimento econômico no ecossistema. E com essa percepção como associações viram a necessidade de controlar e reduzir o impacto dessas ações, criando a legislação ambiental, campanhas de conscientização e programas que procuram manter o ecossistema mais intacto possível, sem diminuir o avanço de nossa civilização.
 
-Fonte: [http: // http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf] (http: // http: //r1.ufrrj. br / cfar / d / download / Apostila% 20do% 20curso% 20de% 20Legislacao% 20Ambiental.pdf) 
+Fonte: [ http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf] ( 
 
 ## CONCEITO
 
-É conjunto de normas jurídicas que se destinam a disciplinar a atividade humana, para torná-la compatível com a proteção do meio ambiente. A legislação ambiental brasileira, para atingir seus objetivos de preservação, criou ** direitos ** e ** deveres ** para o cidadão.
+É conjunto de normas jurídicas que se destinam a disciplinar a atividade humana, para torná-la compatível com a proteção do meio ambiente. A legislação ambiental brasileira, para atingir seus objetivos de preservação, criou * direitos  e ** deveres ** para o cidadão.
 
 * Lei 9.605 / 98 * - Uma chamada Lei de Crimes Ambientais. Definir, em seu artigo 60, como crime ambiental passível de detenção, multa ou ambos, cumulativamente, a prática de atividades potencialmente poluidoras sem o devido licenciamento ambiental. Fonte: http: // http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf
 
@@ -67,7 +67,7 @@ Constituinte do Grupo das Unidades de Uso Sustentável as seguintes unidades de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NjMzNDgyLDIxNDQwMDUyMiwtOTc3MD
-g3Nzk4LDIyMDgyNjMxNCwtMTU4NDU2NDM5MCwtMTIyNDYxMTA4
-MF19
+eyJoaXN0b3J5IjpbMTc0NTUxNDg2NCw1Mzc2MzM0ODIsMjE0ND
+AwNTIyLC05NzcwODc3OTgsMjIwODI2MzE0LC0xNTg0NTY0Mzkw
+LC0xMjI0NjExMDgwXX0=
 -->
