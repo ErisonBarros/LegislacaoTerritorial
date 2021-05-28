@@ -22,11 +22,6 @@ A legislação ambiental exerce um papel fundamental quando o assunto é desenvo
 
 ### **Legislação ambiental: quais são suas principais leis e normas?**
 
-  
-![legislação ambiental](https://ambscience.com/wp-content/uploads/2019/11/legisla%C3%A7%C3%A3o-ambiental-590x275.png)
-
-# Legislação ambiental: o que as empresas precisam saber
-
 As mudanças climáticas são fruto das ações antrópicas e, principalmente, das empresas. Muitas delas possuem processos de produção que não seguem boas práticas e prejudicam o meio ambiente. Derramamento de petróleo nos mares e oceanos, a emissão de gases poluentes e o descarte incorreto de resíduos são alguns exemplos de malefícios causados por empresas aos ecossistemas. Para evitar danos como estes é que existe uma legislação ambiental. Leia este artigo da AmbScience e confira o que a sua empresa deve saber sobre este assunto tão importante.
 
 ### **O que é a legislação ambiental e para que ela serve?**
@@ -263,6 +258,6 @@ A inscrição pode ser feita diretamente pelo sitewww.car.gov.br ou nos sites do
 
 Fonte: https://onedrive.live.com/?cid=6E16E4D501A0B833&q=CURSO%20CAR&ft=31&searchsessionid=777044e6%2Da8a8%2D47a2%2Db1bd%2Db8be6ee62ed4&id=6E16E4D501A0B833%2167897&parId=root&parQt=search&o=OneUp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ0OTA0NzgsOTIzNDI0NjUzLDE1ND
-U0OTY2MzQsLTExNzY4MTc2MzQsLTEyNzQ5OTIxNDRdfQ==
+eyJoaXN0b3J5IjpbLTcwODI5ODYwNCw5MjM0MjQ2NTMsMTU0NT
+Q5NjYzNCwtMTE3NjgxNzYzNCwtMTI3NDk5MjE0NF19
 -->
