@@ -13,6 +13,15 @@ Fonte: [ http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legisl
 Fonte: http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf
 
 
+### **O que é a legislação ambiental e para que ela serve?**
+legislação ambiental consiste em leis, decretos e resoluções que visam o estabelecimento de regras para o funcionamento de empresas e também a conduta do cidadão em relação ao meio ambiente. Estes dispositivos legais ainda definem atos de infrações e punições em caso de não cumprimento das leis.
+
+
+
+
+
+
+
 ## CONSERVAÇÃO
 
 Uso sustentável dos recursos naturais como o solo, a água, as plantas, os animais e os minerais. A conservação inclui também a manutenção das reservas naturais da fauna autóctona (do local), enquanto do ponto de vista cultural inclui uma preservação dos lugares históricos.
@@ -56,6 +65,6 @@ O grupo das Unidades de Proteção Integral é composto pelas seguintes categori
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjYzMDA5MjMsLTEyNzQ5OTIxNDRdfQ
+eyJoaXN0b3J5IjpbLTIwNDc4NTA5ODIsLTEyNzQ5OTIxNDRdfQ
 ==
 -->
