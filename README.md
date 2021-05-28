@@ -29,7 +29,7 @@ Apresentação das práticas de elaboração de planta utilizando o QGis, Topoca
 * Direito Agrário;
 * Legislação Cartográfica;
 * Legislação Profissional;
-* Legislação Ambiental
+* [Legislação Ambiental](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/Legisla%C3%A7%C3%A3o%20Ambiental.md)
 * Normas técnicas.
 
 ### FORMAS DE AVALIAÇÃO <a id="user-content-formas-de-avalia&#xE7;&#xE3;o"></a>
@@ -104,6 +104,6 @@ As atividades síncronas e assíncronas, desenvolvidas em ambiente virtual, remo
 <p><a href="](http://https://1drv.ms/x/s!AjO4oAHV5BZuioozg3Ez9_Rd86UWbg?e=sxfTQx" title="UNIDADES PROGRAMÁTICAS">UNIDADES PROGRAMÁTICAS</a></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTQ5NzE0MSwtMTgyNzE3ODAyOSwtMT
-A0OTE2NjQwNV19
+eyJoaXN0b3J5IjpbNjYwMTk1MzcxLDE4NzU0OTcxNDEsLTE4Mj
+cxNzgwMjksLTEwNDkxNjY0MDVdfQ==
 -->
