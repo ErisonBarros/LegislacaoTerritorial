@@ -198,6 +198,8 @@ Promover a identificação e integração das informações ambientais das propr
 
 **Áreas de Preservação Permanente - APP**
 
+
+
 São áreas protegidas, cobertas ou não por vegetação nativa, com a função ambiental de preservar os recursos hídricos, a paisagem, a estabilidade geológica e a biodiversidade, facilitar o fluxo gênico de fauna e flora, proteger o solo e assegurar o bem estar das populações humanas.
 
 Considera-se APP em zonas rurais ou urbanas (Lei n° 12.651/12)
@@ -240,6 +242,6 @@ A inscrição pode ser feita diretamente pelo sitewww.car.gov.br ou nos sites do
 
 Fonte: https://onedrive.live.com/?cid=6E16E4D501A0B833&q=CURSO%20CAR&ft=31&searchsessionid=777044e6%2Da8a8%2D47a2%2Db1bd%2Db8be6ee62ed4&id=6E16E4D501A0B833%2167897&parId=root&parQt=search&o=OneUp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzNDI0NjUzLDE1NDU0OTY2MzQsLTExNz
-Y4MTc2MzQsLTEyNzQ5OTIxNDRdfQ==
+eyJoaXN0b3J5IjpbMTU2Nzg0MTM4NSw5MjM0MjQ2NTMsMTU0NT
+Q5NjYzNCwtMTE3NjgxNzYzNCwtMTI3NDk5MjE0NF19
 -->
