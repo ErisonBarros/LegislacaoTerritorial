@@ -233,7 +233,11 @@ Se localizado nas demais regiões do país:
 • 20% do imóvel
 
 No entanto, a Lei abriu uma exceção no Art. 67 ao estabelecer que nos imóveis rurais que detinham área de até 4 módulos fiscais, em 22 de julho de 2008, e que possuam remanescentes de vegetação nativa em percentuais inferiores ao previsto acima, a reserva legal será constituída com a área ocupada com a vegetação nativa existente em 22 de julho de 2008, vedadas novas conversões para uso alternativo do solo.
+
+**Como fazer o CAR?**
+
+A inscrição pode ser feita diretamente pelo sitewww.car.gov.br ou nos sites dos órgãos estaduais competentes que disponibilizarem sistema próprio. Esses sistemas estarão integrados ao Sistema Nacional de Cadastro Ambiental Rural (Sicar).O Poder Público deverá oferecer suporte técnico para a inscrição dos imóveis que desenvolvam atividades agrossilvipastoris com área de até 4 módulos fiscais (medida que varia de acordo com o município), além dos assentamentos da reforma agrária e dos territórios de povos e comunidades tradicionais. Para os assentados da reforma agrária, esse suporte deve ser fornecido pelo órgão fundiário.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM0MzQ2LDE1NDU0OTY2MzQsLTExNz
-Y4MTc2MzQsLTEyNzQ5OTIxNDRdfQ==
+eyJoaXN0b3J5IjpbLTEzMjAyMjQwNTEsMTU0NTQ5NjYzNCwtMT
+E3NjgxNzYzNCwtMTI3NDk5MjE0NF19
 -->
