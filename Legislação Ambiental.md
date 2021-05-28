@@ -47,7 +47,7 @@ O grupo das Unidades de Proteção Integral é composto pelas seguintes categori
 - V - Refúgio de Vida Silvestre
 ------------
 
-Constituinte do Grupo das Unidades de Uso Sustentável as seguintes unidades de conservação:
+
 
 
 
@@ -56,5 +56,6 @@ Constituinte do Grupo das Unidades de Uso Sustentável as seguintes unidades de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ5OTIxNDRdfQ==
+eyJoaXN0b3J5IjpbLTE5NjYzMDA5MjMsLTEyNzQ5OTIxNDRdfQ
+==
 -->
