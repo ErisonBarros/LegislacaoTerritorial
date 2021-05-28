@@ -2,7 +2,7 @@
 
 Nas últimas décadas, impulsionando-se a influência devastadora das ações humanas voltadas à inovação e desenvolvimento econômico no ecossistema. E com essa percepção como associações viram a necessidade de controlar e reduzir o impacto dessas ações, criando a legislação ambiental, campanhas de conscientização e programas que procuram manter o ecossistema mais intacto possível, sem diminuir o avanço de nossa civilização.
 
-Fonte: [ http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf] ( 
+Fonte: http://r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf
 
 ## CONCEITO
 
@@ -10,7 +10,7 @@ Fonte: [ http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legisl
 
 * *Lei 9.605 / 98  -* Uma chamada Lei de Crimes Ambientais. Definir, em seu artigo 60, como crime ambiental passível de detenção, multa ou ambos, cumulativamente, a prática de atividades potencialmente poluidoras sem o devido licenciamento ambiental. 
 
-Fonte: http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf
+Fonte: http://r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf
 
 
 ### **O que é a legislação ambiental e para que ela serve?**
