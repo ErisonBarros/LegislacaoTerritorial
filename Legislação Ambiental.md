@@ -56,7 +56,37 @@ A **[Constituição Brasileira](https://iusnatura.com.br/wp-content/uploads/2019
 E com os avanços industriais e tecnológicos, tornou-se fundamental a discussão sobre o desenvolvimento **[sustentável](https://iusnatura.com.br/ser-sustentavel-no-trabalho/)** nas empresas e adequação das práticas corporativas em relação ao uso dos recursos naturais.
 
 
+## Quais são as principais leis ambientais no Brasil?
 
+### **Novo Código Florestal Brasileiro**  (Lei  **[12.651/12](https://iusnatura.com.br/wp-content/uploads/2019/02/12651_12.doc)**)
+
+Revoga o  **[Código Florestal Brasileiro](https://iusnatura.com.br/novo-codigo-florestal-o-que-muda-com-o-julgamento-de-novas-acoes/)**  de 1965 e estabelece a responsabilidade do proprietário de espaços protegidos entre a Área de Preservação Permanente (**[APP](https://iusnatura.com.br/duvida-da-semana-a-area-de-preservacao-permanente-app-presente-no-meu-terreno-pode-entrar-no-somatorio-da-area-de-reserva-legal/)**) e a Reserva Legal (RL) de proteger o meio ambiente, sempre.
+
+Com essa lei, as florestas existentes no território nacional e as demais formas de vegetação NATIVA, reconhecidas de utilidade às terras que revestem, são reconhecidos como bens de interesse comum a todos os habitantes do País.
+
+O exercício do direito de propriedade está condicionado às limitações que a legislação estabelece.
+
+### **Política Nacional do Meio Ambiente**  (Lei  **[6.938/81](https://iusnatura.com.br/wp-content/uploads/2019/02/6938_81-1.doc)**)
+
+Dispõe sobre a Política Nacional do  **[Meio Ambiente](https://iusnatura.com.br/dia-mundial-do-meio-ambiente/)**  e tem por objetivo a preservação, melhoria e recuperação da qualidade ambiental propícia à vida.
+
+Visa assegurar condições ao desenvolvimento sócio-econômico, aos interesses da segurança nacional e à proteção da dignidade da vida humana.
+
+Foi a primeira Lei Federal a abordar o meio ambiente como um todo.
+
+Além de proibir a poluição e obrigar ao **[licenciamento](https://iusnatura.com.br/licencas-ambientais/)**  e regulamentar a utilização adequada dos recursos ambientais, essa norma instituiu a **PNMA** e o **Sisnama**.
+
+Com isso estipulou e definiu que o poluidor é obrigado a indenizar danos ambientais que causar, independentemente de culpa.
+
+Por fim, estabeleceu que o Ministério Público pode propor ações de responsabilidade civil pelos danos causados ao meio ambiente, de forma a impor ao poluidor a obrigação de recuperar e/ou indenizar os prejuízos causados.
+
+### **Crimes Ambientais**  (Lei  **[9.605/98](https://iusnatura.com.br/wp-content/uploads/2019/02/9605_98-1.doc)**)
+
+Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao Meio Ambiente.
+
+Concede aos órgãos ambientais mecanismos para punição de infratores ambientais, como em caso de  **[crimes ambientais](https://iusnatura.com.br/maltratar-animais-e-crime-ambiental/)** praticados por organizações.
+
+Ou seja, com essa norma torna-se possível a penalização das pessoas jurídicas em caso de crimes ambientais.
 
 
 
@@ -103,6 +133,6 @@ O grupo das Unidades de Proteção Integral é composto pelas seguintes categori
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQwNzc2MDYsLTEyNzQ5OTIxNDRdfQ
+eyJoaXN0b3J5IjpbLTE4NTE5ODkzMjksLTEyNzQ5OTIxNDRdfQ
 ==
 -->
