@@ -200,6 +200,9 @@ Promover a identificação e integração das informações ambientais das propr
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/qN6ZLZ0/7-VXkkbn3-SDb-L94d4z0-Ux-An-Zqv8-SKJt-J1sk-I-qa-SJf-YDx-En-L99o-CHp5-H5y96u-fx-NM3-Yr-P-jf-Oxujk-Qj.png" alt="7-VXkkbn3-SDb-L94d4z0-Ux-An-Zqv8-SKJt-J1sk-I-qa-SJf-YDx-En-L99o-CHp5-H5y96u-fx-NM3-Yr-P-jf-Oxujk-Qj-" border="0"></a>
 
+
+![Cartilha do Código Florestal Brasileiro](https://lh3.googleusercontent.com/proxy/NsoZIjfNviWbMFGJ6QifQsGozWT2By0Cvj6xoZUHrbNVfH1bOeXOttq7TQ_JIgXso4X3XFAKp5AJhdhXkDTPwh7L-09FudZsdylIE9CiNA0ePtLtBw)
+
 São áreas protegidas, cobertas ou não por vegetação nativa, com a função ambiental de preservar os recursos hídricos, a paisagem, a estabilidade geológica e a biodiversidade, facilitar o fluxo gênico de fauna e flora, proteger o solo e assegurar o bem estar das populações humanas.
 
 Considera-se APP em zonas rurais ou urbanas (Lei n° 12.651/12)
@@ -207,6 +210,11 @@ Considera-se APP em zonas rurais ou urbanas (Lei n° 12.651/12)
 I - as faixas marginais de qualquer curso d’água natural, perene e intermitente, excluídos os efêmeros, desde a borda da calha do leito regular, em largura mínima de:
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/72LY4Fm/CAR.jpg" alt="CAR" border="0"></a>
+
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/GMMd89X/6-Jk5h-Ial-Fvv-Uus-Fq9-JMp-Kt4-lt-Q5-MYwzaq-MBo-IYq-LSMVn-Yo-TNtl-J0-u-YQt-YAE4-P29-Dg-Cx2e-PKyjs-JF.jpg" alt="6-Jk5h-Ial-Fvv-Uus-Fq9-JMp-Kt4-lt-Q5-MYwzaq-MBo-IYq-LSMVn-Yo-TNtl-J0-u-YQt-YAE4-P29-Dg-Cx2e-PKyjs-JF" border="0"></a>
+
+
 
 II - as áreas no entorno dos lagos e lagoas naturais, em largura mínima de:a) 100 metros, em zonas rurais, exceto para o corpo d’água com até 20 hectares de superfície, cuja faixa marginal será de 50 metros;b) 30 metros, em zonas urbanas;III - as áreas no entorno dos reservatórios d’água artificiais, decorrentes de barramento ou represamento de cursos d’água naturais, na faixa definida na licença ambiental do empreendimento;
 IV - as áreas no entorno das nascentes e dos olhos d’água perenes, no raio mínimo de 50 metros; V - as encostas ou partes destas com declividade superior a 45°, equivalente a 100% na linha de maior declive;
@@ -242,6 +250,6 @@ A inscrição pode ser feita diretamente pelo sitewww.car.gov.br ou nos sites do
 
 Fonte: https://onedrive.live.com/?cid=6E16E4D501A0B833&q=CURSO%20CAR&ft=31&searchsessionid=777044e6%2Da8a8%2D47a2%2Db1bd%2Db8be6ee62ed4&id=6E16E4D501A0B833%2167897&parId=root&parQt=search&o=OneUp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzE1OTg5OSw5MjM0MjQ2NTMsMTU0NT
-Q5NjYzNCwtMTE3NjgxNzYzNCwtMTI3NDk5MjE0NF19
+eyJoaXN0b3J5IjpbLTEzMTA2MDg4NDYsOTIzNDI0NjUzLDE1ND
+U0OTY2MzQsLTExNzY4MTc2MzQsLTEyNzQ5OTIxNDRdfQ==
 -->
