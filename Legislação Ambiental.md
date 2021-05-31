@@ -209,7 +209,7 @@ A inscrição no CAR possibilita o planejamento ambiental e econômico do uso e 
 -   Condição para autorização de intervenção e supressão de vegetação em Áreas de Preservação Permanente e de Reserva Legal para atividades de baixo impacto ambiental; e
 -   Condição para autorização da continuidade das atividades agrossilvipastoris, de ecoturismo e de turismo rural em áreas rurais consolidadas até em 22 de julho de 2008 localizadas em Áreas de Preservação Permanente e Reserva Legal.
 
-Fonte: 
+Fonte: https://www.florestal.gov.br/cadastro-ambiental-rural/
 
 **Áreas de Preservação Permanente - APP**
 
@@ -352,8 +352,8 @@ O SFB também é responsável por divulgar informações sobre a evolução do C
 
 Fonte: https://www.florestal.gov.br/cadastro-ambiental-rural/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU4NDEzNjUsMTgyMDEzMTYwOSwtNT
-AxODIzMTY1LC0xODU3NDcyNjgyLC0xNzQ5Nzg4NDk2LDkyMzQy
-NDY1MywxNTQ1NDk2NjM0LC0xMTc2ODE3NjM0LC0xMjc0OTkyMT
-Q0XX0=
+eyJoaXN0b3J5IjpbLTk1ODYwMTEwOSwxODIwMTMxNjA5LC01MD
+E4MjMxNjUsLTE4NTc0NzI2ODIsLTE3NDk3ODg0OTYsOTIzNDI0
+NjUzLDE1NDU0OTY2MzQsLTExNzY4MTc2MzQsLTEyNzQ5OTIxND
+RdfQ==
 -->
