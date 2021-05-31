@@ -255,8 +255,13 @@ A inscrição pode ser feita diretamente pelo sitewww.car.gov.br ou nos sites do
 
 
 Fonte: https://onedrive.live.com/?cid=6E16E4D501A0B833&q=CURSO%20CAR&ft=31&searchsessionid=777044e6%2Da8a8%2D47a2%2Db1bd%2Db8be6ee62ed4&id=6E16E4D501A0B833%2167897&parId=root&parQt=search&o=OneUp
+
+
+## Etapas da Regularização Ambiental
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc0NzI2ODIsLTE3NDk3ODg0OTYsOT
-IzNDI0NjUzLDE1NDU0OTY2MzQsLTExNzY4MTc2MzQsLTEyNzQ5
-OTIxNDRdfQ==
+eyJoaXN0b3J5IjpbNDkxNTIwNDYxLC0xODU3NDcyNjgyLC0xNz
+Q5Nzg4NDk2LDkyMzQyNDY1MywxNTQ1NDk2NjM0LC0xMTc2ODE3
+NjM0LC0xMjc0OTkyMTQ0XX0=
 -->
