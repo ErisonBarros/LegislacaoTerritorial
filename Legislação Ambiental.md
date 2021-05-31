@@ -259,9 +259,9 @@ Fonte: https://onedrive.live.com/?cid=6E16E4D501A0B833&q=CURSO%20CAR&ft=31&searc
 
 ## Etapas da Regularização Ambiental
 
-
+<a href="https://ibb.co/6HrjBHR"><img src="https://i.ibb.co/6HrjBHR/Etapas-do-CAR.jpg" alt="Etapas-do-CAR" border="0"></a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxNTIwNDYxLC0xODU3NDcyNjgyLC0xNz
-Q5Nzg4NDk2LDkyMzQyNDY1MywxNTQ1NDk2NjM0LC0xMTc2ODE3
-NjM0LC0xMjc0OTkyMTQ0XX0=
+eyJoaXN0b3J5IjpbMTA2MTQ4MTgyNiwtMTg1NzQ3MjY4MiwtMT
+c0OTc4ODQ5Niw5MjM0MjQ2NTMsMTU0NTQ5NjYzNCwtMTE3Njgx
+NzYzNCwtMTI3NDk5MjE0NF19
 -->
