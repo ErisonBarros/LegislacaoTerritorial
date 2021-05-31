@@ -264,8 +264,15 @@ Fonte: https://onedrive.live.com/?cid=6E16E4D501A0B833&q=CURSO%20CAR&ft=31&searc
 ## Inscrição no CAR
 
 A inscrição do imóvel rural no CAR deverá ser feita junto ao órgão estadual competente. O cadastramento não será considerado título para fins de reconhecimento do direito de propriedade ou posse, tampouco para a necessidade de cumprimento do disposto no Art. 2° da Lei nº 10.267, de 28 de agosto de 2001.
+
+-  **Módulo de Cadastro:** Os entes federativos que não disponham de sistema para o cadastramento de imóveis rurais poderão utilizar o Módulo de Cadastro do SICAR, disponível no portal www.car.gov.br. O primeiro passo para cadastrar um imóvel rural no CAR, por meio do Módulo de Cadastro, consiste em selecionar, na aba “Baixar”, a sigla do Estado em que o imóvel está localizado e, caso esteja de acordo com os termos de uso apresentado, baixar e instalar o Módulo de Cadastro.
+
+-   **Protocolo:**  Após a gravação do cadastro finalizado, será gerado o arquivo com extensão ".car" juntamente com o Protocolo de Preenchimento para Inscrição no CAR, o qual apresenta, entre outras informações, o CPF do cadastrante. Importante ressaltar que o Protocolo não comprova a inscrição do imóvel rural no CAR.
+
+-   **Envio do arquivo ".car":**  Após a gravação d cadastro do imóvel rural, deverá ser enviado ao SICARo arquivo com extensão ".car" gerado pelo Módulo de Cadastro para emissão do Recibo de Inscrição do Imóvel Rural no CAR. Para essa etapa é necessário ter acesso à internet. Por meio do Módulo de Cadastro, acesse a opção “Enviar” e selecione o arquivo com extensão ".car" armazenado em seu computador. Em seguida, digite os caracteres de segurança para autenticação e clique no botão "Enviar". Após o envio, você receberá uma mensagem de confirmação contendo um link para acessar o Recibo de Inscrição do Imóvel Rural no CAR. Assegure-se de gravar ou imprimir o documento do Recibo para fins de comprovação da inscrição do imóvel rural no CAR.
+-  **Recibo:**  O Recibo de Inscrição, gerado após o envio do arquivo “.car” ao SICAR, representa a confirmação de que foi realizada a declaração do imóvel rural no CAR e garante o cumprimento da Lei nº 12.651/2012, no que diz respeito à inscrição no cadastro, comprovação da entrega da documentação exigida para a análise da localização da área de Reserva Legal e acesso ao crédito agrícola junto às instituições financeiras. O Recibo não substitui qualquer licença ou autorização ambiental para exploração florestal ou supressão de vegetação, como também não dispensa as autorizações cabíveis para o exercício da atividade econômica no imóvel. Importante informar que a inscrição no CAR não é válida para fins de reconhecimento de direito de propriedade ou posse e que as informações declaradas serão objeto de análise e validação pelo órgão estadual competente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzk1Njg0NTUsLTE4NTc0NzI2ODIsLT
-E3NDk3ODg0OTYsOTIzNDI0NjUzLDE1NDU0OTY2MzQsLTExNzY4
-MTc2MzQsLTEyNzQ5OTIxNDRdfQ==
+eyJoaXN0b3J5IjpbMTIyNTAyOTEzOSwtMTg1NzQ3MjY4MiwtMT
+c0OTc4ODQ5Niw5MjM0MjQ2NTMsMTU0NTQ5NjYzNCwtMTE3Njgx
+NzYzNCwtMTI3NDk5MjE0NF19
 -->
