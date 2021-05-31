@@ -304,8 +304,23 @@ O SICAR é o responsável por emitir o Recibo de Inscrição do Imóvel Rural no
 ## Proprietário/Possuidor
 
 O proprietário/possuidor é responsável por requerer a inscrição do imóvel rural no CAR e a adesão ao Programa de Regularização Ambiental – PRA, que é realizada mediante assinatura de Termo de Compromisso, por promover a regularização ambiental do imóvel, e por todas as informações contidas na declaração do cadastro, incluindo aquelas provenientes de retificação do cadastro, e pelas ações necessárias para garantir sua regularização ambiental. Também cabe ao proprietário/possuidor respeitar as orientações técnicas e legais relativas aos procedimentos de cadastro, e atender às notificações resultantes da análise do CAR, em função de pendências ou inconsistências detectadas, devendo prestar informações complementares ou promover as correções solicitadas dentro dos prazos definidos, sob pena de cancelamento do CAR. Conforme o Decreto Federal nº 7.830/2012, o proprietário ou possuidor rural, ou seu representante legal legalmente constituído, também será responsável por atualizar as informações periodicamente ou sempre que houver alteração da natureza dominial, possessória, ou ambiental do imóvel rural, incluídas as supressões de remanescentes de vegetação nativa.
+
+## Órgãos gestores do CAR nos Estados e no DF
+
+Os órgãos gestores do SICAR nos Estados e no DF são responsáveis por:
+
+-   Receber as inscrições dos imóveis no CAR
+-   Definir os procedimentos para inscrição dos imóveis rurais e de assentamento de responsabilidade do Estado;
+-   Adotar campanhas de divulgação e fornecer o apoio técnico e operacional às entidades parceiras envolvidas no atendimento e no cadastramento dos proprietários e posseiros rurais;
+-   Realizar a análise do CAR, solicitar informações adicionais e realizar vistorias de campo, quando necessário;
+-   Habilitar instituições parceiras, estaduais e municipais, quando julgarem necessário, para a análise de cadastros e aprovação da localização da Reserva Legal proposta na inscrição do imóvel no CAR;
+-   Gerir a base de dados estadual dos imóveis rurais;
+-   Utilizar a base de dados do CAR para fins de controle, monitoramento ambiental, facilitação dos processos de licenciamento das atividades rurais, gestão integrada dos territórios e acompanhamento dos ativos ambientais das propriedades;
+-   Regulamentar os Programas de Regularização Ambiental –PRA de acordo com suas especificidades.
+
+É de responsabilidade dos entes federativos que já disponham de sistema para cadastramento de imóveis rurais integrar sua base de dados ao SiCAR.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTgyMzE2NSwtMTg1NzQ3MjY4MiwtMT
-c0OTc4ODQ5Niw5MjM0MjQ2NTMsMTU0NTQ5NjYzNCwtMTE3Njgx
-NzYzNCwtMTI3NDk5MjE0NF19
+eyJoaXN0b3J5IjpbMTgyMDEzMTYwOSwtNTAxODIzMTY1LC0xOD
+U3NDcyNjgyLC0xNzQ5Nzg4NDk2LDkyMzQyNDY1MywxNTQ1NDk2
+NjM0LC0xMTc2ODE3NjM0LC0xMjc0OTkyMTQ0XX0=
 -->
