@@ -285,8 +285,27 @@ Os PRA serão implantados pelos Estados e pelo Distrito Federal, observados os s
 -   Mecanismos de acompanhamento da suspensão e extinção da punibilidade das infrações e crimes nos termos do Art. 59, §4º, e Art 60, § 2º, da Lei nº 12.651/2012, que incluam informações sobre o cumprimento das obrigações firmadas para a suspensão e o encerramento dos processos administrativo e criminal.
 
 Enquanto estiver sendo cumprido o Termo de Compromisso pelos proprietários ou possuidores de imóveis rurais, ficará suspensa a aplicação de sanções administrativas associadas aos fatos que deram causa à celebração do Termo de Compromisso. O cumprimento das obrigações será atestado pelo órgão que efetivou o Termo de Compromisso, por intermédio de notificação simultânea ao órgão de origem da autuação e ao proprietário ou possuidor de imóvel rural. Caso seja descumprido o Termo de Compromisso será retomado o curso do processo administrativo, sem prejuízo da aplicação da multa e das sanções previstas no termo de compromisso, e serão adotadas as providências necessárias para o prosseguimento do processo criminal.
+
+
+## O que é o SICAR?
+
+O Sistema Nacional de Cadastro Ambiental Rural – SICAR foi criado por meio do Decreto n° 7.830/2012 e definido como sistema eletrônico de âmbito nacional destinado à integração e ao gerenciamento de informações ambientais dos imóveis rurais de todo o País. Essas informações destinam-se a subsidiar políticas, programas, projetos e atividades de controle, monitoramento, planejamento ambiental e econômico e combate ao desmatamento ilegal. Os objetivos do SICAR são:
+
+1.  receber, gerenciar e integrar os dados do CAR de todos os entes federativos;
+2.  cadastrar e controlar as informações dos imóveis rurais, referentes a seu perímetro e localização, aos remanescentes de vegetação nativa, às áreas de interesse social, às áreas de utilidade pública, às Áreas de Preservação Permanente, às Áreas de Uso Restrito, às áreas consolidadas e às Reservas Legais;
+3.  monitorar a manutenção, a recomposição, a regeneração, a compensação e a supressão da vegetação nativa e da cobertura vegetal nas áreas de Preservação Permanente, de Uso Restrito, e de Reserva Legal, no interior dos imóveis rurais;
+4.  promover o planejamento ambiental e econômico do uso do solo e conservação ambiental no território nacional; e
+5.  disponibilizar informações de natureza pública sobre a regularização ambiental dos imóveis rurais em território nacional, na Internet.
+
+
+O SICAR é o responsável por emitir o Recibo de Inscrição do Imóvel Rural no CAR, que confirma a efetivação do cadastramento e o envio da documentação exigida para a análise da localização da área de Reserva Legal, inclusive perante as instituições financeiras para concessão de crédito agrícola, em qualquer de suas modalidades a partir de 31 de dezembro de 2017.
+
+
+## Proprietário/Possuidor
+
+O proprietário/possuidor é responsável por requerer a inscrição do imóvel rural no CAR e a adesão ao Programa de Regularização Ambiental – PRA, que é realizada mediante assinatura de Termo de Compromisso, por promover a regularização ambiental do imóvel, e por todas as informações contidas na declaração do cadastro, incluindo aquelas provenientes de retificação do cadastro, e pelas ações necessárias para garantir sua regularização ambiental. Também cabe ao proprietário/possuidor respeitar as orientações técnicas e legais relativas aos procedimentos de cadastro, e atender às notificações resultantes da análise do CAR, em função de pendências ou inconsistências detectadas, devendo prestar informações complementares ou promover as correções solicitadas dentro dos prazos definidos, sob pena de cancelamento do CAR. Conforme o Decreto Federal nº 7.830/2012, o proprietário ou possuidor rural, ou seu representante legal legalmente constituído, também será responsável por atualizar as informações periodicamente ou sempre que houver alteração da natureza dominial, possessória, ou ambiental do imóvel rural, incluídas as supressões de remanescentes de vegetação nativa.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTI3OTk3NiwtMTg1NzQ3MjY4MiwtMT
+eyJoaXN0b3J5IjpbLTUwMTgyMzE2NSwtMTg1NzQ3MjY4MiwtMT
 c0OTc4ODQ5Niw5MjM0MjQ2NTMsMTU0NTQ5NjYzNCwtMTE3Njgx
 NzYzNCwtMTI3NDk5MjE0NF19
 -->
