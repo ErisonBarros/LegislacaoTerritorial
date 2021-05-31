@@ -271,8 +271,22 @@ A inscrição do imóvel rural no CAR deverá ser feita junto ao órgão estadua
 
 -   **Envio do arquivo ".car":**  Após a gravação d cadastro do imóvel rural, deverá ser enviado ao SICARo arquivo com extensão ".car" gerado pelo Módulo de Cadastro para emissão do Recibo de Inscrição do Imóvel Rural no CAR. Para essa etapa é necessário ter acesso à internet. Por meio do Módulo de Cadastro, acesse a opção “Enviar” e selecione o arquivo com extensão ".car" armazenado em seu computador. Em seguida, digite os caracteres de segurança para autenticação e clique no botão "Enviar". Após o envio, você receberá uma mensagem de confirmação contendo um link para acessar o Recibo de Inscrição do Imóvel Rural no CAR. Assegure-se de gravar ou imprimir o documento do Recibo para fins de comprovação da inscrição do imóvel rural no CAR.
 -  **Recibo:**  O Recibo de Inscrição, gerado após o envio do arquivo “.car” ao SICAR, representa a confirmação de que foi realizada a declaração do imóvel rural no CAR e garante o cumprimento da Lei nº 12.651/2012, no que diz respeito à inscrição no cadastro, comprovação da entrega da documentação exigida para a análise da localização da área de Reserva Legal e acesso ao crédito agrícola junto às instituições financeiras. O Recibo não substitui qualquer licença ou autorização ambiental para exploração florestal ou supressão de vegetação, como também não dispensa as autorizações cabíveis para o exercício da atividade econômica no imóvel. Importante informar que a inscrição no CAR não é válida para fins de reconhecimento de direito de propriedade ou posse e que as informações declaradas serão objeto de análise e validação pelo órgão estadual competente.
+
+## O que é o PRA?
+
+Os Programas de Regularização Ambiental – PRA – compreendem o conjunto de ações ou iniciativas a serem desenvolvidas por proprietários e/ou possuidores rurais com o objetivo de adequar e promover a regularização ambiental de seus imóveis rurais, com vistas ao cumprimento do disposto no Capítulo XIII da Lei nº 12.651/2012.
+
+Realizada a inscrição no CAR, os proprietários e/ou possuidores de imóveis rurais com passivo ambiental relativo à supressão irregular de remanescentes de vegetação nativa, ocorrida até 22 de julho de 2008, em Áreas de Preservação Permanente (APP), de Reserva Legal (RL) e de uso restrito (AUR), poderão solicitar a adesão aos PRA dos Estados e do Distrito Federal, para proceder à regularização ambiental de seus imóveis rurais, que poderá ser efetivada mediante recuperação, recomposição, regeneração ou compensação. A compensação aplica-se exclusivamente às RL suprimidas até aquela data.
+
+Os PRA serão implantados pelos Estados e pelo Distrito Federal, observados os seguintes requisitos:
+
+-   Termo de Compromisso por imóvel, com eficácia de título executivo extrajudicial;
+-   Disponibilização de mecanismos de controle e acompanhamento da recomposição, recuperação, regeneração ou compensação e de integração das informações no SICAR;
+-   Mecanismos de acompanhamento da suspensão e extinção da punibilidade das infrações e crimes nos termos do Art. 59, §4º, e Art 60, § 2º, da Lei nº 12.651/2012, que incluam informações sobre o cumprimento das obrigações firmadas para a suspensão e o encerramento dos processos administrativo e criminal.
+
+Enquanto estiver sendo cumprido o Termo de Compromisso pelos proprietários ou possuidores de imóveis rurais, ficará suspensa a aplicação de sanções administrativas associadas aos fatos que deram causa à celebração do Termo de Compromisso. O cumprimento das obrigações será atestado pelo órgão que efetivou o Termo de Compromisso, por intermédio de notificação simultânea ao órgão de origem da autuação e ao proprietário ou possuidor de imóvel rural. Caso seja descumprido o Termo de Compromisso será retomado o curso do processo administrativo, sem prejuízo da aplicação da multa e das sanções previstas no termo de compromisso, e serão adotadas as providências necessárias para o prosseguimento do processo criminal.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTAyOTEzOSwtMTg1NzQ3MjY4MiwtMT
+eyJoaXN0b3J5IjpbMjA0OTI3OTk3NiwtMTg1NzQ3MjY4MiwtMT
 c0OTc4ODQ5Niw5MjM0MjQ2NTMsMTU0NTQ5NjYzNCwtMTE3Njgx
 NzYzNCwtMTI3NDk5MjE0NF19
 -->
