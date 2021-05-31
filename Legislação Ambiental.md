@@ -326,9 +326,12 @@ Os órgãos gestores do SICAR nos Estados e no DF são responsáveis por:
 O SFB, Serviço Florestal Brasileiro, é responsável, em nível federal, por apoiar a implantação, gerir e integrar as bases de dados ambientais do Cadastro Ambiental Rural – CAR junto aos OEMAs e outras organizações em todo o território nacional.
 
 O SFB também é responsável por divulgar informações sobre a evolução do CAR, por meio do sítio eletrônico do SFB,  [http://www.florestal.gov.br/cadastro-ambiental-rural/](http://www.florestal.gov.br/cadastro-ambiental-rural/).
+
+
+Fonte: https://www.florestal.gov.br/cadastro-ambiental-rural/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTk3MjU3NjksMTgyMDEzMTYwOSwtNT
-AxODIzMTY1LC0xODU3NDcyNjgyLC0xNzQ5Nzg4NDk2LDkyMzQy
-NDY1MywxNTQ1NDk2NjM0LC0xMTc2ODE3NjM0LC0xMjc0OTkyMT
-Q0XX0=
+eyJoaXN0b3J5IjpbMTAyNzE0MDU5OSwxODIwMTMxNjA5LC01MD
+E4MjMxNjUsLTE4NTc0NzI2ODIsLTE3NDk3ODg0OTYsOTIzNDI0
+NjUzLDE1NDU0OTY2MzQsLTExNzY4MTc2MzQsLTEyNzQ5OTIxND
+RdfQ==
 -->
