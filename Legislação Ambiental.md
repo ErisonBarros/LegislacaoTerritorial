@@ -259,9 +259,13 @@ Fonte: https://onedrive.live.com/?cid=6E16E4D501A0B833&q=CURSO%20CAR&ft=31&searc
 
 ## Etapas da Regularização Ambiental
 
-<a href="https://ibb.co/6HrjBHR"><img src="https://i.ibb.co/6HrjBHR/Etapas-do-CAR.jpg" alt="Etapas-do-CAR" border="0"></a>
+<a href="https://ibb.co/6HrjBHR"><img src="https://i.ibb.co/QPpydPF/Etapas-do-CAR.jpg" alt="Etapas-do-CAR" border="0"></a>
+
+## Inscrição no CAR
+
+A inscrição do imóvel rural no CAR deverá ser feita junto ao órgão estadual competente. O cadastramento não será considerado título para fins de reconhecimento do direito de propriedade ou posse, tampouco para a necessidade de cumprimento do disposto no Art. 2° da Lei nº 10.267, de 28 de agosto de 2001.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTQ4MTgyNiwtMTg1NzQ3MjY4MiwtMT
-c0OTc4ODQ5Niw5MjM0MjQ2NTMsMTU0NTQ5NjYzNCwtMTE3Njgx
-NzYzNCwtMTI3NDk5MjE0NF19
+eyJoaXN0b3J5IjpbLTE5Nzk1Njg0NTUsLTE4NTc0NzI2ODIsLT
+E3NDk3ODg0OTYsOTIzNDI0NjUzLDE1NDU0OTY2MzQsLTExNzY4
+MTc2MzQsLTEyNzQ5OTIxNDRdfQ==
 -->
