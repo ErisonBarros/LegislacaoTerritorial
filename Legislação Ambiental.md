@@ -189,6 +189,28 @@ Promover a identificação e integração das informações ambientais das propr
 • das Áreas de Preservação Permanentes (APP) e de Reserva Legal (RL);
 • das áreas de uso restrito e áreas consolidadas.
 
+### Importância e Benefícios
+
+A inscrição no CAR possibilita o planejamento ambiental e econômico do uso e ocupação do imóvel rural. Representa o primeiro passo para obtenção da regularidade ambiental. Além disso, constitui-se em requisito para os seguintes programas, benefícios e autorizações:
+
+-   O registro da Reserva Legal no CAR desobriga a averbação no Cartório de Registro de Imóveis;
+-   Acesso ao Programa de Apoio e Incentivo à Conservação do Meio Ambiente e aos Programas de Regularização Ambiental – PRA;
+-   Obtenção de crédito agrícola, em todas as suas modalidades, com taxas de juros menores, bem como limites e prazos maiores que o praticado no mercado, em especial após 31 de dezembro de 2017, quando o CAR será pré-requisito para o acesso a crédito;
+-   Contratação do seguro agrícola em condições melhores que as praticadas no mercado;
+-   Geração de créditos tributários por meio da dedução das Áreas de Preservação Permanente, de Reserva Legal e de uso restrito da base de cálculo do Imposto sobre a Propriedade Territorial Rural - ITR;
+-   Linhas de financiamento para atender iniciativas de preservação voluntária de vegetação nativa, proteção de espécies da flora nativa ameaçadas de extinção, manejo florestal e agroflorestal sustentável realizados na propriedade ou posse rural, ou recuperação de áreas degradadas;
+-   Isenção de impostos para os principais insumos e equipamentos, tais como: fio de arame, postes de madeira tratada, bombas d’água, trado de perfuração do solo, dentre outros utilizados para os processos de recuperação e manutenção das Áreas de Preservação Permanente, de Reserva Legal e de uso restrito,
+-   Suspensão de sanções e novas autuações em função de infrações administrativas por supressão irregular de vegetação em áreas de preservação permanente, de Reserva Legal e de uso restrito, cometidas até 22/07/2008, e suspensão da punibilidade dos crimes previstos nos arts. 38, 39 e 48 da Lei de crimes ambientais (Lei nº 9.651/1998) associados a essas áreas;- Condição para autorização da prática de aquicultura e infraestrutura a ela associada nos imóveis rurais com até 15 (quinze) módulos rurais, localizados em áreas de preservação permanente;
+-   Condição para autorização de supressão de floresta ou outras formas de vegetação nativa no imóvel rural;
+-   Condição para aprovação da localização da Reserva Legal;
+-   Condição para cômputo das Áreas de Preservação Permanente no cálculo da Reserva Legal do imóvel;
+-   Condição para autorização da exploração econômica da Reserva Legal mediante manejo sustentável;
+-   Condição para constituição de servidão ambiental e Cota de Reserva Ambiental, e acesso aos mecanismos de compensação da Reserva Legal;
+-   Condição para autorização de intervenção e supressão de vegetação em Áreas de Preservação Permanente e de Reserva Legal para atividades de baixo impacto ambiental; e
+-   Condição para autorização da continuidade das atividades agrossilvipastoris, de ecoturismo e de turismo rural em áreas rurais consolidadas até em 22 de julho de 2008 localizadas em Áreas de Preservação Permanente e Reserva Legal.
+
+Fonte: 
+
 **Áreas de Preservação Permanente - APP**
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/qN6ZLZ0/7-VXkkbn3-SDb-L94d4z0-Ux-An-Zqv8-SKJt-J1sk-I-qa-SJf-YDx-En-L99o-CHp5-H5y96u-fx-NM3-Yr-P-jf-Oxujk-Qj.png" alt="7-VXkkbn3-SDb-L94d4z0-Ux-An-Zqv8-SKJt-J1sk-I-qa-SJf-YDx-En-L99o-CHp5-H5y96u-fx-NM3-Yr-P-jf-Oxujk-Qj-" border="0"></a>
@@ -330,8 +352,8 @@ O SFB também é responsável por divulgar informações sobre a evolução do C
 
 Fonte: https://www.florestal.gov.br/cadastro-ambiental-rural/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzE0MDU5OSwxODIwMTMxNjA5LC01MD
-E4MjMxNjUsLTE4NTc0NzI2ODIsLTE3NDk3ODg0OTYsOTIzNDI0
-NjUzLDE1NDU0OTY2MzQsLTExNzY4MTc2MzQsLTEyNzQ5OTIxND
-RdfQ==
+eyJoaXN0b3J5IjpbLTEwMDU4NDEzNjUsMTgyMDEzMTYwOSwtNT
+AxODIzMTY1LC0xODU3NDcyNjgyLC0xNzQ5Nzg4NDk2LDkyMzQy
+NDY1MywxNTQ1NDk2NjM0LC0xMTc2ODE3NjM0LC0xMjc0OTkyMT
+Q0XX0=
 -->
