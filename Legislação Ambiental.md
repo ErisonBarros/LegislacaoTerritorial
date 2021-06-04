@@ -218,11 +218,13 @@ Fonte: https://www.florestal.gov.br/cadastro-ambiental-rural/
 
 ![Cartilha do Código Florestal Brasileiro](https://lh3.googleusercontent.com/proxy/NsoZIjfNviWbMFGJ6QifQsGozWT2By0Cvj6xoZUHrbNVfH1bOeXOttq7TQ_JIgXso4X3XFAKp5AJhdhXkDTPwh7L-09FudZsdylIE9CiNA0ePtLtBw)
 
+
 São áreas protegidas, cobertas ou não por vegetação nativa, com a função ambiental de preservar os recursos hídricos, a paisagem, a estabilidade geológica e a biodiversidade, facilitar o fluxo gênico de fauna e flora, proteger o solo e assegurar o bem estar das populações humanas.
 
 Considera-se APP em zonas rurais ou urbanas (Lei n° 12.651/12)
 
 I - as faixas marginais de qualquer curso d’água natural, perene e intermitente, excluídos os efêmeros, desde a borda da calha do leito regular, em largura mínima de:
+
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/72LY4Fm/CAR.jpg" alt="CAR" border="0"></a>
 
@@ -231,7 +233,13 @@ I - as faixas marginais de qualquer curso d’água natural, perene e intermiten
 
 
 
-II - as áreas no entorno dos lagos e lagoas naturais, em largura mínima de:a) 100 metros, em zonas rurais, exceto para o corpo d’água com até 20 hectares de superfície, cuja faixa marginal será de 50 metros;b) 30 metros, em zonas urbanas;III - as áreas no entorno dos reservatórios d’água artificiais, decorrentes de barramento ou represamento de cursos d’água naturais, na faixa definida na licença ambiental do empreendimento;
+II - as áreas no entorno dos lagos e lagoas naturais, em largura mínima de:
+
+a) 100 metros, em zonas rurais, exceto para o corpo d’água com até 20 hectares de superfície, cuja faixa marginal será de 50 metros;
+b) 30 metros, em zonas urbanas;
+
+III - as áreas no entorno dos reservatórios d’água artificiais, decorrentes de barramento ou represamento de cursos d’água naturais, na faixa definida na licença ambiental do empreendimento;
+
 IV - as áreas no entorno das nascentes e dos olhos d’água perenes, no raio mínimo de 50 metros; V - as encostas ou partes destas com declividade superior a 45°, equivalente a 100% na linha de maior declive;
 
 VI - as restingas, como fixadoras de dunas ou estabilizadoras de mangues;
@@ -262,6 +270,7 @@ odo imóvel rural deve manter área com cobertura de vegetação nativa a títul
 • 20% do imóvel situado em área de campos gerais 
 Se localizado nas demais regiões do país:
 • 20% do imóvel
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/n01wtYC/l7-Cj-WL-1-Gw1-QIw-Y74-Zg-Jm-BE-t3ohkv-R4-Ih-Kw-M9hao-YL8-Fky-Eabg-6k9e-Aw-NXb-QOWKD8-Ia-x6-EIh-IWy.png" alt="l7-Cj-WL-1-Gw1-QIw-Y74-Zg-Jm-BE-t3ohkv-R4-Ih-Kw-M9hao-YL8-Fky-Eabg-6k9e-Aw-NXb-QOWKD8-Ia-x6-EIh-IWy-" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload a photo</a><br />
 
 No entanto, a Lei abriu uma exceção no Art. 67 ao estabelecer que nos imóveis rurais que detinham área de até 4 módulos fiscais, em 22 de julho de 2008, e que possuam remanescentes de vegetação nativa em percentuais inferiores ao previsto acima, a reserva legal será constituída com a área ocupada com a vegetação nativa existente em 22 de julho de 2008, vedadas novas conversões para uso alternativo do solo.
@@ -273,8 +282,6 @@ No entanto, a Lei abriu uma exceção no Art. 67 ao estabelecer que nos imóveis
 A inscrição pode ser feita diretamente pelo sitewww.car.gov.br ou nos sites dos órgãos estaduais competentes que disponibilizarem sistema próprio. Esses sistemas estarão integrados ao Sistema Nacional de Cadastro Ambiental Rural (Sicar).O Poder Público deverá oferecer suporte técnico para a inscrição dos imóveis que desenvolvam atividades agrossilvipastoris com área de até 4 módulos fiscais (medida que varia de acordo com o município), além dos assentamentos da reforma agrária e dos territórios de povos e comunidades tradicionais. Para os assentados da reforma agrária, esse suporte deve ser fornecido pelo órgão fundiário.
 
 <a href="https://ibb.co/3fQ0s5M"><img src="https://i.ibb.co/5Yw59Xn/apresentacao-CAR.jpg" alt="apresentacao-CAR" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>best free image hosting</a><br />
-
-
 
 Fonte: https://onedrive.live.com/?cid=6E16E4D501A0B833&q=CURSO%20CAR&ft=31&searchsessionid=777044e6%2Da8a8%2D47a2%2Db1bd%2Db8be6ee62ed4&id=6E16E4D501A0B833%2167897&parId=root&parQt=search&o=OneUp
 
