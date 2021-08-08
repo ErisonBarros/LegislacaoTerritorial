@@ -13,7 +13,7 @@ O explorador de arquivos pode ser acessado usando o botão no canto esquerdo da 
 
 ## Mudar para outro arquivo
 
-Todos os seus arquivos e pastas são executados como uma árvore no explorador de arquivos. Você pode alternar de um para outro clicando em um arquivo na árvore.
+Todos os seus arquivos e pastas são alternativos como uma árvore no explorador de arquivos. Você pode alternar de um para outro clicando em um arquivo na árvore.
 
 ## Renomear um arquivo
 
@@ -142,5 +142,5 @@ B -> D {Losango}
 C -> D `  ` `
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ4ODIxMjddfQ==
+eyJoaXN0b3J5IjpbMTY1NjcwOTIyOF19
 -->
