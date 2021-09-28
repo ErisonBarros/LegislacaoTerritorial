@@ -181,13 +181,21 @@ Promover a identificação e integração das informações ambientais das propr
 **Que informações serão cadastradas?**
 
 • Identificação do proprietário ou possuidor rural;
+
 • Informações dos documentos comprobatórios da propriedade ou posse rural;
+
 • Identificação do imóvel rural;
+
 • Delimitação do perímetro:
+
 • do imóvel;
+
 • das áreas de remanescentes de vegetação nativa;
+
 • das Áreas de Preservação Permanentes (APP) e de Reserva Legal (RL);
+
 • das áreas de uso restrito e áreas consolidadas.
+
 
 ### Importância e Benefícios
 
