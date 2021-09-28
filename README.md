@@ -64,10 +64,9 @@ As atividades síncronas e assíncronas, desenvolvidas em ambiente virtual, remo
 
 ### UNIDADES PROGRAMÁTICAS 
 
-* aulas expositivas da parte teórica  e legal;</li><li>
-* Apresentação das técnicas de levantamentos e locações;</li><li>
-* Apresentação das práticas de elaboração de planta utilizando o QGis, Topocad \(adquirido pelo Laboratório\).</li></ul>
-<h2 id="formas-de-avaliação">FORMAS DE AVALIAÇÃO</h2><p>
+* aulas expositivas da parte teórica  e legal
+* Apresentação das técnicas de levantamentos e locações
+* Apresentação das práticas de elaboração de planta utilizando o QGis, Topocad 
 
 [UNIDADES PROGRAMÁTICAS](http://https//1drv.ms/x/s!AjO4oAHV5BZuioozg3Ez9_Rd86UWbg?e=sxfTQx)
 
