@@ -33,24 +33,24 @@ Apresentação das práticas de elaboração de planta utilizando o QGis, Topoca
 * Normas técnicas.
 
 ### FORMAS DE AVALIAÇÃO <a id="user-content-formas-de-avalia&#xE7;&#xE3;o"></a>
+
 1º E.E.:  
+
 a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 1,3,4 e 5 da Ementa \(Peso 4\)  
 b. Seminário em Grupo sobre Proposta de Parcelamento de uma propriedade Rural para fins de assentamento da reforma agrária baseado na legislação e no conteúdo Ministrado , analise individual no aluno na apresentação \( Peso 6\);  
+
 2ºE.E.:  
+
 a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 2,6,7 e 8 da Ementa \(Peso 4\)  
 b. Seminário em Grupo sobre Proposta de Parcelamento de uma Gleba Urbana para fins de aprovação de um projeto de Loteamento baseado na legislação e no conteúdo ministrado , analise individual no aluno na apresentação \( Peso 6\);
 
-1. Fornecer aos alunos os conhecimentos necessários referentes a legislação territorial;</li>
-<li>
-2. Capacitar aos alunos para buscar o mecanismos legais de adaptação a projetos a legislação territorial brasileira.</li>
-<li>
-3. Dar subicidios a trabalhar em casos de estudo de perícias judiciais.</li>
-</ol>
-<h2 id="metodologia">METODOLOGIA</h2>
-<p>
+1. Fornecer aos alunos os conhecimentos necessários referentes a legislação territorial;</li><li>
+2. Capacitar aos alunos para buscar o mecanismos legais de adaptação a projetos a legislação territorial brasileira.</li><li>
+3. Dar subicidios a trabalhar em casos de estudo de perícias judiciais.</li></ol>
+<h2 id="metodologia">METODOLOGIA</h2><p>
 
 1º E.E. = a \* \(0,4\) + b\*\(0,6\)  
-2ºE.E.= a \* \(0,4\) + b\*\(0,6\)
+2º E.E.= a \* \(0,4\) + b\*\(0,6\)
 
 ### METODOLOGIA <a id="metodologia"></a>
 
@@ -62,48 +62,30 @@ As atividades síncronas e assíncronas, desenvolvidas em ambiente virtual, remo
 <ul>
 <li>
 
-### UNIDADES PROGRAMÁTICAS <a id="user-content-unidades-program&#xE1;ticas"></a>
+### UNIDADES PROGRAMÁTICAS 
 
-* aulas expositivas da parte teórica  e legal;</li>
-<li>
-* Apresentação das técnicas de levantamentos e locações;</li>
-<li>
-* Apresentação das práticas de elaboração de planta utilizando o QGis, Topocad \(adquirido pelo Laboratório\).</li>
-</ul>
-<h2 id="formas-de-avaliação">FORMAS DE AVALIAÇÃO</h2>
-<p>
+* aulas expositivas da parte teórica  e legal;</li><li>
+* Apresentação das técnicas de levantamentos e locações;</li><li>
+* Apresentação das práticas de elaboração de planta utilizando o QGis, Topocad \(adquirido pelo Laboratório\).</li></ul>
+<h2 id="formas-de-avaliação">FORMAS DE AVALIAÇÃO</h2><p>
 
 [UNIDADES PROGRAMÁTICAS](http://https//1drv.ms/x/s!AjO4oAHV5BZuioozg3Ez9_Rd86UWbg?e=sxfTQx)
 
-### FORMAS DE AVALIAÇÃO <a id="formas-de-avalia&#xE7;&#xE3;o"></a>
+### FORMAS DE AVALIAÇÃO 
 
 1º E.E.:<br>
   
- a.	 Atividades no Google Classroom a partir de Google Formulário sobre os Itens 1,3,4 e 5 da Ementa  \(Peso 4)<br>
-\)  
+ a.	 Atividades no Google Classroom a partir de Google Formulário sobre os Itens 1,3,4 e 5 da Ementa  \(Peso 4)<br>\)  
  b.	 Seminário em Grupo sobre Proposta de Parcelamento de uma propriedade Rural para fins de assentamento da reforma agrária baseado na legislação e no conteúdo Ministrado , analise individual no aluno na apresentação \( Peso 6\);<br>
   
  2ºE.E.:<br>
   
- a.	 Atividades no Google Classroom a partir de Google Formulário sobre os Itens 2,6,7 e 8 da Ementa  \(Peso 4)<br>
-\)  
- b.	 Seminário em Grupo sobre Proposta de Parcelamento de uma Gleba Urbana para fins de aprovação de um projeto de Loteamento  baseado na legislação e no conteúdo ministrado , analise individual no aluno na apresentação \( Peso 6\);</p>
-<p>
+ a.	 Atividades no Google Classroom a partir de Google Formulário sobre os Itens 2,6,7 e 8 da Ementa  \(Peso 4)<br>\)  
+ b.	 Seminário em Grupo sobre Proposta de Parcelamento de uma Gleba Urbana para fins de aprovação de um projeto de Loteamento  baseado na legislação e no conteúdo ministrado , analise individual no aluno na apresentação \( Peso 6\);</p><p>
 
-1º E.E. =  a \* \(0,4\) + b*\*\(0,6)<br>
-\)  
- 2ºE.E.=  a \* \(0,4\) + b*\*\(0,6)</p>
-<p><strong>\)
+1º E.E. =  a \* \(0,4\) + b*\*\(0,6)<br>\)  
+2ºE.E.=  a \* \(0,4\) + b*\*\(0,6)</p><p><strong>\)
 
 **Média= \( 1º E.E. + 2ºE.E.\) /2</strong></p>
-<h2**
 
-### UNIDADES PROGRAMÁTICAS <a id="unidades-programá&#xE1;ticas"></a>
-
-[UNIDADES PROGRAMÁTICAS</h2>
-<p><a href="](http://https://1drv.ms/x/s!AjO4oAHV5BZuioozg3Ez9_Rd86UWbg?e=sxfTQx" title="UNIDADES PROGRAMÁTICAS">UNIDADES PROGRAMÁTICAS</a></p>)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwMTk1MzcxLDE4NzU0OTcxNDEsLTE4Mj
-cxNzgwMjksLTEwNDkxNjY0MDVdfQ==
--->
+### UNIDADES PROGRAMÁTICAS 
