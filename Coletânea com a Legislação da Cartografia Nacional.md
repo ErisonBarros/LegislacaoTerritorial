@@ -30,7 +30,7 @@ Lista com Leis, Decretos e Resoluções referentes à Legislação da Cartografi
 
 [Decreto s/n°, de 10 de Maio de 2000](https://esteio.com.br/downloads/legislacao/LEGISLA_DECRETO_10_D.pdf). Dispõe sobre a Comissão Nacional de Cartografia – CONCAR, e dá outras providências.
 
-[Portaria n° 0637 SC-6/FA-61, de 05 de Março de 1998](https://esteio.com.br/downloads/legislacao/_portaria0637.pdf).
+[Portaria n° 0637 SC-6/FA-61, de 05 de Março de 1998](https://esteio.com.br/downloads/legislacao/_portaria0637.pdf).Aprova as Instruções Reguladoras de Aerolevantamento no território nacional. 
 
 [Decreto n° 2.278, de 17 de Julho de 1997](https://esteio.com.br/downloads/legislacao/_decreto2278.pdf). Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério do Planejamento, Orçamento e Gestão, e dá outras providências.
 
