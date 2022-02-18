@@ -1,6 +1,4 @@
-# README4
-
-> Written with [StackEdit](https://stackedit.io/).
+> Written for Erison Barros
 >
 > ## Coletânea com a Legislação da  Cartografia Nacional
 >
