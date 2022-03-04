@@ -27,7 +27,7 @@ Propriedade: propriedade ao sujeito ao direito de usar, gozar e ter do bem, e re
 * i\) pela transcrição do título de transferência no Registro de Imóveis; - 
 * ii\) pela sucessão hereditária
 
-.\#\# INCORPORAÇÃO IMOBILIÁRIA
+## INCORPORAÇÃO IMOBILIÁRIA
 
 **Lei 4591/64:** atividade exercida com o intuito de promover e realizar a construção, com venda total ou parcial de edificações \(apartamentos ou casas\).
 
