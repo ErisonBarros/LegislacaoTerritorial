@@ -16,7 +16,13 @@
 
 **Má fé:** possuidor sabe que a posse é de origem clandestina ou violenta. Adquira-se um posse: - Pela apreensão da coisa ou pelo exercício do direito de possuir: coisas sem dono, coisas abandonadas, se a coisa está sob o domínio de alguém que não oferece resistência se a coisa por esbulhada. - Pelo fato de se dispor da coisa ou fazer direito: ex. exercício do direito de passagem. - Demais modos de aquisição em geral: contrato de empréstimo, contrato de locação, compromisso de compra e venda. \*\* Perde-se um grupo:
 
-**Pelo abandono;** - Pela entrega a quem se negociou a coisa; - Perda ou furto: ressalvado o direito de reavê-la; - Pela destruição da coisa; - Pelo esbulho: ressalvado o direito de reavê-la; - Pelo constituto possessório: operação jurídica em virtude da qual aquele que possuía em seu próprio nome passa, em seguida, a possuir a coisa em nome de outrem;
+**Pelo abandono;** 
+
+- Pela entrega a quem se negociou a coisa; 
+- 
+- Perda ou furto: ressalvado o direito de reavê-la; 
+- Pela destruição da coisa; - Pelo esbulho: ressalvado o direito de reavê-la;
+- Pelo constituto possessório: operação jurídica em virtude da qual aquele que possuía em seu próprio nome passa, em seguida, a possuir a coisa em nome de outrem;
 
 **Efeitos jurídicos gerados pela posse e conflitos:**
 
