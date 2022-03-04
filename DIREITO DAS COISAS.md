@@ -25,11 +25,17 @@
 
 **Efeitos jurídicos gerados pela posse e conflitos:**
 
-* proteção possessória, percepção de frutos; - responsabilidade pela perda e deterioração; - indenização por benfeitorias; direito de retenção para garantir pagamento; usucapião.
+*proteção possessória, percepção de frutos; - responsabilidade pela perda e deterioração; - indenização por benfeitorias; direito de retenção para garantir pagamento; usucapião.
 
-**Esbulho:** ato em que o possuidor é privado da posse violentamente, clandestinamente, ou por abuso de confiança. **Turbação:** o agente não se apodera da coisa, mas perturba o possuidor pondo em risco sua relação jurídica com a coisa.
+**Esbulho:** ato em que o possuidor é privado da posse violentamente, clandestinamente, ou por abuso de confiança. 
 
-Propriedade: propriedade ao sujeito ao direito de usar, gozar e ter do bem, e reavê-la de quem quer que injustamente o possua. **Modo de aquisição:** original e derivado. **Original:** adquirido domínio de forma primitiva, sem que tenha havido nenhuma relação jurídica anterior. Por exemplo: acessão \(avulsão, aluvião ou abandono de álveo\); usucapião. 
+**Turbação:** o agente não se apodera da coisa, mas perturba o possuidor pondo em risco sua relação jurídica com a coisa.
+
+Propriedade: propriedade ao sujeito ao direito de usar, gozar e ter do bem, e reavê-la de quem quer que injustamente o possua. 
+
+**Modo de aquisição:** original e derivado. 
+
+**Original:** adquirido domínio de forma primitiva, sem que tenha havido nenhuma relação jurídica anterior. Por exemplo: acessão \(avulsão, aluvião ou abandono de álveo\); usucapião. 
 
 **Derivado:**
 
