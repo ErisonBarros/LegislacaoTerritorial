@@ -6,7 +6,11 @@
 
 **Posse: r**elação de fato entre o sujeito e a coisa, efeitos na órbita do direito, juridicamente protegida se exercida a justo título ou de boa-fé.
 
-**Justo título:** possuidor mantém a coisa mediante título hábil a conferir direito e outorgado pelo verdadeiro possuidor ou proprietário. **Posse injusta:** violenta, clandestina ou precária. **Posse precária ou necessidadepria:** mera detenção, com obrigação de devolver a coisa em certo tempo ou circunstância, não gera os efeitos da posse justa transcorrido o tempo. -  _Ex:_  locação, comodato, conserto, compromisso de compra e venda até que se efetue o pagamento. - Nesses casos pode se transformar em posse injusta quando negada a devolução.
+**Justo título:** possuidor mantém a coisa mediante título hábil a conferir direito e outorgado pelo verdadeiro possuidor ou proprietário. 
+
+**Posse injusta:** violenta, clandestina ou precária. 
+
+**Posse precária ou necessidadepria:** mera detenção, com obrigação de devolver a coisa em certo tempo ou circunstância, não gera os efeitos da posse justa transcorrido o tempo. -  _Ex:_  locação, comodato, conserto, compromisso de compra e venda até que se efetue o pagamento. - Nesses casos pode se transformar em posse injusta quando negada a devolução.
 
 **Boa fé:** possuidor ignora vício ou obstáculo que lhe impede a aquisição da coisa ou direito possuído. 
 
