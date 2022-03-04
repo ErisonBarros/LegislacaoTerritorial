@@ -19,7 +19,6 @@
 **Pelo abandono;** 
 
 - Pela entrega a quem se negociou a coisa; 
-- 
 - Perda ou furto: ressalvado o direito de reavê-la; 
 - Pela destruição da coisa; - Pelo esbulho: ressalvado o direito de reavê-la;
 - Pelo constituto possessório: operação jurídica em virtude da qual aquele que possuía em seu próprio nome passa, em seguida, a possuir a coisa em nome de outrem;
