@@ -53,7 +53,7 @@ Limite à liberdade de uso da propriedade com uma cultivar de segurança, sosseg
 
 * Árvore situada na linha divisória, pertence a ambos os proprietários, na proporção de metade para cada um, e se for cortada a madeira será dividida pela metade; - Frutos da árvore que pendem pelos ramos em terreno alheio, a este pertencerão; - Incômodo revelação pelos ramos, raízes e frutos da árvore plantada em terreno alheio, pode ser resolvido até o plano divisório vertical da propriedade.
 
-[](https://thumbs.jusbr.com/imgs.jusbr.com/publications/artigos/images/arvores-limitrofes1459282471.jpg)
+<img src="https://i.ibb.co/SvQ6qpD/arvores-limitrofes1459282471.jpg" alt="arvores-limitrofes1459282471" border="0">
 
 
 ## **Água**
