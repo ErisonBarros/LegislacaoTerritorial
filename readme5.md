@@ -11,8 +11,8 @@ mas que conservem sua unidade, removidas para outro local, não perdem seu cará
 
 ### Tipos de Bens
 
-* **Os bens fungíveis** são aqueles bens móveis que podem ser substituídos    por outros da mesma espécie, qualidade e quantidade. O exemplo    clássico desse tipo de bem é o dinheiro. São, portanto, bens  substituíveis.
-* **Os bens infungíveis** são os que não podem ser substituídos por  
+* ** Os bens fungíveis ** são aqueles bens móveis que podem ser substituídos    por outros da mesma espécie, qualidade e quantidade. O exemplo    clássico desse tipo de bem é o dinheiro. São, portanto, bens  substituíveis.
+* ** Os bens infungíveis ** são os que não podem ser substituídos por  
 
   outros da mesma espécie. Cada um deles possui um elemento que o diferencia dos demais.
 
