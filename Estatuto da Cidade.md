@@ -28,11 +28,17 @@ Instrumentos urbanístcos de indução da **FUNÇÃO SOCIAL DA PROPRIEDADE**
 ## Instrumentos da Polítca Urbana
 
  - IPTU Progressivo no Tempo
+ 
  - Outorga Onerosa do Direito de Construir
- - Transferência do Direito de Construir ZEIS – Zona Especial de
-   Interesse Socia
+ 
+ - Transferência do Direito de Construir 
+
+
+ - ZEIS – Zona Especial de Interesse Social
+
 
  - Direito de Preempção
+
 
  - Direito de Superfície
 
