@@ -28,11 +28,43 @@ Instrumentos urbanístcos de indução da **FUNÇÃO SOCIAL DA PROPRIEDADE**
 
 * IPTU Progressivo no Tempo
 * Outorga Onerosa do Direito de Construir
-* Transferência do Direito de Construir ZEIS – Zona Especial de Interesse Socia
+* Transferência do Direito de Construir 
+* ZEIS – Zona Especial de Interesse Social
 * Direito de Preempção
 * Direito de Superfície
-* Consórcio Imobiliário EIV – Estudo de Impacto de Vizinhança
+* Consórcio Imobiliário 
+* EIV – Estudo de Impacto de Vizinhança
 * Usucapião Especial
+
+## IPTU Progressivo no Tempo
+Consiste no aumento do valor do Imposto Predial e Territorial Urbano (IPTU) cobrado de um imóvel, como sanção pelo descumprimento de condições e prazos para o parcelamento, edificação e utilização compulsória. É instrumento de política urbana, com caráter de sanção de natureza pecuniária.
+
+## [Outorga Onerosa do Direito de Construir](https://wribrasil.org.br/pt/blog/2019/08/o-que-e-outorga-onerosa-do-direito-de-construir)
+A Outorga Onerosa do Direito de Construir nada mais é que uma concessão emitida pelo poder público para que o proprietário do imóvel construa acima do coeficiente básico estabelecido mediante o pagamento de uma contrapartida financeira.
+
+## Transferência do Direito de Construir (TDC)
+A Transferência do Direito de Construir (TDC) é um instrumento urbanístico que tem como objetivo viabilizar a preservação ou implantação de equipamentos e obras de interesse público, a partir da transferência do potencial construtivo para outro imóvel ou comercialização do potencial para outro cidadão.
+
+## ZEIS – Zona Especial de Interesse Social
+Zonas Especiais de Interesse Social, também chamadas de Áreas Especiais de Interesse Social são áreas demarcadas no território de uma cidade, para assentamentos habitacionais de população de baixa renda. Devem estar previstas no Plano Diretor e demarcadas na Lei de Zoneamento, quando houver
+
+## Direito de preempção
+Direito de preempção é a preferência que tem o Poder Público municipal para aquisição de imóvel urbano objeto de alienação onerosa entre particulares.
+
+## Direito de Superfície
+O direito de superfície é um direito real sobre coisa alheia(lote ou gleba), pois sua formação resulta de uma concessão do titular da propriedade para fins de futura edificação (sobre ou sob o solo) ou plantação, que, quando concretizada pelo superficiário (concessionário), converterá o direito inicialmente incorpóreo, em um bem materialmente autônomo à propriedade do solo do concedente”.
+
+## Consórcio Imobiliário 
+O consórcio imobiliário é uma maneira inteligente e planejada de adquirir o imóvel dos sonhos, terrenos ou lotes, urbanos ou rurais, novos ou usados, residenciais ou comerciais, desde que possuam ficha de matrícula própria.
+
+## Estudo de Impacto de Vizinhança (EIV)
+O Estudo de Impacto de Vizinhança (EIV), consiste em um instrumento de grande importância para conciliar os interesses do empreendedor com os direitos da população a uma cidade sustentável.
+
+
+# Usucapião especial
+A usucapião especial urbana também pode ser denominada de usucapião pro moradia ou usucapião pro misero, uma vez que visa beneficiar o possuidor que não é proprietário de nenhum outro imóvel rural ou urbano e ainda, desde que a área seja utilizada para sua moradia ou de sua família.
+
+
 
 ### Conceitos
 
