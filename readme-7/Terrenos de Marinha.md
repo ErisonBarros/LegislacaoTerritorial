@@ -2,13 +2,13 @@
 
 ## Terrenos de Marinha
 
-![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj22VbC8fk8D_jFPXMq1BxjVaT6DL5HZ0Plg&usqp=CAU) ![enter image description here](https://oxereta.com/images/noticia/A5975d66ee7810.jpg)
+![Tereno de Marinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj22VbC8fk8D_jFPXMq1BxjVaT6DL5HZ0Plg&usqp=CAU) ![enter image description here](https://oxereta.com/images/noticia/A5975d66ee7810.jpg)
 
-![enter image description here](https://www.politize.com.br/wp-content/uploads/2021/02/Captura-de-Tela-142.png)
+![Tereno de Marinha](https://www.politize.com.br/wp-content/uploads/2021/02/Captura-de-Tela-142.png)
 
-![enter image description here](http://www2.camara.leg.br/camaranoticias/imagens/imgNoticiaUpload1418387433295.jpg)
+![Tereno de Marinha](http://www2.camara.leg.br/camaranoticias/imagens/imgNoticiaUpload1418387433295.jpg)
 
-![enter image description here](https://regularizacaofundiariamt.com/wp-content/uploads/2020/08/LIMEO.png)
+![Tereno de Marinha](https://regularizacaofundiariamt.com/wp-content/uploads/2020/08/LIMEO.png)
 
 ![enter image description here](https://www.gov.br/economia/pt-br/assuntos/patrimonio-da-uniao/bens-da-uniao/imagens/terrenosmarginais.jpg) Segundo Zanella di Pietro, “Terrenos de marinha são os que, banhados pelas águas do mar ou dos rios navegáveis, vão até a distância de 15 braças craveiras \(33 metros\), para a parte da terra, contadas desde o ponto em que chega o preamar médio \(art. [13](https://www.jusbrasil.com.br/topicos/10609113/artigo-13-do-decreto-n-24643-de-10-de-julho-de-1934) do [Código de Águas](https://www.jusbrasil.com.br/legislacao/91582/c%C3%B3digo-de-%C3%A1guas-decreto-24643-34)\).” \[2\]
 
