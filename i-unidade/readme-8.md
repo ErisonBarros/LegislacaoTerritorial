@@ -1,5 +1,8 @@
 ---
-description: Prof. Erison Barros
+Professor:  Erison Barros
+Assunto: DIREITO DAS COISAS
+pagina: XX
+
 ---
 
 # 1. DIREITO DAS COISAS
