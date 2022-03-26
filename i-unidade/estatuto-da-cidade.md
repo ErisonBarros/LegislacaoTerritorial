@@ -1,7 +1,3 @@
-# Estatuto da Cidade
-
-> Written with [StackEdit](https://stackedit.io/).
-
 ## Estatuto da Cidade
 
 Lei Nº 10.257, de 10/07/2001 Medida Provisória Nº 2.220, de 04/09/2001 MP Nº 103, de 01/01/2003 Conselho das Cidades
