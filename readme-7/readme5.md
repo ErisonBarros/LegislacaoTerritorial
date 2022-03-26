@@ -1,6 +1,3 @@
-# Os Bens
-
-## Os Bens
 
 **Prof. Erison Barros**
 
