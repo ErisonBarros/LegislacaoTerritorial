@@ -32,6 +32,11 @@ Apresentação das práticas de elaboração de planta utilizando o QGis, Topoca
 * [Legislação Ambiental](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/Legisla%C3%A7%C3%A3o%20Ambiental.md)
 * Normas técnicas.
 
+### Contéudo Programatico 
+
+´[Contéudo Programático](https://colab.research.google.com/github/ErisonBarros/LegislacaoTerritorial/blob/master/Summary.ipynb#scrollTo=Waq9aYs1J2K-)
+
+
 ### FORMAS DE AVALIAÇÃO <a id="user-content-formas-de-avalia&#xE7;&#xE3;o"></a>
 
 1º E.E.:  
