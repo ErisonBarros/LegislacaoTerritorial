@@ -32,32 +32,32 @@ Instrumentos urbanístcos de indução da **FUNÇÃO SOCIAL DA PROPRIEDADE**
 * EIV – Estudo de Impacto de Vizinhança
 * Usucapião Especial
 
-## IPTU Progressivo no Tempo
+## [IPTU Progressivo no Tempo](https://blog.brunoorlandi.com.br/como-funciona-e-para-que-serve-o-iptu-progressivo/)
 Consiste no aumento do valor do Imposto Predial e Territorial Urbano (IPTU) cobrado de um imóvel, como sanção pelo descumprimento de condições e prazos para o parcelamento, edificação e utilização compulsória. É instrumento de política urbana, com caráter de sanção de natureza pecuniária.
 
 ## [Outorga Onerosa do Direito de Construir](https://wribrasil.org.br/pt/blog/2019/08/o-que-e-outorga-onerosa-do-direito-de-construir)
 A Outorga Onerosa do Direito de Construir nada mais é que uma concessão emitida pelo poder público para que o proprietário do imóvel construa acima do coeficiente básico estabelecido mediante o pagamento de uma contrapartida financeira.
 
-## Transferência do Direito de Construir (TDC)
+## [Transferência do Direito de Construir (TDC)](https://fau.ufal.br/evento/pluris2016/files/Tema%204%20-%20Planejamento%20Regional%20e%20Urbano/Paper1433.pdf)
 A Transferência do Direito de Construir (TDC) é um instrumento urbanístico que tem como objetivo viabilizar a preservação ou implantação de equipamentos e obras de interesse público, a partir da transferência do potencial construtivo para outro imóvel ou comercialização do potencial para outro cidadão.
 
-## ZEIS – Zona Especial de Interesse Social
+## [ZEIS – Zona Especial de Interesse Social](https://www.lincolninst.edu/publications/working-papers/zonas-especiais-interesse-social-zeis-em-cidades-brasileiras)
 Zonas Especiais de Interesse Social, também chamadas de Áreas Especiais de Interesse Social são áreas demarcadas no território de uma cidade, para assentamentos habitacionais de população de baixa renda. Devem estar previstas no Plano Diretor e demarcadas na Lei de Zoneamento, quando houver
 
-## Direito de preempção
+## [Direito de preempção](https://direitoadm.com.br/direito-de-preempcao/#:~:text=Direito%20de%20preemp%C3%A7%C3%A3o%20%C3%A9%20a,de%20aliena%C3%A7%C3%A3o%20onerosa%20entre%20particulares.)
 Direito de preempção é a preferência que tem o Poder Público municipal para aquisição de imóvel urbano objeto de alienação onerosa entre particulares.
 
-## Direito de Superfície
+## [Direito de Superfície](https://www.irib.org.br/obras/o-direito-de-superficie-na-legislacao-brasileira#:~:text=O%20direito%20de%20superf%C3%ADcie%20%C3%A9,converter%C3%A1%20o%20direito%20inicialmente%20incorp%C3%B3reo%2C)
 O direito de superfície é um direito real sobre coisa alheia(lote ou gleba), pois sua formação resulta de uma concessão do titular da propriedade para fins de futura edificação (sobre ou sob o solo) ou plantação, que, quando concretizada pelo superficiário (concessionário), converterá o direito inicialmente incorpóreo, em um bem materialmente autônomo à propriedade do solo do concedente”.
 
-## Consórcio Imobiliário 
+## [Consórcio Imobiliário](https://www.youtube.com/watch?v=ix7GiNf4k1U&ab_channel=RafaelSeabra)
 O consórcio imobiliário é uma maneira inteligente e planejada de adquirir o imóvel dos sonhos, terrenos ou lotes, urbanos ou rurais, novos ou usados, residenciais ou comerciais, desde que possuam ficha de matrícula própria.
 
-## Estudo de Impacto de Vizinhança (EIV)
+## [Estudo de Impacto de Vizinhança (EIV)](https://www.caubr.gov.br/wp-content/uploads/2017/10/CAPACIDADES4.pdf)
 O Estudo de Impacto de Vizinhança (EIV), consiste em um instrumento de grande importância para conciliar os interesses do empreendedor com os direitos da população a uma cidade sustentável.
 
 
-# Usucapião especial
+# [Usucapião especial](http://mspadv.com.br/artigos-juridicos/usucapiao-especial-urbana#:~:text=A%20usucapi%C3%A3o%20especial%20urbana%20tamb%C3%A9m,moradia%20ou%20de%20sua%20fam%C3%ADlia.)
 A usucapião especial urbana também pode ser denominada de usucapião pro moradia ou usucapião pro misero, uma vez que visa beneficiar o possuidor que não é proprietário de nenhum outro imóvel rural ou urbano e ainda, desde que a área seja utilizada para sua moradia ou de sua família.
 
 
@@ -66,21 +66,21 @@ A usucapião especial urbana também pode ser denominada de usucapião pro morad
 
 > **GESTÃO DEMOCRÁTICA**, garantindo a participação da população urbana em todas as decisões de interesse público.
 
-**A JUSTA DISTRIBUIÇÃO** dos benefícios e dos ônus decorrentes do processo de urbanização.
+> **A JUSTA DISTRIBUIÇÃO** dos benefícios e dos ônus decorrentes do processo de urbanização.
 
-**RECUPERAÇÃO DA VALORIZAÇÃO IMOBILIÁRIA** decorrente dos investimentos públicos em infra-estrutura social e física.
+> **RECUPERAÇÃO DA VALORIZAÇÃO IMOBILIÁRIA** decorrente dos investimentos públicos em infra-estrutura social e física.
 
-**ADEQUAÇÃO DOS INSTRUMENTOS** de política econômica, tributária e financeira e dos gastos públicos aos objetivos do desenvolvimento urbano.
+> **ADEQUAÇÃO DOS INSTRUMENTOS** de política econômica, tributária e financeira e dos gastos públicos aos objetivos do desenvolvimento urbano.
 
-**EVITAR CONFLITOS ENTRE AS ESFERAS DE GOVERNO NA ÁREA URBANÍSTICA**
+> **EVITAR CONFLITOS ENTRE AS ESFERAS DE GOVERNO NA ÁREA URBANÍSTICA**
 
-**GARANTIA DO DIREITO A CIDADES SUTENTÁVEIS**
+> **GARANTIA DO DIREITO A CIDADES SUTENTÁVEIS**
 
-**SIMPLIFICAÇÃO DA LEGISLAÇÃO** de parcelamento, de uso e ocupação do solo
+> **SIMPLIFICAÇÃO DA LEGISLAÇÃO** de parcelamento, de uso e ocupação do solo
 
-**ISONOMIA DE CONDIÇÕES**
+> **ISONOMIA DE CONDIÇÕES**
 
-**O PLANEJAMENTO** como processo construído a partir da participação permanente dos diferentes grupos sociais.
+> **O PLANEJAMENTO** como processo construído a partir da participação permanente dos diferentes grupos sociais.
 
 ### Plano Diretor
 
