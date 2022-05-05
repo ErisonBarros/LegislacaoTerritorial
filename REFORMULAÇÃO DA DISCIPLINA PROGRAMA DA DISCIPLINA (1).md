@@ -19,36 +19,37 @@ Aulas teóricas expositivas com debates. Realização de palestras com especiali
 dirigidos com apresentação de Seminários e produção de textos.
 
 # CONTEÚDO PROGRAMÁTICO
-1. Contexto do Direito na Engenharia
+**1. Contexto do Direito na Engenharia**
 
-    1.1 Função Social do Engenheiro
-
-    1.2 Ética profissional
+- 1.1 Função Social do Engenheiro
+- 1.2 Ética profissional
     
-2. Ordenamento jurídico
+**2. Ordenamento jurídico**
 
-    2.1 Normas e relações jurídicas
+- 2.1 Normas e relações jurídicas
 
-    2.2 Legislação e normas jurídicas brasileiras - Constituição Federal, Código Civil,
+- 2.2 Legislação e normas jurídicas brasileiras - Constituição Federal, Código Civil,
 
-3. Direitos Reais e Pessoais
-4. Posse
-5. Propriedade
+**3. Direitos Reais e Pessoais**
 
-    5.1 Propriedade imobiliária
+**4. Posse**
 
-    5.2 Propriedade urbana
+**5. Propriedade**
 
-    5.3 Propriedade agrária
+- 5.1 Propriedade imobiliária
 
-6. Aspectos da legislação territorial
-7. Aspectos da legislação ambiental
-8. Aspectos da legislação agrária
-9. Aspectos da legislação urbanística
-10. Registros públicos
-11. Registro de Imóveis
-12. Aspectos da legislação tributária
-13. Aspectos da legislação trabalhista
+- 5.2 Propriedade urbana
+
+- 5.3 Propriedade agrária
+
+**6. Aspectos da legislação territorial**
+**7. Aspectos da legislação ambiental**
+**8. Aspectos da legislação agrária **
+**9. Aspectos da legislação urbanística
+**10. Registros públicos
+**11. Registro de Imóveis
+**12. Aspectos da legislação tributária
+**13. Aspectos da legislação trabalhista
 
 # BIBLIOGRAFIA BÁSICA
 
