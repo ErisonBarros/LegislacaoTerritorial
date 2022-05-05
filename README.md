@@ -37,7 +37,6 @@ Apresentação das práticas de elaboração de planta utilizando o QGis, Topoca
 * Direito Civil;
 * Direito Urbanístico
 * Direito Agrário
-* Direito Urbanísticos
 * Direito Agrário;
 * [Legislação Cartográfica](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/Colet%C3%A2nea%20com%20a%20Legisla%C3%A7%C3%A3o%20da%20Cartografia%20Nacional.md);
 * [Legislação Profissional](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/Colet%C3%A2nea%20com%20a%20Legisla%C3%A7%C3%A3o%20da%20Cartografia%20Nacional.md);
