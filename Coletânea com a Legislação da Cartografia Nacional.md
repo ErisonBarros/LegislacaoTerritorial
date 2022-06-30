@@ -14,7 +14,23 @@ Lista com Leis, Decretos e Resoluções referentes à Legislação da Cartografi
 
 [Resolução PR n° 04, de 18 de Abril de 2012:](https://inde.gov.br/pdf/RPR04_de_18_04_2012.pdf) Caracterização do Sistema Geodésico Brasileiro.
 
-[Resolução CONCAR 001/2009 de dezembro de 2009:](https://esteio.com.br/downloads/legislacao/Resolucao_1_2009_CONCAR_Metadados.pdf) Homologa o Perfil de Metadados Geoespaciais do Brasil
+[RPR 23/1989:](https://inde.gov.br/pdf/rpr_2389.pdf)Parâmetros para Transformação de Sistemas Geodésicos
+
+[RPR – 001/2005:](https://inde.gov.br/pdf/RPR_01_25fev2005.pdf)Altera a caracterização do Sistema Geodésico Brasileiro 
+
+[RPR – 004/2012:](https://inde.gov.br/pdf/RPR04_de_18_04_2012.pdf)
+
+[RPR – 001/2008:](https://inde.gov.br/pdf/padronizacao_marcos_geodesicos.pdf)Padronização de Marcos Geodésicos 
+
+[RPR 22/1983:](https://inde.gov.br/pdf/bservico1602.pdf)Especificações e Normas Gerais para Levantamentos Geodésicos
+
+[RPR 5/1993:](https://inde.gov.br/pdf/normas_gps.pdf) Especificações e Normas Gerais para Levantamentos GPS (preliminar)
+
+[Resolução CONCAR 001/2009 de dezembro de 2009:](https://www.normasbrasil.com.br/norma/resolucao-1-2009_111500.html) Homologa o Perfil de Metadados Geoespaciais do Brasil
+
+[RPR – 001/2015:](https://inde.gov.br/pdf/rpr_01_2015_sirgas2000.pdf)Define a data de término do período de transição definido na RPR 01/2005 e dá outras
+providências sobre a transformação entre os referenciais geodésicos adotados no Brasil.
+
 
 [Decreto N° 6.666, de 27 de novembro de 2008](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Decreto/D6666.htm). Institui no âmbito do Poder Executivo Federal, a Infraestrutura Nacional de Dados Espaciais \(INDE\).
 
