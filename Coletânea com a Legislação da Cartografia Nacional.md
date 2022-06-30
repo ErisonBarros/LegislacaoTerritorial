@@ -44,7 +44,7 @@ providências sobre a transformação entre os referenciais geodésicos adotados
 
 ### Decretos
 
-[Decreto s/n°, de 10 de Maio de 2000](https://esteio.com.br/downloads/legislacao/LEGISLA_DECRETO_10_D.pdf). Dispõe sobre a Comissão Nacional de Cartografia – CONCAR, e dá outras providências.
+[Decreto s/n°, de 10 de Maio de 2000](https://geoftp.ibge.gov.br/metodos_e_outros_documentos_de_referencia/normas/legislacao/legisla_decreto_10_d.pdf). Dispõe sobre a Comissão Nacional de Cartografia – CONCAR, e dá outras providências.
 
 [Portaria n° 0637 SC-6/FA-61, de 05 de Março de 1998](https://esteio.com.br/downloads/legislacao/_portaria0637.pdf).Aprova as Instruções Reguladoras de Aerolevantamento no território nacional. 
 
