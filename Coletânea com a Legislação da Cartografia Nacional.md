@@ -34,7 +34,7 @@ providências sobre a transformação entre os referenciais geodésicos adotados
 
 [Decreto N° 6.666, de 27 de novembro de 2008](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Decreto/D6666.htm). Institui no âmbito do Poder Executivo Federal, a Infraestrutura Nacional de Dados Espaciais \(INDE\).
 
-[Resolução PR n° 01, de 25 de Fevereiro de 2005:](https://esteio.com.br/downloads/legislacao/RPR_01_25fev2005.pdf) Caracterização do Sistema Geodésico Brasileiro.
+[Resolução PR n° 01, de 25 de Fevereiro de 2005:](https://geoftp.ibge.gov.br/metodos_e_outros_documentos_de_referencia/normas/rpr_01_2015_sirgas2000.pdf) Caracterização do Sistema Geodésico Brasileiro.
 
 ### Portarias
 
