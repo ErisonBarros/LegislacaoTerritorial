@@ -42,17 +42,17 @@ providências sobre a transformação entre os referenciais geodésicos adotados
 
 [Portaria n° 190/GC-5, de 20 Março de 2001](https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/portarias-2001/portaria-no-0190-gc5-de-20-03-2001/@@display-file/arquivo_norma/port190GC5.pdf) Aprova Instruções Reguladoras para autorização e funcionamento de empresas de táxi aéreo e de serviço aéreo especializado e dá outras providências.
 
+[Portaria n° 0637 SC-6/FA-61, de 05 de Março de 1998](http://www.esteio.com.br/downloads/legislacao/_portaria0637.pdf).Aprova as Instruções Reguladoras de Aerolevantamento no território nacional. 
+
 ### Decretos
 
 [Decreto s/n°, de 10 de Maio de 2000](https://geoftp.ibge.gov.br/metodos_e_outros_documentos_de_referencia/normas/legislacao/legisla_decreto_10_d.pdf). Dispõe sobre a Comissão Nacional de Cartografia – CONCAR, e dá outras providências.
-
-[Portaria n° 0637 SC-6/FA-61, de 05 de Março de 1998](https://esteio.com.br/downloads/legislacao/_portaria0637.pdf).Aprova as Instruções Reguladoras de Aerolevantamento no território nacional. 
 
 [Decreto n° 2.278, de 17 de Julho de 1997](https://esteio.com.br/downloads/legislacao/_decreto2278.pdf). Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério do Planejamento, Orçamento e Gestão, e dá outras providências.
 
 [Decreto n° 1.792, de 15 de Janeiro de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=13). Aprova as Instruções Reguladoras de Aerolevantamento no território nacional.
 
-[Decreto s/n°, de 21 de Junho de 1994](https://esteio.com.br/downloads/legislacao/LEGISLA_CONCAR_1994_D.pdf). Cria a Comissão Nacional de Cartografia – CONCAR, e dá outras providências.
+[Decreto s/n°, de 21 de Junho de 1994](http://geoftp.ibge.gov.br/metodos_e_outros_documentos_de_referencia/normas/legislacao/legisla_concar_1994_d.pdf). Cria a Comissão Nacional de Cartografia – CONCAR, e dá outras providências.
 
 [Resolução PR n° 05, de 31 de Março de 1993:](https://esteio.com.br/downloads/legislacao/normas_gps.pdf) Especificações e Normas Gerais para Levantamentos GPS \(preliminares\)
 
