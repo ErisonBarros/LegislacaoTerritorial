@@ -12,7 +12,7 @@ Lista com Leis, Decretos e Resoluções referentes à Legislação da Cartografi
 
 [Resolução PR n° 01, de 24 de Fevereiro de 2015:](https://geoftp.ibge.gov.br/metodos_e_outros_documentos_de_referencia/normas/rpr_01_2015_sirgas2000.pdf) Define a data de término do período de transição definido na RPR 01/2005 e dá outras providências sobre a transformação entre os referenciais geodésicos adotados no Brasil.
 
-[Resolução PR n° 04, de 18 de Fevereiro de 2012:](https://esteio.com.br/downloads/legislacao/RPR04_de_18_04_2012.pdf) Caracterização do Sistema Geodésico Brasileiro.
+[Resolução PR n° 04, de 18 de Abril de 2012:](https://inde.gov.br/pdf/RPR04_de_18_04_2012.pdf) Caracterização do Sistema Geodésico Brasileiro.
 
 [Resolução CONCAR 001/2009 de dezembro de 2009:](https://esteio.com.br/downloads/legislacao/Resolucao_1_2009_CONCAR_Metadados.pdf) Homologa o Perfil de Metadados Geoespaciais do Brasil
 
