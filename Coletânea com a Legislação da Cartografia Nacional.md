@@ -10,7 +10,7 @@ Lista com Leis, Decretos e Resoluções referentes à Legislação da Cartografi
 
 ### Resolução
 
-[Resolução PR n° 01, de 24 de Fevereiro de 2015:](https://esteio.com.br/downloads/legislacao/rpr_01_2015_sirgas2000.pdf) Define a data de término do período de transição definido na RPR 01/2005 e dá outras providências sobre a transformação entre os referenciais geodésicos adotados no Brasil.
+[Resolução PR n° 01, de 24 de Fevereiro de 2015:](https://geoftp.ibge.gov.br/metodos_e_outros_documentos_de_referencia/normas/rpr_01_2015_sirgas2000.pdf) Define a data de término do período de transição definido na RPR 01/2005 e dá outras providências sobre a transformação entre os referenciais geodésicos adotados no Brasil.
 
 [Resolução PR n° 04, de 18 de Fevereiro de 2012:](https://esteio.com.br/downloads/legislacao/RPR04_de_18_04_2012.pdf) Caracterização do Sistema Geodésico Brasileiro.
 
