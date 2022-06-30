@@ -38,9 +38,9 @@ providências sobre a transformação entre os referenciais geodésicos adotados
 
 ### Portarias
 
-[Portaria DECEA n° 128/DECEA, de 10 de Junho de 2003](https://esteio.com.br/downloads/legislacao/_ica63-13.pdf). Aprova a edição da Instrução do Comando da Aeronáutica ICA 63-13, Procedimentos dos órgãos do SISCEAB Relacionados com AVOEM e AVODAC.
+[Portaria DECEA n° 128/DECEA, de 10 de Junho de 2003](https://www.esteio.com.br/downloads/legislacao/_ica63-13.pdf). Aprova a edição da Instrução do Comando da Aeronáutica ICA 63-13, Procedimentos dos órgãos do SISCEAB Relacionados com AVOEM e AVODAC.
 
-[Portaria n° 190/GC-5, de 20 Março de 2001](https://esteio.com.br/downloads/legislacao/_portaria190.pdf) Aprova Instruções Reguladoras para autorização e funcionamento de empresas de táxi aéreo e de serviço aéreo especializado e dá outras providências.
+[Portaria n° 190/GC-5, de 20 Março de 2001](https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/portarias-2001/portaria-no-0190-gc5-de-20-03-2001/@@display-file/arquivo_norma/port190GC5.pdf) Aprova Instruções Reguladoras para autorização e funcionamento de empresas de táxi aéreo e de serviço aéreo especializado e dá outras providências.
 
 ### Decretos
 
