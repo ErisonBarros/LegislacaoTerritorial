@@ -1,10 +1,11 @@
 # DIREITO DAS COISAS
-
+----------------------------------------------------------------------------------------------------------------------
 ## DIREITO DAS COISAS
+-----------------------------------------------------------------------------------------------------------------------
 
 **Direito das Coisas:** conjunto de normas regulamentadoras das relações entre pessoas e os bens materiais. A relação do sujeito com a coisa pode ser de: posse e propriedade.
 
-**Posse: r**elação de fato entre o sujeito e a coisa, efeitos na órbita do direito, juridicamente protegida se exercida a justo título ou de boa-fé.
+**Posse:01r**elação de fato entre o sujeito e a coisa, efeitos na órbita do direito, juridicamente protegida se exercida a justo título ou de boa-fé.
 
 **Justo título:** possuidor mantém a coisa mediante título hábil a conferir direito e outorgado pelo verdadeiro possuidor ou proprietário. 
 
