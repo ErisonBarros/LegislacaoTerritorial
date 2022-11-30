@@ -25,14 +25,6 @@ A legislação ambiental exerce um papel fundamental quando o assunto é desenvo
 
 As mudanças climáticas são fruto das ações antrópicas e, principalmente, das empresas e pessoas. Muitas delas possuem processos de produção que não seguem boas práticas e prejudicam o meio ambiente. Derramamento de petróleo nos mares e oceanos, a emissão de gases poluentes e o descarte incorreto de resíduos são alguns exemplos de malefícios causados por empresas aos ecossistemas. Para evitar danos como estes é que existe uma legislação ambiental. 
 
-### **O que é a legislação ambiental e para que ela serve?**
-
-A legislação ambiental consiste em leis, decretos e resoluções que visam o estabelecimento de regras para o funcionamento de empresas e também a conduta do cidadão em relação ao meio ambiente. Estes dispositivos legais ainda definem atos de infrações e punições em caso de não cumprimento das leis.
-
-Municípios, estados e governo federal podem editar suas próprias normas ambientais. Entretanto, os dois primeiros precisam seguir as diretrizes dadas em âmbito federal.
-
-A legislação ambiental exerce um papel fundamental quando o assunto é desenvolvimento sustentável. Pois, ela é uma forma legal de exigir que as empresas adéqüem suas práticas tendo em vista a preservação dos recursos naturais. Além de evitar malefícios à natureza e à comunidade que mora no entorno dos locais de produção das organizações, a adequação à legislação ambiental beneficia diretamente a imagem das empresas. Os consumidores estão cada vez mais conscientes e, por isso, buscam adquirir produtos de empresas ecologicamente corretas.
-
 ### **Legislação ambiental: quais são suas principais leis e normas?**
 
 A legislação ambiental é bem abrangente e se aplica à operação de empresas que possuem um potencial poluidor. Confira alguns exemplos de leis e normas desta legislação específica:
