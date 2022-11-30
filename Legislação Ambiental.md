@@ -8,12 +8,13 @@ Fonte: http://r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislaca
 
 É conjunto de normas jurídicas que se destinam a disciplinar a atividade humana, para torná-la compatível com a proteção do meio ambiente. A legislação ambiental brasileira, para atingir seus objetivos de preservação, criou **direitos**  e  **deveres** para o cidadão.
 
-* *Lei 9.605 / 98  -* Uma chamada Lei de Crimes Ambientais. Definir, em seu artigo 60, como crime ambiental passível de detenção, multa ou ambos, cumulativamente, a prática de atividades potencialmente poluidoras sem o devido licenciamento ambiental. 
+* *Lei 9.605 / 98  -* chamada Lei de Crimes Ambientais. Definir, em seu artigo 60, como crime ambiental passível de detenção, multa ou ambos, cumulativamente, a prática de atividades potencialmente poluidoras sem o devido licenciamento ambiental. 
 
 Fonte: http://r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf
 
 
 ### **O que é a legislação ambiental e para que ela serve?**
+
 A legislação ambiental consiste em leis, decretos e resoluções que visam o estabelecimento de regras para o funcionamento de empresas e também a conduta do cidadão em relação ao meio ambiente. Estes dispositivos legais ainda definem atos de infrações e punições em caso de não cumprimento das leis.
 
 Municípios, estados e governo federal podem editar suas próprias normas ambientais. Entretanto, os dois primeiros precisam seguir as diretrizes dadas em âmbito federal.
